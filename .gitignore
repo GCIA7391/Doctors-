@@ -1,4 +1,2 @@
-state/results/
-batches/*.xlsx
 __pycache__/
 *.pyc
