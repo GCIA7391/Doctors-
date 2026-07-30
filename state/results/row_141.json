@@ -1,0 +1,50 @@
+{
+  "row_id": 141,
+  "name": "Dr Bala Krishna P",
+  "specialization": "Anaesthesiology - anaesthesia for surgery, pain management, critical care, preoperative assessment, emergency care",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Apollo corporate anaesthesiology profile: https://www.apollohospitals.com/corporate/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p | myUpchar (corroborating, URL path states kanchanbagh): https://www.myupchar.com/en/doctors/hyderabad/kanchanbagh/anaesthesiology/dr-bala-krishna-p-117119 | HexaHealth (corroborating): https://www.hexahealth.com/hyderabad/doctor/dr-bala-krishna-p-anaesthesiology | Apollo Hospitals DRDO Kanchanbagh hospital page: https://www.myupchar.com/en/hospitals/hyderabad/apollo-drdo-hospital-1144",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Anaesthesiologist, Apollo Hospitals DRDO, Kanchanbagh, Hyderabad (DMRL Cross Road, Kanchanbagh, Hyderabad 500058)",
+  "verified_experience": "30 years (matches the source row's 30+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Qualifications MBBS, DA, DNB (Anaesthesia). Thirty years in practice. Has participated in research work and workshops within the Anaesthesiology department and published multiple papers - though no ORCID, Google Scholar or ResearchGate profile surfaced to index them. Anaesthesiology is a salaried hospital-based specialty rather than a high-fee private-practice one, and no leadership title or practice ownership was found, so this row carries fewer standing signals than the surgical rows in this dataset.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p\ncity: https://www.myupchar.com/en/doctors/hyderabad/kanchanbagh/anaesthesiology/dr-bala-krishna-p-117119\nhospital_profile: https://www.apollohospitals.com/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p\nother_profiles: https://www.apollohospitals.com/corporate/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p\nverified_role: https://www.myupchar.com/en/doctors/hyderabad/kanchanbagh/anaesthesiology/dr-bala-krishna-p-117119\nverified_experience: https://www.apollohospitals.com/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p\nhni_signals: https://www.apollohospitals.com/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p\nconfidence_band: https://www.apollohospitals.com/doctors/anaesthesiology/hyderabad/dr-bala-krishna-p",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on five input facts: name 'Dr Bala Krishna P', Anaesthesiology specialty, Apollo Hospitals, the DRDO KANCHANBAGH unit, and the 30 years experience figure, which matches the source row's 30+ Years exactly with no discrepancy. Band held at MEDIUM: apollohospitals.com is the only official domain (two pages) and no Apollo247 page surfaced for him, which is normal for anaesthesiologists since they do not take outpatient bookings. DRDO KANCHANBAGH UNIT is confirmed but by DIRECTORY sources rather than Apollo's own pages: myUpchar's URL path contains /kanchanbagh/, JustDial titles his page 'Dr. Bala Krishna P (Apollo Drdo Hospital) in Kanchan Bagh', and the published address DMRL Cross Road, Kanchanbagh 500058 is the DRDO unit's address. The band rests on the official-domain identity match, not the directories. APPOINTMENT LINK LEGITIMATELY BLANK: anaesthesiologists do not run outpatient clinics, so no per-doctor booking page exists and none was invented. The practical route for this row is the Apollo DRDO unit's own contact page - note that this unit has a reception line distinct from the Jubilee Hills switchboard, so the automatic Apollo group fallback in the indirect fields is approximate for him. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output, and the JustDial number was not recorded because JustDial numbers are call-tracking proxies. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
