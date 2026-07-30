@@ -1,0 +1,50 @@
+{
+  "row_id": 847,
+  "name": "Dr. K S Kiran",
+  "specialization": "Neurosurgery - skull base, vascular and minimally invasive neurosurgery",
+  "city": "Secunderabad (Hyderabad)",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/online-doctor-consultation/product/dr-k-s-kiran/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Second Yashoda official page (Consultant Neurosurgeon): https://www.yashodahospitals.com/product/dr-k-s-kiran/ | Yashoda Secunderabad doctor listing: https://www.yashodahospitals.com/locations/secunderabad/doctors/ | Skedoc (corroborating): https://www.skedoc.com/hyderabad/doctor/dr-k-s-kiran-neuro-surgeon | MediBuddy (corroborating, lists him as Secunderabad neurosurgeon): https://www.medibuddy.in/doctor-consultations/secunderabad/neurosurgeon/dr-k-s-kiran-251992",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Neurosurgeon, Yashoda Hospitals Secunderabad. Formerly Assistant Professor at Nizam's Institute of Medical Sciences (NIMS) and Senior Consultant at MGM Hospital, Warangal.",
+  "verified_experience": "21 years (matches the source row's 21 Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Academic pedigree and international training: MBBS Kakatiya Medical College Warangal, MS General Surgery and MCh Neurosurgery from Osmania University, fellowship at Osaka University Japan under Prof. Dr. Ohata. Former Assistant Professor at NIMS. Sub-specialises in skull base and vascular neurosurgery - among the most complex and highest-fee neurosurgical work. Registered with the Telangana State Medical Council; has presented papers at national and international fora.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/\ncity: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/\nhospital_profile: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/\nappointment_link: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-k-s-kiran/\nother_profiles: https://www.yashodahospitals.com/product/dr-k-s-kiran/\nverified_role: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/\nverified_experience: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/\nhni_signals: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/\nconfidence_band: https://www.yashodahospitals.com/doctor/secunderabad/neuro-surgery/dr-k-s-kiran/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Initial-heavy name resolved rather than punted. Identity matched on four input facts: name 'Dr. K S Kiran', Neurosurgeon specialty, Yashoda Hospitals, and the SECUNDERABAD branch - explicit in the official URL path /doctor/secunderabad/neuro-surgery/dr-k-s-kiran/ - plus the experience figure of 21 years, which matches the source row exactly with no discrepancy. Band held at MEDIUM rather than High: yashodahospitals.com supplies four separate pages for him, but it is only ONE official domain, and the remaining corroboration (Skedoc, MediBuddy, HexaHealth) is directory-grade, which per the rubric cannot lift a row to High. The appointment_link is a genuine doctor-specific booking page on the hospital's own online-consultation path, not a generic hospital appointment page. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output; Yashoda routes per-doctor contact through its booking flow, so the Yashoda Secunderabad route in the indirect fields is the correct next step. His published OPD hours are Mon-Sat 09:00-16:00, which is useful timing context for any approach. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
