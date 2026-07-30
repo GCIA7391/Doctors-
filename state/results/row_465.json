@@ -1,0 +1,49 @@
+{
+  "row_id": 465,
+  "name": "Dr. CH Sai Amrut Sagar",
+  "specialization": "Cardiac Surgery (per input row; not independently confirmed in search output)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "CARE Hospitals Nampally cardiac surgery department doctor listing (branch-level, not a per-doctor page)",
+  "indirect_details": "The matching branch + specialty listing page is https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/cardiac-surgery (CARE Hospital Nampally, Cardiac Surgery). The group-level cardiac surgeon index is https://www.carehospitals.com/doctor-list/hyderabad/speciality/cardiac-surgeons . Neither page was confirmed to carry this doctor's name in the search output itself, so this is a department-level route only; use the hospital-level fallback for CARE Nampally.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "city: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/cardiac-surgery\nspecialization: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/cardiac-surgery\nindirect_method: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/cardiac-surgery\nindirect_details: https://www.carehospitals.com/doctor-list/hyderabad/speciality/cardiac-surgeons\nconfidence_band: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/cardiac-surgery",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "Four WebSearch queries run ('Dr. CH Sai Amrut Sagar' + CARE + cardiac surgery + Hyderabad; 'Sai Amrut Sagar' + Nampally + carehospitals.com/doctor; 'Sai Amrut Sagar' cardiothoracic surgeon Hyderabad profile; 'Amruth Sagar' OR 'Amrut Sagar' cardiac surgery Nampally). NO per-doctor page for this doctor is indexed on carehospitals.com or anywhere else - the name did NOT appear verbatim in any result title, URL or snippet. The WebSearch synthesised summary repeatedly ASSERTED that he is 'listed among the cardiac surgeons at CARE Hospitals', but that assertion is not backed by any indexed page I actually saw, so under the exact-phrase / no-fabrication rules I have recorded nothing from it and left hospital_profile blank rather than construct a carehospitals.com/doctor/hyderabad/nampally/... URL from the known pattern. Per section 4, CARE's index coverage is incomplete, so this missing page is NOT evidence of a stale affiliation - I conclude 'not indexed', not 'no longer at CARE'. Sibling doctors at the same branch DO have indexed per-doctor pages (e.g. Dr. G. Usha Rani and Dr. Syed Nasheed Ali, both /doctor/hyderabad/nampally/...), which shows the branch is indexed even though this doctor is not. No email, phone, LinkedIn, clinic, ownership or procedure-volume evidence found. CARE's central switchboard +91-40-68106529 and the HITEC City line 040 6810 6527 were NOT recorded - they are group/branch numbers, not this doctor's line. Human should confirm current affiliation and branch directly with CARE Nampally."
+}
