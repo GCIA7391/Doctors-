@@ -138,6 +138,36 @@ Budget guidance: **3–6 searches per doctor**. If two well-chosen queries retur
 nothing that matches, record what you have, set the band honestly, and move on —
 do not burn ten searches on an unfindable person.
 
+### MANDATORY: confirm any email or phone with an exact-phrase search
+
+WebSearch returns a *synthesised summary* alongside the real results. That
+summary is written by a model and **can assert a contact detail that exists on
+no indexed page** — it may be stitched together from a pattern. Recording such a
+value would be fabrication laundered through a tool.
+
+So whenever a summary gives you an email or phone you want to record:
+
+1. Run a second search for the value **in quotes**, e.g.
+   `"drname@hospital.edu"` or `"040 1234 5678" "Dr Name"`.
+2. Record it **only** if that exact string comes back attached to a real
+   indexed page belonging to the doctor or their institution.
+3. If nothing comes back, **discard it** and say so in `notes`.
+
+This has already caught a real case: a summary asserted an `@aims.amrita.edu`
+address for a doctor, and the exact-phrase follow-up found it on no page
+anywhere. It was correctly discarded. Treat every summary-sourced contact as
+unconfirmed until you have done step 1.
+
+Numbers to reject outright, no follow-up needed:
+- JustDial and similar directory numbers — these are **call-tracking proxies**,
+  not the doctor's line.
+- Anything labelled "Cell" or "Mobile", or in a mobile numbering series, when
+  the brief calls for an institutional line.
+- Aggregator helplines (HexaHealth, Practo, Curofy, medical-tourism catalogues)
+  — these reach the aggregator, not the doctor.
+- Any list-scrape source such as a "doctors mobile numbers" document.
+- A hospital's central booking line recorded as if it were the doctor's own.
+
 ### Two under-used source types that pay off
 
 - **`healinindia.gov.in`** — the Government of India's Advantage Healthcare
