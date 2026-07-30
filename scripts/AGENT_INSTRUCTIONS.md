@@ -239,6 +239,22 @@ ORCID, or Google Scholar.
 **Corroborating only** (never enough on their own for `High`) = Practo, Lybrate,
 Skedoc, HexaHealth, JustDial, MyUpchar, Vaidam, ResearchGate, Doximity.
 
+**A doctor's own website, clinic site, or LinkedIn is NOT an official source.**
+These are *primary self-published* sources: excellent evidence of identity and
+often the best route to a real contact, but they are not independent of the
+person, so they can never be the second source that earns `High`. A doctor
+confirmed by their hospital plus their own site is `Medium`. This is the single
+most common banding mistake — it has already had to be corrected once, and
+inconsistent bands make the whole column useless for comparison.
+
+Corollary: a hospital group's several domains are also ONE source. All of
+apollohospitals.com, apollo247.com, askapollo.com and apolloclinic.com together
+count once. `High` genuinely requires something independent — another hospital,
+a government registry (`healinindia.gov.in`, NMC/TSMC), a university, ORCID or
+Google Scholar. In this dataset the government directory is very often the only
+independent source available, so it is worth one query whenever a row is
+otherwise stuck at `Medium`.
+
 If the band would be `Low` or `Unknown`, set `status` to `"Needs Human Review"`
 and keep only the fields you are certain of.
 
