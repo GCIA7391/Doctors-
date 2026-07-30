@@ -1,0 +1,50 @@
+{
+  "row_id": 150,
+  "name": "Dr S V Prashanthi Raju",
+  "specialization": "Internal Medicine and Preventive Medicine - health screening, adult vaccination, chronic disease management, diabetes, thyroid disorders, women's health",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-S%20V%20Prashanthi-Raju-88b4507f-7229-4a58-9bdb-4ae5a10fb312",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/preventive-medicine/hyderabad/dr-s-v-prashanthi-raju",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-S%20V%20Prashanthi-Raju-88b4507f-7229-4a58-9bdb-4ae5a10fb312",
+  "lybrate": "",
+  "other_profiles": "AskApollo booking page whose title names the unit verbatim ('Apollo Health City Jubilee Hills'): https://www.askapollo.com/doctors/general-physician/hyderabad/dr-s-v-prashanthi-raju",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "General Physician / Internal Medicine and Preventive Medicine Specialist, Apollo Health City, Jubilee Hills, Hyderabad. Formerly Associate Professor of Medicine at AIMSR Hyderabad (2015-2020).",
+  "verified_experience": "27+ years (matches the source row's 27+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Qualifications MBBS, MD General Medicine (Osmania Medical College), PGDDM. Held an academic post as Associate Professor of Medicine at AIMSR Hyderabad from 2015 to 2020 alongside consultant roles at multiple hospitals - a teaching appointment is a public standing signal. Practice is weighted towards preventive medicine and executive health screening, which in Indian private practice is typically a high-value, self-paying patient segment. Recommended by 158 patients at an 82% score.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/preventive-medicine/hyderabad/dr-s-v-prashanthi-raju\ncity: https://www.askapollo.com/doctors/general-physician/hyderabad/dr-s-v-prashanthi-raju\nhospital_profile: https://www.apollohospitals.com/doctors/preventive-medicine/hyderabad/dr-s-v-prashanthi-raju\nappointment_link: https://www.apollo247.com/doctors/dr-S%20V%20Prashanthi-Raju-88b4507f-7229-4a58-9bdb-4ae5a10fb312\ndirectory_profile: https://www.apollo247.com/doctors/dr-S%20V%20Prashanthi-Raju-88b4507f-7229-4a58-9bdb-4ae5a10fb312\nother_profiles: https://www.askapollo.com/doctors/general-physician/hyderabad/dr-s-v-prashanthi-raju\nverified_role: https://www.askapollo.com/doctors/general-physician/hyderabad/dr-s-v-prashanthi-raju\nverified_experience: https://www.apollohospitals.com/doctors/preventive-medicine/hyderabad/dr-s-v-prashanthi-raju\nhni_signals: https://www.apollohospitals.com/doctors/preventive-medicine/hyderabad/dr-s-v-prashanthi-raju\nconfidence_band: https://www.apollohospitals.com/doctors/preventive-medicine/hyderabad/dr-s-v-prashanthi-raju",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Initial-heavy name resolved cleanly rather than punted to Ambiguous. Identity matched on five input facts: name 'Dr S V Prashanthi Raju', Internal Medicine specialty, Apollo Hospitals, the APOLLO HEALTH CITY JUBILEE HILLS unit - named verbatim in the AskApollo page title - and the 27+ years figure, which matches the source row exactly with no discrepancy. Band High: two independent official domains agree (apollohospitals.com and apollo247.com), with AskApollo, also Apollo's own booking platform, supplying the explicit unit. SPECIALIZATION REFINED: the source row says 'Internal Medicine'; Apollo files her under PREVENTIVE MEDICINE and her stated focus is health screening, vaccination and lifestyle/chronic-disease management. Both are recorded so the row is not misleading about what she actually does - this matters for outreach, since preventive-medicine and executive-health practice is a different context from acute internal medicine. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output; the Apollo247 page is a genuine per-doctor booking route. A banglahealthconnect.com listing also appeared but medical-tourism aggregators were not treated as a source. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
