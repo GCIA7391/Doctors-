@@ -40,7 +40,7 @@ REQUESTED_COLUMNS = [
 # --- original source data + audit + prior prospecting enrichment -------------
 APPENDED_COLUMNS = [
     # original rows preserved
-    "Experience", "Address",
+    "Experience", "Address", "Experience Discrepancy",
     # audit trail
     "Verification Method", "Status", "Enriched On",
     # prioritisation (heuristic, public-seniority signals only)
@@ -87,6 +87,7 @@ RESULT_KEY_TO_COLUMN = {
     "sources": "Sources Used",
     "notes": "Notes",
     "verification_method": "Verification Method",
+    "experience_discrepancy": "Experience Discrepancy",
     "status": "Status",
     "enriched_on": "Enriched On",
     # --- prior prospecting enrichment (kept) ---

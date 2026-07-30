@@ -57,7 +57,7 @@ WIDTHS = {
     "Verified Experience": 22, "Owns Clinic/Practice": 11, "HNI Signals": 40,
     "Practo Profile": 34, "Apollo247/Directory Profile": 40,
     "Lybrate Profile": 30, "Other Professional Profiles": 34,
-    "Review Reason": 44,
+    "Review Reason": 44, "Experience Discrepancy": 46,
 }
 
 HYD_LOCALITIES = ["hyderabad", "secunderabad", "jubilee hills", "banjara hills",
@@ -184,12 +184,15 @@ def main():
             reasons.append("Insufficient public info to verify confidently")
         if r["_researched"] and r["Confidence Score"] == CONF_LOW:
             reasons.append("Partial match only (Low confidence)")
+        if r["Experience Discrepancy"]:
+            reasons.append("Source experience contradicts published profile")
         if reasons:
             rr = dict(r)
             rr["Review Reason"] = "; ".join(reasons)
             review_rows.append(rr)
     rcols = ["Doctor Name", "Specialization", "Hospital", "Department", "City",
              "Review Reason", "Confidence Score", "Status",
+             "Experience", "Experience Discrepancy",
              "Hospital Profile URL", "Best Way To Reach", "Notes",
              "Priority Rank"]
     write_grid(wb.create_sheet("Duplicates & Manual Review"), rcols, review_rows)
@@ -215,6 +218,7 @@ def main():
     n_ambiguous = sum(1 for r in rows if r["Status"] == STATUS_AMBIGUOUS)
     n_review = sum(1 for r in rows if r["Status"] == STATUS_REVIEW)
     dup_rows = sum(1 for r in rows if r["Doctor Name"].strip().lower() in dup_names)
+    n_exp_disc = sum(1 for r in rows if r["Experience Discrepancy"])
     n_page = sum(1 for r, _ in researched if r["Verification Method"] == VERIFY_PAGE)
     n_search = sum(1 for r, _ in researched if r["Verification Method"] == VERIFY_SEARCH)
 
@@ -244,6 +248,7 @@ def main():
         ("Duplicate names detected (distinct names)", len(dup_names), False),
         ("Rows affected by duplicate names", dup_rows, False),
         ("Ambiguous identities requiring manual review", n_ambiguous, False),
+        ("Source experience contradicts published profile (>3 yrs)", n_exp_disc, False),
         ("Rows flagged 'Needs Human Review'", n_review, False),
         ("Total rows on the manual-review sheet", len(review_rows), False),
         ("", "", False),

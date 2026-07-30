@@ -340,7 +340,31 @@ def derive(rec, res, table):
         d["sources"] = ""
 
     d["official_source_count"] = official_source_count(r) if res else 0
+    d["experience_discrepancy"] = experience_discrepancy(rec, res)
     return d
+
+
+def experience_discrepancy(rec, res):
+    """Flag where the published experience contradicts the source list.
+
+    The source list's experience column drives the priority ranking, so a
+    disagreement matters: it means the queue may be ordered on a wrong figure.
+    Reported, never silently corrected - the source row stays as given.
+    """
+    if not res:
+        return ""
+    src = rec.get("experience_years")
+    ver = str(res.get("verified_experience", "") or "")
+    if src is None or not ver:
+        return ""
+    m = re.search(r"(\d+)", ver)
+    if not m:
+        return ""
+    pub = int(m.group(1))
+    if abs(pub - src) > 3:
+        return (f"Source list says {src} yrs; published profile says {pub} yrs "
+                f"(difference {abs(pub - src)})")
+    return ""
 
 
 def has_direct_contact(d):
