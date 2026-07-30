@@ -1,0 +1,49 @@
+{
+  "row_id": 419,
+  "name": "Dr. Akshay Singh",
+  "specialization": "Neurosurgery - Neurosurgeon (spinal fixation of thoracic/lumbar/sacral spine, hydrocephalus - VP shunt and Endoscopic Third Ventriculostomy, minimally invasive pain procedures including transforaminal nerve root blocks)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon",
+  "clinic_url": "https://teamsynapse.in/",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "CARE Hospitals Musheerabad neurosurgery speciality listing: https://www.carehospitals.com/doctor-list/hyderabad/care-super-specialty-hospital-musheerabad/speciality/neurosurgery | CARE Hospitals Musheerabad branch doctor list: https://www.carehospitals.com/doctor-list/hyderabad/care-super-specialty-hospital-musheerabad | CARE Hospitals Hyderabad neurosurgeons listing: https://www.carehospitals.com/doctor-list/hyderabad/speciality/neurosurgeons",
+
+  "indirect_method": "Official CARE Hospitals per-doctor profile at the correct branch, plus the website of the brain-and-spine clinic he co-founded",
+  "indirect_details": "Primary institutional route: his own CARE Hospitals doctor page, whose URL carries the Musheerabad branch segment and the neurosurgeon speciality segment - https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon (department: Neurosurgery, CARE Super Specialty Hospital / Gurunanak CARE Hospitals, Musheerabad, Hyderabad). The CARE Musheerabad neurosurgery department listing is https://www.carehospitals.com/doctor-list/hyderabad/care-super-specialty-hospital-musheerabad/speciality/neurosurgery . Secondary route: Synapse Brain and Spine Clinic, Himayat Nagar, Hyderabad, which he co-founded and where he practises alongside Dr. Teja Vadlamani and Dr. Aravind Jaladi - https://teamsynapse.in/ . No direct line or email is published for him by either CARE or the clinic, so the hospital-level fallback applies for phone contact.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Neurosurgeon, Department of Neurosurgery, CARE Super Specialty Hospital (Gurunanak CARE Hospitals), Musheerabad, Hyderabad; co-founder and practising neurosurgeon, Synapse Brain and Spine Clinic, Himayat Nagar, Hyderabad",
+  "verified_experience": "Approximately 5 years in neurosurgery (the input row carried no experience figure). Consistent with his stated training timeline: MBBS St. John's Medical College & Hospital 2012, MS General Surgery Mediciti Institute of Medical Sciences 2017, followed by MCh Neurosurgery. Treat the '5 years' figure as directory-level and secondary; the training dates are the firmer evidence.",
+  "owns_clinic": true,
+  "hni_signals": "Co-founder of an independent private practice, Synapse Brain and Spine Clinic in Himayat Nagar, Hyderabad, run as a three-surgeon partnership (with Dr. Teja Vadlamani and Dr. Aravind Jaladi) - i.e. he holds an ownership stake in a practice as well as a consultant post at CARE Hospitals. Triple-qualified MBBS, MS (General Surgery), MCh (Neurosurgery). Performs advanced procedures (Endoscopic Third Ventriculostomy, complex spinal fixation). Previously at Gautam Neuro Care and Gemcare Poulami Hospital. Consults in Telugu, English, Hindi and Kannada. Note he is relatively early-career (approx. 5 years post-specialisation), so seniority signals are modest.",
+
+  "sources": "specialization: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon\ncity: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon\nhospital_profile: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon\nclinic_url: https://teamsynapse.in/\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-super-specialty-hospital-musheerabad/speciality/neurosurgery\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-super-specialty-hospital-musheerabad\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/speciality/neurosurgeons\nindirect_method: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon\nindirect_details: https://teamsynapse.in/\nverified_role: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon\nverified_experience: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon\nowns_clinic: https://teamsynapse.in/\nhni_signals: https://teamsynapse.in/\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "COMMON-NAME RISK HANDLED AS INSTRUCTED. 'Akshay Singh' is a very common North Indian name and the input row carried no experience figure, so I required the CARE + Musheerabad + neurosurgery combination to match EXPLICITLY before accepting anything. It does: CARE's own domain returned a per-doctor page titled 'Dr. Akshay Singh | Top Neurosurgeon in Musheerabad | CARE Hospitals' at https://www.carehospitals.com/doctor/hyderabad/care-super-specialty-hospital-musheerabad/akshay-singh-neurosurgeon - the URL itself encodes city (hyderabad), branch (musheerabad) and speciality (neurosurgeon) in one line. That is four identity factors (name + specialty + hospital + branch/city) on the hospital's own site, so 'Ambiguous Match' is not warranted. A second, independent page (his clinic's site) separately states he practises at 'Gurunanak CARE Hospitals, Musheerabad, Hyderabad' - wording that matches the input row's address string almost verbatim, which is strong cross-confirmation that this is the right man. CARE BRANCH SLUG FINDING (requested): yes, CARE treats Musheerabad as its own distinct branch slug. It is 'care-super-specialty-hospital-musheerabad'. Notably, unlike the Banjara Hills case documented in the brief - where /doctor/ uses the bare 'banjara-hills' but /doctor-list/ uses the verbose 'care-hospital-banjara-hills' - Musheerabad uses the SAME verbose slug in BOTH page families (/doctor/hyderabad/care-super-specialty-hospital-musheerabad/... and /doctor-list/hyderabad/care-super-specialty-hospital-musheerabad). Also note CARE brands the unit 'CARE Super Specialty Hospital, Musheerabad' on its own site, while the input row calls it 'Gurunanak CARE Hospitals, Musheerabad' - the same physical unit under an older/local name, not a different hospital. NOT a stale affiliation and NOT an index-coverage gap: the named hospital does publish a live per-doctor page for him, so hospital_profile is populated. DECOY CLINICS REJECTED: several unrelated 'Synapse' practices surfaced and were discarded - Synapse Pain & Spine Clinic Chennai (synapsepain.com), Synapse Care Aurangabad (synapsehealthcarecenter.com), and a Mumbai 'Synapse Brain & Spine Neuro Care Centre' Facebook page belonging to a Dr Akash Kharat. Only teamsynapse.in names Dr. Akshay Singh alongside Dr. Teja Vadlamani and Dr. Aravind Jaladi in Himayat Nagar, Hyderabad, so only that URL is recorded. NO CONTACT DETAILS FABRICATED: no email, phone or booking link for him appeared verbatim anywhere - CARE publishes no per-doctor line and no contact number surfaced for teamsynapse.in - so professional_email, professional_phone and appointment_link are left blank rather than pattern-built from the CARE domain or the clinic domain. BAND: Medium, not High. Only ONE source on the section-5 'official source' list backs this (carehospitals.com; the three CARE listing pages are the same domain and therefore the same single official source). His own clinic website corroborates strongly but is a private practice site, not an enumerated official source, and no government registry, .ac.in, ORCID or Google Scholar record was found."
+}
