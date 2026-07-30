@@ -138,6 +138,28 @@ Budget guidance: **3–6 searches per doctor**. If two well-chosen queries retur
 nothing that matches, record what you have, set the band honestly, and move on —
 do not burn ten searches on an unfindable person.
 
+### Two under-used source types that pay off
+
+- **`healinindia.gov.in`** — the Government of India's Advantage Healthcare
+  directory carries doctor profiles for many private-hospital consultants. It is
+  a `.gov.in` domain, so it counts as an **official** source and can lift a row
+  from Medium to High. Worth one query when you have only one official source:
+  `"Dr <Name>" healinindia` or `"Dr <Name>" <specialty> India government`.
+- **Professional society and federation profiles** — e.g. `ihf-fih.org`
+  (International Hospital Federation), `fogsi.org`, Cardiological Society of
+  India, IMA, Royal College and American College pages. These are legitimate
+  Tier-2 profiles, often carry a verified role, and sometimes an official
+  enquiry route.
+
+### Expectation-setting on scholarly identifiers
+
+ORCID and Google Scholar profiles are **rare** for Hyderabad private-practice
+clinicians — across the first 218 doctors researched, zero were found, including
+for US-board-certified, research-active consultants. Spend **one** query on this
+at most, and only for doctors with a `Prof.` title, a transplant/oncology/
+academic role, or a stated fellowship. Do not keep digging; absence here is the
+normal result, not a failure.
+
 ---
 
 ## 5. CONFIDENCE BAND

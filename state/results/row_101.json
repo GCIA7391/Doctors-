@@ -1,0 +1,49 @@
+{
+  "row_id": 101,
+  "name": "Dr Arsheed Hussain Hakeem",
+  "specialization": "Head and Neck Surgical Oncology (Surgical Oncologist)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderabad/surgical/dr-arsheed-hussain-hakeem/",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-arsheed-hussain-hakeem",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "https://scholar.google.co.in/citations?hl=en&user=cYoNmeEAAAAJ",
+  "researchgate": "https://www.researchgate.net/profile/Arsheed-Hakeem/2",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/arsheed-hussain-hakeem-head-and-neck-surgeon",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-arsheed-hussain-hakeem-aa86b079-65b7-4a2d-9443-022657a6697c",
+  "lybrate": "",
+  "other_profiles": "https://www.apollohospitals.com/international-patient-services/doctor/dr-arsheed-hussain-hakeem",
+
+  "indirect_method": "Doctor's own Apollo Cancer Centres / Apollo 24|7 online appointment booking page",
+  "indirect_details": "Book a physical or digital consult directly on his own Apollo Cancer Centres booking page (https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderabad/surgical/dr-arsheed-hussain-hakeem/) or his Apollo 24|7 doctor page (https://www.apollo247.com/doctors/dr-arsheed-hussain-hakeem-aa86b079-65b7-4a2d-9443-022657a6697c). Practises at Apollo Health City, Road No 72, Opp. Bharatiya Vidya Bhavan School, Film Nagar, Jubilee Hills, Hyderabad 500033. Apollo also lists him on its International Patient Services doctor directory, which is the route for overseas referral enquiries.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Head & Neck Surgical Oncologist, Head of the Head and Neck Oncology unit, Apollo Cancer Centres / Apollo Health City, Jubilee Hills, Hyderabad",
+  "verified_experience": "18 years (one directory profile states 19+ years)",
+  "owns_clinic": false,
+  "hni_signals": "Head of the Head & Neck Oncology unit at Apollo Cancer Centres Hyderabad. MBBS, MS (ENT), DNB (ENT), FHNS (head & neck oncology fellowship, Prince Aly Khan Hospital Mumbai). Further fellowship training at the National Cancer Center Hospital, Tokyo, Japan and certification in transoral robotic surgery at the University of Pennsylvania, USA. 50-68 peer-reviewed publications; Google Scholar profile with ~311 citations; ResearchGate profile with 68 publications. Member of the Foundation for Head and Neck Oncology, Asian Society of Head and Neck Oncology, American Thyroid Association and IMA. Listed on Apollo's International Patient Services panel (international referral volume signal).",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-arsheed-hussain-hakeem\ncity: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-arsheed-hussain-hakeem\nappointment_link: https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderabad/surgical/dr-arsheed-hussain-hakeem/\nhospital_profile: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-arsheed-hussain-hakeem\ngoogle_scholar: https://scholar.google.co.in/citations?hl=en&user=cYoNmeEAAAAJ\nresearchgate: https://www.researchgate.net/profile/Arsheed-Hakeem/2\npracto: https://www.practo.com/hyderabad/doctor/arsheed-hussain-hakeem-head-and-neck-surgeon\ndirectory_profile: https://www.apollo247.com/doctors/dr-arsheed-hussain-hakeem-aa86b079-65b7-4a2d-9443-022657a6697c\nother_profiles: https://www.apollohospitals.com/international-patient-services/doctor/dr-arsheed-hussain-hakeem\nindirect_method: https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderabad/surgical/dr-arsheed-hussain-hakeem/\nindirect_details: https://www.apollo247.com/doctors/dr-arsheed-hussain-hakeem-aa86b079-65b7-4a2d-9443-022657a6697c\nverified_role: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-arsheed-hussain-hakeem\nverified_experience: https://www.apollo247.com/doctors/dr-arsheed-hussain-hakeem-aa86b079-65b7-4a2d-9443-022657a6697c\nhni_signals: https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderabad/surgical/dr-arsheed-hussain-hakeem/\nconfidence_band: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-arsheed-hussain-hakeem",
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Distinctive Kashmiri name, no same-name ambiguity found. Four facts matched in the search index: name + Surgical/Head-and-Neck Oncology specialty + Apollo Hospitals Jubilee Hills, Hyderabad + 18 years experience. Corroborated across three independent official sources (apollohospitals.com doctor profile, apollohospitals.com Apollo Cancer Centres booking page, apollo247.com doctor page) plus a Google Scholar author profile - hence High. Per the brief, WebFetch/curl are blocked for apollohospitals.com/apollo247.com/scholar.google.com, so all URLs above are recorded exactly as returned verbatim by WebSearch and none were opened or constructed. No professional email or direct phone appeared anywhere in search output, so both are left blank rather than guessed - Apollo publishes no per-doctor line and routes all contact through Apollo 24|7 booking. ResearchGate URL is recorded verbatim as indexed (it carries a trailing '/2' profile-pagination segment); a human may wish to trim it to the profile root, which I deliberately did not do because that would mean constructing a URL. Experience is stated as 18 years by Apollo/Apollo247 and as 19+ years by one secondary directory - the input value of 18+ years agrees with the official figure."
+}
