@@ -181,6 +181,36 @@ Numbers to reject outright, no follow-up needed:
   Tier-2 profiles, often carry a verified role, and sometimes an official
   enquiry route.
 
+### Hospital URL patterns — for SEARCHING, never for constructing
+
+These patterns were observed during research. They tell you what a real profile
+URL looks like so you can recognise one in results and craft better queries.
+
+**They are not a licence to build a URL.** Rule 2 still binds absolutely: if the
+URL did not appear verbatim in a search result, it does not go in the file, no
+matter how confident you are about the pattern. An agent that knew the CARE
+pattern still correctly left `hospital_profile` blank for a doctor whose CARE
+page never surfaced. Do that.
+
+- **CARE Hospitals** — `carehospitals.com/doctor/<city>/<branch-slug>/<name-slug>-<specialty-slug>`
+  (no `dr-` prefix; specialty appended in the same segment as the name). In
+  single-campus cities the branch segment is dropped. Beware a slug mismatch
+  between page families: `/doctor/` uses bare `banjara-hills`, while
+  `/doctor-list/` uses verbose `care-hospital-banjara-hills`. Branch listings
+  live at `/doctor-list/hyderabad/<branch>[/coe/<coe>|/speciality/<spec>]`.
+  "CARE Outpatient Centre Banjara Hills" is a *separate* branch from
+  "CARE Hospital Banjara Hills". CARE's index coverage is incomplete — some real
+  doctors have no per-doctor page indexed, so a missing page is not by itself
+  evidence of a stale affiliation.
+- **Yashoda** — `yashodahospitals.com/doctor/<branch>/<speciality>/<name-slug>/`
+  The branch segment is the single strongest branch evidence available. Both
+  `hitec-city` and `hitech-city` spellings occur; one redirects to the other.
+- **Apollo** — several page families exist (`/doctors/<specialty>/hyderabad/…`,
+  `/region/hyderabad/doctor/…`, `/corporate/doctors/…`, plus askapollo.com and
+  apollo247.com). They are all ONE official source for banding purposes.
+  Non-canonical locale paths (e.g. a `/cs/` Czech page) and `mediacdn.`
+  subdomains do occur — record them exactly as returned, never "correct" them.
+
 ### Expectation-setting on scholarly identifiers
 
 ORCID and Google Scholar profiles are **rare** for Hyderabad private-practice
