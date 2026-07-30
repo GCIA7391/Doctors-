@@ -1,0 +1,50 @@
+{
+  "row_id": 1603,
+  "name": "Dr Suresh Reddy Challamalla",
+  "specialization": "Neurology - stroke, dementia, peripheral neuropathy, headache disorders, Parkinson's disease and epilepsy",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Gleneagles group doctor profile (same official domain, unit-agnostic path): https://www.gleneagleshospitals.co.in/doctors/suresh-reddy-challamalla | Gleneagles Global Hospitals legacy-brand profile for the LB Nagar neurology unit: https://www.gleneaglesglobalhospitals.com/neurology-doctors-hyderabad-lbn/suresh-reddy | HexaHealth (corroborating): https://www.hexahealth.com/hyderabad/doctor/dr-suresh-reddy-challamalla-neurology | Vaidam (corroborating): https://www.vaidam.com/doctors/dr-suresh-reddy-challamalla",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Neurologist, Gleneagles Hospital Hyderabad (L.B. Nagar); also associated with Aware Gleneagles Global Hospital, Bairamalguda",
+  "verified_experience": "Gleneagles official profile states 12 years; other listings state 21-22 years; source row says 18 - see notes, no figure chosen",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant at Gleneagles LB Nagar. Training: MBBS Gandhi Medical College Hyderabad, MD Internal Medicine Osmania Medical College, DM Neurology from Nizam's Institute of Medical Sciences (NIMS) - a strong Indian academic neurology pedigree. Unusually broad professional society membership, including the American Academy of Neurology, the International Headache Society, the Indian Academy of Neurology, the Indian Stroke Association, the Indian Medical Association, the Association of Surgeons of India and the Andhra Pradesh Medical Council. Society membership of this breadth is a public standing signal and several of these bodies publish member-facing contact routes.",
+
+  "sources": "specialization: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist\ncity: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist\nhospital_profile: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist\nother_profiles: https://www.gleneagleshospitals.co.in/doctors/suresh-reddy-challamalla\nverified_role: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist\nverified_experience: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist\nhni_signals: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist\nconfidence_band: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-suresh-reddy-challamalla-neurologist",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on four input facts: the distinctive surname 'Challamalla', Neurology specialty, Gleneagles Aware Hospital, and the L.B. Nagar unit - explicit in the official URL path /hyderabad/lb-nagar/doctors/. Successfully distinguished from the many unrelated 'Dr Suresh Reddy' doctors in Hyderabad precisely because the surname is distinctive. Band held at MEDIUM: every official source belongs to the SAME corporate group (gleneagleshospitals.co.in and the legacy gleneaglesglobalhospitals.com brand), so they are not independent official sources; the remaining corroboration is directory-grade (HexaHealth, Vaidam). EXPERIENCE DISAGREES BADLY: Gleneagles' own profile says 12 years, the source row says 18, and other listings say 21-22. His training path (MBBS Gandhi, MD Osmania, DM NIMS) cannot be resolved to a single figure from search output alone, so all three are reported and none is chosen. This row is a good candidate for human confirmation. NOT RECORDED: Practo lists a 'Dr. C.H. Suresh Reddy - Neurologist in LB Nagar' who is plausibly the same person ('C.H.' being a common transliteration of the Challamalla surname initial) and matches on specialty and unit, but nothing in the search output confirms the identity, so the URL was deliberately left out rather than risk a wrong merge - flagged here as a lead for a human. Also not recorded: awaregleneaglesglobalhospitallbnagar.com carries a 'Dr Suresh Reddy' neurology page, but it gives no surname, so it cannot be attributed to him with confidence. APPOINTMENT LINK BLANK: Gleneagles publishes no per-doctor booking page, so the Tier-1 slot is legitimately empty and the hospital's LB Nagar appointment route in the indirect fields is the correct next step. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

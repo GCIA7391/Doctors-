@@ -1,0 +1,50 @@
+{
+  "row_id": 78,
+  "name": "Dr Soumen Devidutta",
+  "specialization": "Cardiology - Cardiac Electrophysiology, Cardiac Devices, Interventional Cardiology and Structural Heart Disease Interventions",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-soumen-devidutta-86231c8d-7c43-481b-ae46-0454ba8a13cc",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta",
+  "clinic_url": "",
+  "personal_website": "https://www.drsoumencardiologist.com/",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-soumen-devidutta-86231c8d-7c43-481b-ae46-0454ba8a13cc",
+  "lybrate": "",
+  "other_profiles": "Apollo Hyderabad region profile: https://www.apollohospitals.com/region/hyderabad/doctor/dr-soumen-devidutta/ | Whitecoats professional profile: https://drsoumendevidutta.whitecoats.com/ | Apollo Health City Facebook video featuring him explaining cardiac electrophysiology (Apollo's own page, not his account): https://www.facebook.com/apollo.hospitals.hyderabad/videos/listen-to-dr-soumen-devidutta-consultant-cardiologist-and-electrophysiologist-fr/565143894541230/",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Cardiologist and Electrophysiologist, Apollo Health City, Jubilee Hills, Hyderabad",
+  "verified_experience": "Over 15 years (matches the source row's 15+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Elite training pedigree: DM Cardiology from AIIMS, post-doctoral fellowships in Electrophysiology and Pacing and in Interventional Cardiology, plus advanced training in cardiac electrophysiology and heart failure at the National Heart Centre, Singapore (2014-15). Cardiac electrophysiology and device implantation are among the highest-fee cardiology sub-specialties. Maintains his own professional website and is used by Apollo as a public-facing clinical spokesperson (hospital-produced educational videos). Recommended by 733 patients at a 98% recommendation score.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta\ncity: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta\nhospital_profile: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta\nappointment_link: https://www.apollo247.com/doctors/dr-soumen-devidutta-86231c8d-7c43-481b-ae46-0454ba8a13cc\ndirectory_profile: https://www.apollo247.com/doctors/dr-soumen-devidutta-86231c8d-7c43-481b-ae46-0454ba8a13cc\npersonal_website: https://www.drsoumencardiologist.com/\nother_profiles: https://www.apollohospitals.com/region/hyderabad/doctor/dr-soumen-devidutta/\nverified_role: https://www.apollohospitals.com/region/hyderabad/doctor/dr-soumen-devidutta/\nverified_experience: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta\nhni_signals: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta\nconfidence_band: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-soumen-devidutta",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Distinctive Bengali/Odia name with no ambiguity in the index. Identity matched on five input facts: name, Cardiac Sciences / Electrophysiology specialty (his profile titles state 'Cardiologist, Electrophysiologist & Arrhythmia Specialist'), Apollo Hospitals, the Apollo Health City Jubilee Hills unit, and the 15+ years experience figure, which matches the source row exactly with no discrepancy. Band High: two independent official domains agree (apollohospitals.com, two pages, and apollo247.com). SOCIAL MEDIA DELIBERATELY LEFT BLANK: the Facebook video and the YouTube video featuring him are published on APOLLO's own accounts, not his - they evidence his role but are not his professional social profiles, so twitter/facebook/instagram/youtube are all empty. The Whitecoats page is a professional-network profile recorded under other_profiles rather than as a personal website. NO ORCID, GOOGLE SCHOLAR OR RESEARCHGATE FOUND despite a dedicated publications-oriented query - consistent with the pattern across this dataset. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output; his own site drsoumencardiologist.com is the correct place for a human to look for a booking route beyond the Apollo 24|7 page above. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
