@@ -1,0 +1,50 @@
+{
+  "row_id": 277,
+  "name": "Dr Ajeya Joshi",
+  "specialization": "Cardiothoracic & Vascular Surgery - bypass surgery, valve repair and replacement, minimally invasive cardiac surgery",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "https://drajeyajoshi.com/",
+  "linkedin": "https://www.linkedin.com/in/ajeya-joshi-052273b1/",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Own website - about page: https://drajeyajoshi.com/about/",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Cardiothoracic and Vascular Surgeon, Apollo Hospitals, Financial District, Hyderabad",
+  "verified_experience": "Over 14 years (matches the source row's 14+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "MBBS, MS, MCh Cardiovascular & Thoracic Surgery. Cardiac surgery - bypass, valve repair and replacement, minimally invasive cardiac surgery - is among the highest-fee surgical specialties in Indian private practice. Maintains his own professional website. Speaks Hindi, English, Telugu and Kannada. Published consulting hours Mon-Sat 09:00-17:00, which is useful timing context for any approach.",
+
+  "sources": "specialization: https://drajeyajoshi.com/about/\ncity: https://www.linkedin.com/in/ajeya-joshi-052273b1/\npersonal_website: https://drajeyajoshi.com/\nlinkedin: https://www.linkedin.com/in/ajeya-joshi-052273b1/\nother_profiles: https://drajeyajoshi.com/about/\nverified_role: https://www.linkedin.com/in/ajeya-joshi-052273b1/\nverified_experience: https://drajeyajoshi.com/about/\nhni_signals: https://drajeyajoshi.com/about/\nconfidence_band: https://www.linkedin.com/in/ajeya-joshi-052273b1/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on four input facts: distinctive name 'Dr Ajeya Joshi', Cardiac Sciences specialty (verified more precisely as Cardiothoracic & Vascular Surgery, which Apollo groups under Cardiac Sciences), Apollo Hospitals, and the FINANCIAL DISTRICT unit, plus the 14+ years figure matching the source row exactly. HOSPITAL_PROFILE DELIBERATELY LEFT BLANK: no doctor-specific page on apollohospitals.com surfaced for him - only Apollo's generic 'best cardiologist in <locality>' listing pages, which are not about this individual and were not recorded. The Apollo Financial District affiliation instead rests on two sources that AFFIRM it: his LinkedIn profile, whose result title reads 'Ajeya Joshi - Apollo Hospitals, Financial District, Hyderabad', and his own professional website. This is materially different from row 261 in this dataset, where other hospitals' official profiles CONTRADICTED the input affiliation - here the evidence agrees with the source row, it simply does not sit on Apollo's domain. Band therefore MEDIUM rather than Low or High: strong, mutually consistent evidence but zero official-domain doctor pages. SPECIALIZATION CORRECTED IN SUBSTANCE: the source row's 'Cardiac Sciences' is a department grouping; he is specifically a cardiothoracic and vascular SURGEON (MCh CVTS), not an interventional cardiologist - worth knowing before any approach. APPOINTMENT LINK BLANK: no per-doctor booking page found, so the Apollo appointment route in the indirect fields is the correct next step; his own website is the better first stop. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output - his own site's contact page is where a human should look. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

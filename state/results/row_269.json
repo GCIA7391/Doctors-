@@ -1,0 +1,50 @@
+{
+  "row_id": 269,
+  "name": "Dr Sowmya Korukonda",
+  "specialization": "Surgical Oncology - breast, gallbladder, liver, pancreatic and rectal cancer; GI and uro-oncology surgery",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/ad643fa5-70f3-4a8e-9f16-5644865e7558",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.apollo247.com/doctors/ad643fa5-70f3-4a8e-9f16-5644865e7558",
+  "lybrate": "",
+  "other_profiles": "Apollo Cancer Centres Hyderguda doctor-specific booking page (unit explicit in the path): https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderguda/surgical/dr-sowmya-korukonda/ | Apollo corporate surgical-oncology profile: http://www.apollohospitals.com/corporate/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Surgical Oncologist, Apollo Cancer Centres / Apollo Hospitals Hyderguda, Hyderabad",
+  "verified_experience": "14 years (matches the source row's 14+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Qualifications MBBS, MS, DNB Surgical Oncology, FMAS. Publicly stated volume of 200+ GI and uro-oncology procedures including radical gastrectomy, radical hemicolectomy, AR/APR, radical nephrectomy, penectomy and groin dissection - complex, high-fee oncological surgery. Research contributions published on carcinoma cervix, Meckel's diverticulum and thyroid carcinoma. 100% recommendation score from 32 patients. Practises within Apollo Cancer Centres, Apollo's dedicated oncology division.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda\ncity: https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderguda/surgical/dr-sowmya-korukonda/\nhospital_profile: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda\nappointment_link: https://www.apollo247.com/doctors/ad643fa5-70f3-4a8e-9f16-5644865e7558\ndirectory_profile: https://www.apollo247.com/doctors/ad643fa5-70f3-4a8e-9f16-5644865e7558\nother_profiles: https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderguda/surgical/dr-sowmya-korukonda/\nverified_role: https://www.apollohospitals.com/cancer-treatment-centres/cancer-hospital/hyderguda/surgical/dr-sowmya-korukonda/\nverified_experience: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda\nhni_signals: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda\nconfidence_band: https://www.apollohospitals.com/doctors/surgical-oncologist/hyderabad/dr-sowmya-korukonda",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "One of the cleanest verifications in this dataset. Identity matched on five input facts: distinctive name 'Dr Sowmya Korukonda', Oncology specialty (verified more precisely as Surgical Oncology), Apollo Hospitals, the HYDERGUDA unit - explicit both in the Apollo Cancer Centres URL path /cancer-hospital/hyderguda/surgical/ and in the Apollo247 page title 'Surgical Oncologist, Hyderguda' - and the 14 years figure matching the source row exactly with no discrepancy. Band High: two independent official domains agree (apollohospitals.com, three separate pages including a unit-specific Apollo Cancer Centres booking page, and apollo247.com). SPECIALIZATION REFINED: the source row says only 'Oncology'; official sources establish the more useful 'Surgical Oncology', which is recorded. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output; Apollo routes per-doctor contact through the booking pages above, either of which is a genuine per-doctor appointment route rather than a generic hospital page. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
