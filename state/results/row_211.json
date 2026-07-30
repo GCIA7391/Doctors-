@@ -1,0 +1,49 @@
+{
+  "row_id": 211,
+  "name": "Dr Preshith Gaddam",
+  "specialization": "Orthopaedics / Orthopaedic and Spine Surgery (joint replacement, arthroscopy, fracture fixation, spinal fusion, orthopaedic trauma)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-preshith-gaddam-dc51231f-c7cc-4504-bb26-634d02b3db7d",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-preshith-gaddam-orthopedist-1",
+  "directory_profile": "https://www.hexahealth.com/hyderabad/doctor/dr-preshith-gaddam-orthopedic-doctor",
+  "lybrate": "",
+  "other_profiles": "https://www.skedoc.com/hyderabad/doctor/dr-preshith-gaddam-orthopaedic-surgeon\nhttps://www.1mg.com/doctors/dr-preshith-gaddam-orthopaedics-in-hyderabad/DR-kp3jk\nhttps://www.drlogy.com/hyderabad/doctor/dr-preshith-gaddam\nhttps://www.lybrate.com/hyderabad/clinic/adithi-orthopaedic-clinic-saidabad",
+
+  "indirect_method": "Doctor's own Apollo 247 booking page; Apollo Hyderguda orthopaedic department doctor listing; own private clinic (Adithi Orthopaedic Clinic)",
+  "indirect_details": "Book against this doctor directly on his Apollo 247 page https://www.apollo247.com/doctors/dr-preshith-gaddam-dc51231f-c7cc-4504-bb26-634d02b3db7d. Department route: Apollo Hospitals Hyderguda orthopaedician listing https://www.askapollo.com/hospital/hyderabad/apollo-hospitals-hyderguda/orthopedician and the unit's doctor search https://www.askapollo.com/physical-appointment/doctorsearch/hyderabad/hospital/apollo-hospitals-hyderguda. Hospital unit page: https://www.apollohospitals.com/hospitals/apollo-hospitals-hyderguda and the Hyderguda unit on Apollo 247 https://www.apollo247.com/hospital/apollo-hospitals-hyderguda-in-Hyderguda-cb939fea-260d-4cc4-a47c-6ce1d3dbb3e5. Private evening clinic: Adithi Orthopaedic Clinic, 16-1-28/8 Plot No 8, Jayanagar, Saidabad, Hyderabad 500059, Mon-Sat 18:00-21:00 (per https://www.lybrate.com/hyderabad/clinic/adithi-orthopaedic-clinic-saidabad)",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Orthopaedician, Apollo Hospitals Hyderguda, Hyderabad; also consults at his own Adithi Orthopaedic Clinic (Saidabad and Balapur)",
+  "verified_experience": "19 years per Apollo Hospitals' own profile and 19+ on AskApollo, matching the input row's 19+ years. Lybrate/Justdial quote 21 years.",
+  "owns_clinic": true,
+  "hni_signals": "Fellowship training in Arthroscopy Knee, Shoulder Surgery and Adult Reconstructive Surgery in Germany; fellowship in Sports Injuries and Ortho Trauma (Germany, 2008); MBBS Mahatma Gandhi Institute of Medical Sciences 2001, MS Orthopaedics 2005; runs his own named private clinic across two locations in addition to his Apollo consultancy; consultant at a flagship Apollo unit",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam\ncity: https://www.apollo247.com/doctors/dr-preshith-gaddam-dc51231f-c7cc-4504-bb26-634d02b3db7d\nhospital_profile: https://www.apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam\nappointment_link: https://www.apollo247.com/doctors/dr-preshith-gaddam-dc51231f-c7cc-4504-bb26-634d02b3db7d\npracto: https://www.practo.com/hyderabad/doctor/dr-preshith-gaddam-orthopedist-1\ndirectory_profile: https://www.hexahealth.com/hyderabad/doctor/dr-preshith-gaddam-orthopedic-doctor\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-preshith-gaddam-orthopaedic-surgeon\nverified_role: https://www.apollohospitals.com/region/hyderabad/doctor/dr-preshith-gaddam/\nverified_experience: https://www.apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam\nowns_clinic: https://www.lybrate.com/hyderabad/clinic/adithi-orthopaedic-clinic-saidabad\nhni_signals: https://www.apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam\nindirect_method: https://www.askapollo.com/hospital/hyderabad/apollo-hospitals-hyderguda/orthopedician\nindirect_details: https://www.lybrate.com/hyderabad/clinic/adithi-orthopaedic-clinic-saidabad\nconfidence_band: https://www.apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam",
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Unambiguous. Three independent official Apollo sources agree: apollohospitals.com/doctors/orthopedician/hyderabad/dr-preshith-gaddam, apollohospitals.com/region/hyderabad/doctor/dr-preshith-gaddam/, and the Apollo 247 page whose result title reads 'Dr. Preshith Gaddam | Orthopaedician, Hyderguda', which pins the exact Hyderguda unit named in the input row. Experience of 19 years on Apollo's own profile also matches the input's 19+ years, so four given facts line up. Hence High. NO PHONE OR EMAIL RECORDED: none appeared anywhere in search output. Even the Lybrate clinic page, whose title advertises 'View Contact Number', did not surface a number in the search index, so I left professional_phone blank rather than guess. I did not attempt WebFetch. HUMAN CHECK ITEMS: (1) owns_clinic is set true on directory evidence only (Lybrate, Practo, Justdial and Drlogy all list Adithi Orthopaedic Clinic under his name, at Saidabad and Balapur, with 18:00-21:00 own-practice hours) - no official page confirms ownership, so treat the boolean as strong inference from four corroborating directories rather than an official statement. (2) One aggregator summary additionally placed him at Yashoda Hospital Somajiguda; that is unconfirmed and possibly stale, and I did not record it. (3) Note the Practo listing labels his location Saidabad/Malakpet (his private clinic), not Hyderguda - that is the clinic, not a conflicting identity."
+}
