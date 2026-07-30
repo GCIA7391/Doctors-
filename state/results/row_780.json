@@ -4,11 +4,9 @@
   "specialization": "ENT / Otorhinolaryngology - Consultant Endoscopic ENT Surgeon (Head & Neck)",
   "city": "Hyderabad",
   "country": "India",
-
   "professional_email": "",
   "professional_phone": "",
   "appointment_link": "",
-
   "hospital_profile": "https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/",
   "clinic_url": "",
   "personal_website": "https://drsastryent.com/",
@@ -16,35 +14,29 @@
   "google_scholar": "",
   "researchgate": "",
   "orcid": "",
-
   "twitter": "",
   "facebook": "https://www.facebook.com/DrSastryentcare/",
   "instagram": "",
   "youtube": "",
-
   "practo": "https://www.practo.com/hyderabad/doctor/dr-sastri-ear-nose-throat-ent-specialist",
   "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-k-v-s-s-r-k-sastry-ent-surgeon",
   "lybrate": "https://www.lybrate.com/hyderabad/doctor/dr-k-v-s-s-r-k-sastry-ear-nose-throat-ent-specialist",
   "other_profiles": "HexaHealth: https://www.hexahealth.com/hyderabad/doctor/dr-kvssrk-sastry-ent-specialist | MediBuddy: https://www.medibuddy.in/doctor-consultations/hyderabad/ent/dr-kvssrk-sastry-252059",
-
   "indirect_method": "Own hospital doctor profile (booking) + own ENT clinic website",
   "indirect_details": "Reach him through his Yashoda Hospitals Somajiguda ENT doctor profile, which carries the appointment/enquiry route: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/ . He also runs Dr. Sastry's ENT Care, Nagarjuna Homes, Nizampet Road (beside Rainbow Pharmacy), Nizampet/Kukatpally, Hyderabad 500090, clinic hours Mon-Sat 10:30-13:30 and 18:00-21:30; own site https://drsastryent.com/",
   "best_way": "",
-
   "department_email": "",
   "hospital_email": "",
   "secretary_number": "",
   "hospital_number": "",
-
   "verified_role": "Consultant Endoscopic ENT Surgeon, Department of ENT, Yashoda Hospitals, Somajiguda, Hyderabad",
   "verified_experience": "27 years per input; Yashoda profile states 27 years of ENT experience (directory listings vary between 22 and 32 years)",
   "owns_clinic": true,
   "hni_signals": "Consultant Endoscopic ENT Surgeon at Yashoda Hospitals Somajiguda (large multi-site private group) and simultaneously proprietor of his own practice, Dr. Sastry's ENT Care, Nizampet/Kukatpally. MS Otorhinolaryngology from PGIMER Chandigarh and MBBS from Rangaraya Medical College Kakinada; MS, DNB (ENT). Registered with the Telangana State Medical Council; member of the Association of Otorhinolaryngologists of India. Sub-specialist referral work (endoscopic skull-base/pituitary surgery, CSF rhinorrhoea, paediatric otolaryngology, airway foreign-body removal) and an own-brand professional website plus clinic Facebook page.",
-
   "sources": "specialization: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\ncity: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\nhospital_profile: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\npersonal_website: https://drsastryent.com/\nfacebook: https://www.facebook.com/DrSastryentcare/\npracto: https://www.practo.com/hyderabad/doctor/dr-sastri-ear-nose-throat-ent-specialist\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-k-v-s-s-r-k-sastry-ent-surgeon\nlybrate: https://www.lybrate.com/hyderabad/doctor/dr-k-v-s-s-r-k-sastry-ear-nose-throat-ent-specialist\nother_profiles: https://www.hexahealth.com/hyderabad/doctor/dr-kvssrk-sastry-ent-specialist\nindirect_method: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\nindirect_details: https://www.hexahealth.com/hyderabad/hospital/dr-sastry-ent-care-kukatpally\nverified_role: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\nverified_experience: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\nowns_clinic: https://www.practo.com/hyderabad/clinic/dr-sastry-ent-care-nizampet\nhni_signals: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/\nconfidence_band: https://www.yashodahospitals.com/doctor/somajiguda/ent/dr-kvssrk-sastry/",
-  "confidence_band": "High",
+  "confidence_band": "Medium",
   "verification_method": "Search-verified",
   "status": "Enriched",
-  "notes": "Identity is unambiguous: the official Yashoda Hospitals doctor URL itself encodes name + location + specialty (/doctor/somajiguda/ent/dr-kvssrk-sastry/), matching the input on name, specialty (ENT), hospital (Yashoda Somajiguda), city (Hyderabad) and experience (27 years). Second independent official source is his own professional website drsastryent.com, titled 'Home - DR. KVSSRK SASTRY', which also states he is Consultant Endoscopic ENT Surgeon at Yashoda Hospitals Somajiguda. No email or phone recorded: the only numbers surfaced in search were third-party aggregator helplines (e.g. HexaHealth's own 24x7 line), not the doctor's or his clinic's published contact, so both contact fields are deliberately blank rather than guessed. Directory listings disagree on years of experience (22 / 25+ / 27 / 32) - the Yashoda figure was used. HUMAN CHECK: a phone/email is very likely published on the Contact page of drsastryent.com, which could not be opened in this environment (WebFetch/curl blocked); worth one manual visit.",
+  "notes": "Identity is unambiguous: the official Yashoda Hospitals doctor URL itself encodes name + location + specialty (/doctor/somajiguda/ent/dr-kvssrk-sastry/), matching the input on name, specialty (ENT), hospital (Yashoda Somajiguda), city (Hyderabad) and experience (27 years). Second independent official source is his own professional website drsastryent.com, titled 'Home - DR. KVSSRK SASTRY', which also states he is Consultant Endoscopic ENT Surgeon at Yashoda Hospitals Somajiguda. No email or phone recorded: the only numbers surfaced in search were third-party aggregator helplines (e.g. HexaHealth's own 24x7 line), not the doctor's or his clinic's published contact, so both contact fields are deliberately blank rather than guessed. Directory listings disagree on years of experience (22 / 25+ / 27 / 32) - the Yashoda figure was used. HUMAN CHECK: a phone/email is very likely published on the Contact page of drsastryent.com, which could not be opened in this environment (WebFetch/curl blocked); worth one manual visit. [BAND CORRECTED BY PIPELINE REVIEW: originally High. Only ONE independent official domain backs this row; the apparent second source was either the doctor's own website/clinic site (a primary self-published source, not independent of the person) or two pages on the same hospital domain. Corrected to Medium so the confidence column is comparable across the whole workbook. The identity match is NOT in doubt and no other field changed - this is a banding correction only. Rule now explicit in AGENT_INSTRUCTIONS.md section 5.]",
   "confidence": 92
 }

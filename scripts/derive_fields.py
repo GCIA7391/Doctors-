@@ -31,6 +31,33 @@ OFFICIAL_DOMAIN_PATTERNS = [
     r"\.gov\.in", r"\.gov$", r"\.nic\.in", r"\.edu$", r"\.edu\.in",
     r"\.ac\.in", r"\.ac\.uk", r"orcid\.org", r"scholar\.google\.",
     r"nmc\.org\.in", r"tsmc\.",
+    # Other Indian hospital groups that appear as independent corroboration
+    # when a doctor holds a second appointment or has moved.
+    r"gleneaglesglobalhospitals\.com", r"awarehospitals\.",
+    r"continentalhospitals\.com", r"citizenshospitals\.com",
+    r"kimshospitals\.com", r"sunshinehospitals\.", r"medicoverhospitals\.in",
+    r"americanoncology\.com", r"omnihospitals\.in", r"maxcure\.",
+    r"txhospitals\.in", r"udaiomni\.com", r"srivijayahospitals\.com",
+    r"ankurahospitals\.com", r"sparshhospital\.com", r"zoihospitals\.",
+    r"apollospectra\.com", r"apolloclinic\.com", r"askapollo\.com",
+    r"apollosugar\.com", r"microcareenthospitals\.com", r"amritaent\.com",
+    # Professional societies and federations - independent of any employer.
+    r"fogsi\.org", r"ihf-fih\.org", r"csi\.org\.in", r"cardiologysociety",
+    r"neurologyindia\.com", r"iagesindia\.org", r"asiindia\.org",
+    r"rcseng\.ac\.uk", r"rcpsg\.ac\.uk", r"facs\.org", r"acc\.org",
+    r"escardio\.org", r"easl\.eu", r"esmo\.org",
+    # Scholarly identity / indexing that is not self-published.
+    r"ncbi\.nlm\.nih\.gov", r"pubmed", r"doi\.org", r"springer",
+    r"sciencedirect\.com", r"wiley\.com", r"nature\.com",
+]
+
+# Domains that are the DOCTOR'S OWN publishing - excellent identity evidence and
+# often the best contact route, but never independent of the person, so they can
+# never supply the second source that earns a High band.
+SELF_PUBLISHED_PATTERNS = [
+    r"linkedin\.com", r"whitecoats\.com", r"theorg\.com",
+    r"facebook\.com", r"instagram\.com", r"twitter\.com", r"x\.com",
+    r"youtube\.com",
 ]
 # Reputable directories: corroborate identity, but do not by themselves make a
 # match "official" for confidence-band purposes.
