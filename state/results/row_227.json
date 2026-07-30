@@ -1,0 +1,49 @@
+{
+  "row_id": 227,
+  "name": "Dr Sandeep Reddy Y",
+  "specialization": "Nephrology (Nephrologist & Kidney Transplant Physician)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/nephrologist/hyderabad/dr-sandeep-reddy-y",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-y-sandeep-reddy-nephrologist",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49",
+  "lybrate": "https://www.lybrate.com/hyderabad/doctor/dr-y-sandeep-reddy-nephrologist",
+  "other_profiles": "https://www.skedoc.com/hyderabad/doctor/dr-y-sandeep-reddy-nephrologist\nhttps://www.vaidam.com/doctors/dr-y-sandeep-reddy-nephrology-kidney-transplant",
+
+  "indirect_method": "Apollo 24|7 per-doctor booking page + Apollo Hyderabad nephrology department listing",
+  "indirect_details": "Book a physical visit on his own Apollo 24|7 doctor page https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49 (the page states he does not offer Apollo 24|7 online consults, only in-hospital slots); Apollo nephrology Hyderabad department listing https://www.apollohospitals.com/book-doctor-appointment/nephrologist/hyderabad",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Nephrologist, Apollo Hospitals Financial District, Hyderabad",
+  "verified_experience": "18 years per the Apollo 24|7 profile, matching the brief's 18+ years (corroborating directories state 21 years overall)",
+  "owns_clinic": false,
+  "hni_signals": "Consultant nephrologist and kidney transplant physician at Apollo Hospitals Financial District; DM Nephrology from SVIMS Tirupati (2012) on top of MD General Medicine; stated sub-specialist expertise in ABO-incompatible renal transplants and chronic kidney disease; practises across more than one Hyderabad hospital",
+
+  "sources": "hospital_profile: https://www.apollohospitals.com/doctors/nephrologist/hyderabad/dr-sandeep-reddy-y\nappointment_link: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\ndirectory_profile: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\npracto: https://www.practo.com/hyderabad/doctor/dr-y-sandeep-reddy-nephrologist\nlybrate: https://www.lybrate.com/hyderabad/doctor/dr-y-sandeep-reddy-nephrologist\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-y-sandeep-reddy-nephrologist\nspecialization: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\ncity: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\nverified_role: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\nverified_experience: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\nhni_signals: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\nindirect_method: https://www.apollohospitals.com/book-doctor-appointment/nephrologist/hyderabad\nindirect_details: https://www.apollo247.com/doctors/dr-sandeep-reddy-y-bf612489-9c6c-4c24-9c20-739831a08a49\nconfidence_band: https://www.apollohospitals.com/doctors/nephrologist/hyderabad/dr-sandeep-reddy-y",
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "COMMON-NAME REQUIREMENT MET EXPLICITLY, so this is not set to Ambiguous Match: the Apollo 24|7 per-doctor page for 'Dr. Sandeep Reddy. Y' states in terms that he is 'a Nephrologist at Apollo Hospitals Financial District, Hyderabad with 18 years of experience'. That single statement matches five brief fields at once - name (including the trailing Y initial), specialty, hospital, the Financial District branch and 18+ years. Independently corroborated by his own page on the hospital's own domain, https://www.apollohospitals.com/doctors/nephrologist/hyderabad/dr-sandeep-reddy-y, titled 'Dr Sandeep Reddy Y'. Two distinct official domains agreeing, hence High (consistent with how earlier Apollo rows in this dataset were banded). Qualifications MBBS, MD General Medicine, DM Nephrology (SVIMS Tirupati, 2012).\n\nSAME-NAME DOCTOR DELIBERATELY NOT MERGED: starhospitals.in publishes 'Dr. Sandeep Reddy | Top Nephrologist' at its Nanakramguda unit (slug dr-sandeep-reddy-nephrologist, with no Y initial). Nanakramguda is adjacent to Financial District, so this is either the same man moonlighting or a different nephrologist with the same very common Telugu name. I could not tell them apart from the index, so that URL is NOT recorded in any field and is not counted toward the band. A human should resolve it before using it.\n\nNO EMAIL AND NO PHONE: two searches returned no institutional email and no published hospital landline for him. A JustDial listing ('Dr. Sandeep Reddy Y (Gleneagles Global Hospitals), LB Nagar') carried a number but JustDial numbers are call-tracking proxies, explicitly rejected by section 4, and the aggregator 'Contact Number' pages on Lybrate and Practo were rejected for the same reason. Nothing was recorded.\n\nADDITIONAL AFFILIATIONS, UNVERIFIED: search summaries also placed him at Tulasi Hospitals (ECIL) and Aware Gleneagles Global Hospitals (LB Nagar). The Gleneagles link is at least echoed in a verbatim result title, but neither hospital's own per-doctor page surfaced, so these are noted here only and not recorded as fields.\n\nNO CROSS-CONTAMINATION: row 88, Dr Seerapani Gopaluni, is a DIFFERENT nephrologist also listed at Apollo Hospitals Financial District with 18+ years experience. Nothing in this record came from any Gopaluni source; every URL here carries a 'sandeep-reddy-y' or 'y-sandeep-reddy' slug, and the Apollo 24|7 UUID (bf612489-9c6c-4c24-9c20-739831a08a49) is distinct from Gopaluni's."
+}

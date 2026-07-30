@@ -1,0 +1,49 @@
+{
+  "row_id": 845,
+  "name": "Dr. G. Laxmana Sastry",
+  "specialization": "General & Laparoscopic Surgery",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/",
+  "clinic_url": "https://drlaxmanasastry.in/",
+  "personal_website": "https://drlaxmanasastry.in/",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-g-laxmana-sastry-gynecologist-obstetrician",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-g-laxmana-sastry-general-surgeon",
+  "lybrate": "https://www.lybrate.com/hyderabad/doctor/dr-g-laxmana-sastry-general-surgeon",
+  "other_profiles": "https://www.yashodahospitals.com/product/dr-laxman-sastry/\nhttps://www.myupchar.com/en/doctors/hyderabad/tarnaka/laparoscopic-surgery/dr-g-laxmana-sastry-93028\nhttps://www.sehat.com/dr-laxmana-sastry-general-surgeon-hyderabad",
+
+  "indirect_method": "Own clinic website + Yashoda Secunderabad general-surgery department listing",
+  "indirect_details": "Doctor's own clinic site https://drlaxmanasastry.in/ (Sitarama Clinic, Tarnaka X Road, Secunderabad); Yashoda Secunderabad general surgery consultant listing https://www.yashodahospitals.com/specialities/general-surgery/doctors/",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant General & Laparoscopic Surgeon, Yashoda Hospitals Secunderabad; Consultant General Surgeon at his own Sitarama Clinic, Tarnaka",
+  "verified_experience": "34+ years of practice (search snippets state 20+ years at Yashoda and 18 years previously as Consultant Surgeon at Kamineni Hospitals); brief states 21 years",
+  "owns_clinic": true,
+  "hni_signals": "Runs his own long-standing private clinic (Sitarama Clinic, Tarnaka) alongside a Yashoda consultancy; MBBS (Kakatiya Medical College) and MS General Surgery (Osmania Medical College) with MNAMS; member of IMA and AMASI (Association of Minimal Access Surgeons of India)",
+
+  "sources": "hospital_profile: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/\nclinic_url: https://drlaxmanasastry.in/\npersonal_website: https://drlaxmanasastry.in/\npracto: https://www.practo.com/hyderabad/doctor/dr-g-laxmana-sastry-gynecologist-obstetrician\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-g-laxmana-sastry-general-surgeon\nlybrate: https://www.lybrate.com/hyderabad/doctor/dr-g-laxmana-sastry-general-surgeon\nother_profiles: https://www.yashodahospitals.com/product/dr-laxman-sastry/\nspecialization: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/\ncity: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/\nverified_role: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/\nverified_experience: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/\nowns_clinic: https://drlaxmanasastry.in/\nhni_signals: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/\nindirect_method: https://www.yashodahospitals.com/specialities/general-surgery/doctors/\nindirect_details: https://www.yashodahospitals.com/specialities/general-surgery/doctors/\nconfidence_band: https://www.yashodahospitals.com/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity confirmed on four of the required signals in one line: the official Yashoda URL slug encodes branch and department (/doctor/secunderabad/general-surgery/dr-g-laxmana-sastry/) and the result title reads 'Dr. G. Laxmana Sastry | Best General Surgeon in Hyderabad' - name + specialty + Yashoda + Secunderabad branch + city all match the brief. Also has his own clinic site drlaxmanasastry.in (title 'Dr. Laxmana's Clinic'), which appeared verbatim in search results. NO email and NO phone recorded: three searches, including an exact-domain query for '\"drlaxmanasastry.in\" contact number email', surfaced no institutional email or published landline anywhere; only aggregator (Practo/Lybrate/Skedoc/myUpchar) 'contact number' pages, which are call-tracking proxies and were rejected per section 4. Band is Medium, not High: Yashoda is the only qualifying official domain (the /doctor/ profile and the /product/ page are the same domain, and a doctor's own site is not on the section-5 official list); one healinindia/gov.in query returned no government listing. CAUTION FOR HUMAN REVIEW: the Practo URL slug ends 'gynecologist-obstetrician' although the Practo page title reads 'Dr. G.Laxmana Sastry - Laparoscopic Surgeon in Tarnaka' - recorded verbatim as returned, but the slug appears to be a Practo tagging artefact and should be eyeballed before use. Qualifications MBBS (Kakatiya Medical College, Warangal), MS General Surgery (Osmania Medical College), MNAMS came from search snippets, not a page I could open."
+}
