@@ -20,10 +20,12 @@ from openpyxl.styles import Font, Alignment, PatternFill, Border, Side
 from openpyxl.utils import get_column_letter
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from schema import (OUTPUT_COLUMNS, REQUESTED_COLUMNS, RESULT_KEY_TO_COLUMN,
+                    HNI_COLUMNS, HNI_KEY_TO_COLUMN,
                     CONF_HIGH, CONF_MEDIUM, CONF_LOW, CONF_UNKNOWN,
                     STATUS_AMBIGUOUS, STATUS_REVIEW, VERIFY_PAGE, VERIFY_SEARCH)
 from derive_fields import (derive, _load_table, has_direct_contact,
                            has_any_online_presence)
+from hni_scoring import score as hni_score
 
 OUT = "Doctors_Enriched.xlsx"
 
@@ -59,6 +61,18 @@ WIDTHS = {
     "Lybrate Profile": 30, "Other Professional Profiles": 34,
     "Review Reason": 44, "Experience Discrepancy": 46,
     "Affiliation Flag": 48,
+    "Prospect Score (0-100)": 10, "Outreach Priority": 22,
+    "Estimated HNI Probability": 12, "Estimated Wealth Tier": 15,
+    "Potential Family Office Fit": 11, "Potential PMS Fit": 11,
+    "Practice Ownership": 11, "Own Clinic": 9, "Own Hospital": 9,
+    "Multiple Practice Locations": 12, "Private Practice": 10,
+    "Entrepreneur": 11, "Leadership Roles": 34, "Director": 9,
+    "Chairman": 9, "Head of Department": 11, "Senior Consultant": 11,
+    "Professor": 9, "International Training": 12, "Conference Speaker": 11,
+    "Known Medical Brand": 11, "Luxury Practice Indicators": 30,
+    "High-Fee Specialty Indicators": 30,
+    "Estimated Private Patient Volume": 24, "Premium Hospital Group": 11,
+    "Years Experience": 10,
 }
 
 HYD_LOCALITIES = ["hyderabad", "secunderabad", "jubilee hills", "banjara hills",
@@ -110,6 +124,13 @@ def build_row(rec, res, table):
             if isinstance(v, bool):
                 v = "Yes" if v else ""
             row[col] = v if v is not None else ""
+
+    # HNI prospect qualification, scored from this row's own evidence only
+    h = hni_score(rec, res)
+    for key, col in HNI_KEY_TO_COLUMN.items():
+        v = h.get(key, "")
+        row[col] = v if v is not None else ""
+    d["_hni"] = h
     return row, d
 
 
@@ -171,6 +192,21 @@ def main():
                    if r["_researched"] and has_direct_contact(d)]
     write_grid(wb.create_sheet("Direct Contacts"), dcols, direct_rows)
 
+    # ---- Sheet 2b: HNI prospect ranking ------------------------------------
+    pcols = ["Prospect Score (0-100)", "Outreach Priority",
+             "Estimated HNI Probability", "Doctor Name", "Specialization",
+             "Hospital", "City", "Leadership Roles", "Practice Ownership",
+             "Own Clinic", "Multiple Practice Locations",
+             "International Training", "High-Fee Specialty Indicators",
+             "Estimated Private Patient Volume", "Years Experience",
+             "Best Way To Reach", "Professional Email", "Professional Phone",
+             "Appointment Link", "LinkedIn URL", "Confidence Score",
+             "Potential Family Office Fit", "Potential PMS Fit"]
+    prospect_rows = sorted(
+        [r for r in rows if r["_researched"] and r["Prospect Score (0-100)"] != ""],
+        key=lambda r: -int(r["Prospect Score (0-100)"]))
+    write_grid(wb.create_sheet("HNI Prospect Ranking"), pcols, prospect_rows)
+
     # ---- Sheet 3: duplicates & manual review -------------------------------
     name_counts = collections.Counter(r["Doctor Name"].strip().lower() for r in rows)
     dup_names = {n for n, c in name_counts.items() if c > 1}
@@ -222,6 +258,18 @@ def main():
     n_review = sum(1 for r in rows if r["Status"] == STATUS_REVIEW)
     dup_rows = sum(1 for r in rows if r["Doctor Name"].strip().lower() in dup_names)
     n_exp_disc = sum(1 for r in rows if r["Experience Discrepancy"])
+    _pri = collections.Counter(r["Outreach Priority"] for r, _ in researched)
+    n_p1 = _pri.get("P1 - contact first", 0)
+    n_p2 = _pri.get("P2", 0)
+    n_p3 = _pri.get("P3", 0)
+    n_p4 = _pri.get("P4 - insufficient public signal", 0)
+    n_own = sum(1 for r, _ in researched if r["Practice Ownership"])
+    n_lead = sum(1 for r, _ in researched if r["Leadership Roles"])
+    n_intl = sum(1 for r, _ in researched if r["International Training"])
+    n_multi = sum(1 for r, _ in researched if r["Multiple Practice Locations"])
+    n_vol = sum(1 for r, _ in researched if r["Estimated Private Patient Volume"])
+    n_fo = sum(1 for r, _ in researched if r["Potential Family Office Fit"])
+    n_pms = sum(1 for r, _ in researched if r["Potential PMS Fit"])
     n_affil = sum(1 for r in rows if r["Affiliation Flag"])
     n_page = sum(1 for r, _ in researched if r["Verification Method"] == VERIFY_PAGE)
     n_search = sum(1 for r, _ in researched if r["Verification Method"] == VERIFY_SEARCH)
@@ -256,6 +304,19 @@ def main():
         ("Hospital in source list may be stale/incomplete (notes scan)", n_affil, False),
         ("Rows flagged 'Needs Human Review'", n_review, False),
         ("Total rows on the manual-review sheet", len(review_rows), False),
+        ("", "", False),
+        ("HNI PROSPECT QUALIFICATION (researched rows)", "", True),
+        ("P1 - contact first (score >= 60)", n_p1, False),
+        ("P2 (score 40-59)", n_p2, False),
+        ("P3 (score 22-39)", n_p3, False),
+        ("P4 - insufficient public signal (score < 22)", n_p4, False),
+        ("Doctors owning a clinic or practice", n_own, False),
+        ("Doctors with a hospital leadership title", n_lead, False),
+        ("Doctors with international training/credentials", n_intl, False),
+        ("Doctors practising at multiple locations", n_multi, False),
+        ("Doctors with a publicly stated procedure volume", n_vol, False),
+        ("Potential family-office fit", n_fo, False),
+        ("Potential PMS fit", n_pms, False),
         ("", "", False),
         ("VERIFICATION METHOD (researched rows)", "", True),
         ("Page-verified (profile page retrieved and matched)", n_page, False),

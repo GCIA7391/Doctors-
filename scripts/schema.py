@@ -37,6 +37,68 @@ REQUESTED_COLUMNS = [
     "Notes",
 ]
 
+# --- HNI prospect qualification ---------------------------------------------
+# Every one of these is derived ONLY from the row's own researched evidence by
+# scripts/hni_scoring.py. They count PUBLIC PROFESSIONAL SIGNALS. They are not
+# financial assessments and make no claim about anyone's assets.
+HNI_COLUMNS = [
+    "Prospect Score (0-100)",
+    "Outreach Priority",
+    "Estimated HNI Probability",
+    "Estimated Wealth Tier",
+    "Potential Family Office Fit",
+    "Potential PMS Fit",
+    "Practice Ownership",
+    "Own Clinic",
+    "Own Hospital",
+    "Multiple Practice Locations",
+    "Private Practice",
+    "Entrepreneur",
+    "Leadership Roles",
+    "Director",
+    "Chairman",
+    "Head of Department",
+    "Senior Consultant",
+    "Professor",
+    "International Training",
+    "Conference Speaker",
+    "Known Medical Brand",
+    "Luxury Practice Indicators",
+    "High-Fee Specialty Indicators",
+    "Estimated Private Patient Volume",
+    "Premium Hospital Group",
+    "Years Experience",
+]
+
+HNI_KEY_TO_COLUMN = {
+    "prospect_score": "Prospect Score (0-100)",
+    "outreach_priority": "Outreach Priority",
+    "hni_probability": "Estimated HNI Probability",
+    "wealth_tier": "Estimated Wealth Tier",
+    "family_office_fit": "Potential Family Office Fit",
+    "pms_fit": "Potential PMS Fit",
+    "practice_ownership": "Practice Ownership",
+    "own_clinic": "Own Clinic",
+    "own_hospital": "Own Hospital",
+    "multi_location": "Multiple Practice Locations",
+    "private_practice": "Private Practice",
+    "entrepreneur": "Entrepreneur",
+    "leadership_roles": "Leadership Roles",
+    "director": "Director",
+    "chairman": "Chairman",
+    "hod": "Head of Department",
+    "senior_consultant": "Senior Consultant",
+    "professor": "Professor",
+    "international_training": "International Training",
+    "conference_speaker": "Conference Speaker",
+    "known_brand": "Known Medical Brand",
+    "luxury_indicators": "Luxury Practice Indicators",
+    "luxury_specialty": "High-Fee Specialty Indicators",
+    "private_patient_volume": "Estimated Private Patient Volume",
+    "premium_group": "Premium Hospital Group",
+    "years_experience": "Years Experience",
+}
+
 # --- original source data + audit + prior prospecting enrichment -------------
 APPENDED_COLUMNS = [
     # original rows preserved
@@ -53,7 +115,7 @@ APPENDED_COLUMNS = [
     "Other Professional Profiles",
 ]
 
-OUTPUT_COLUMNS = REQUESTED_COLUMNS + APPENDED_COLUMNS
+OUTPUT_COLUMNS = REQUESTED_COLUMNS + HNI_COLUMNS + APPENDED_COLUMNS
 
 # Keys the enrichment agents return in each result record -> output column.
 # Legacy keys are retained so result files written by earlier runs still merge.

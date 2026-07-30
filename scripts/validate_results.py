@@ -62,12 +62,36 @@ def _phone_parts(v):
     return [p for p in (_digits(x) for x in parts) if p]
 
 
+# Contact-broker and scraped-database sources. These are barred outright: their
+# records are frequently masked, stale, or resold without consent, and a masked
+# address completed from a known domain is fabrication by another name.
+BROKER_DOMAINS = (
+    "zoominfo.com", "rocketreach.co", "apollo.io", "contactout.com",
+    "signalhire.com", "lusha.com", "hunter.io", "snov.io", "leadiq.com",
+    "clearbit.com", "adapt.io", "uplead.com", "prospeo.io", "findymail.com",
+    "voilanorbert.com", "anymailfinder.com", "skrapp.io", "getprospect.com",
+    "scribd.com",
+)
+
+
 def check(res):
     """Return (issues, warnings)."""
     issues, warnings = [], []
     sources = str(res.get("sources", "") or "")
     has_any_source_url = bool(URLRE.search(sources))
     sourced = _sourced_fields(sources)
+
+    # --- barred sources ---------------------------------------------------
+    # Only flag a broker domain that is actually USED - in `sources` or in a
+    # populated field. Naming one in `notes` to record that it was rejected is
+    # exactly the behaviour we want, and must not be penalised.
+    used = " ".join([sources] + [str(res.get(k, "") or "")
+                                 for k in list(URL_FIELDS) + list(EMAIL_FIELDS)
+                                 + list(PHONE_FIELDS) + ["other_profiles"]]).lower()
+    for b in BROKER_DOMAINS:
+        if b in used:
+            issues.append(f"contact-broker/scraped source USED ({b}) - these are "
+                          f"barred; remove it and any value taken from it")
 
     # --- required keys ----------------------------------------------------
     for k in ("row_id", "status", "sources"):
@@ -113,14 +137,11 @@ def check(res):
             continue
         if not EMAILRE.match(v):
             issues.append(f"{f} is not a valid email: {v!r}")
-        if any(d in v.lower() for d in PERSONAL_EMAIL_DOMAINS):
-            # A clinic that publishes a gmail address as its business contact is
-            # still an institutional contact. Surface it for review rather than
-            # rejecting it - but never accept one that looks like an individual's
-            # private address.
-            warnings.append(f"{f}={v} uses a consumer email provider - confirm "
-                            f"it is the practice's published business address, "
-                            f"not a private one")
+        # Consumer-provider addresses (gmail/outlook/yahoo) are ACCEPTED when the
+        # doctor or their practice has published them. Indian clinicians commonly
+        # publish exactly such an address as their working contact, so rejecting
+        # them loses real, usable routes. The provenance requirement below is what
+        # enforces "published": the address must carry a `field: URL` source line.
         if not has_any_source_url:
             issues.append(f"{f}={v} populated but `sources` has no URL "
                           f"(fabrication risk)")

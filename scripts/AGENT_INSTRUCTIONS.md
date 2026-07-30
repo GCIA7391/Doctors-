@@ -38,10 +38,20 @@ result you write.
 3. **Never invent an email or a phone number.** Record one only if it appeared
    **verbatim** in WebSearch output. Never derive `firstname.lastname@hospital.com`
    from a name and a domain — that is fabrication even when the pattern is real.
-4. **Institutional and published contacts only.** Appointment lines, clinic
-   reception, department, secretary, hospital switchboard, published practice
-   email. **Never** a personal mobile number or a private personal email, even
-   if you find one. If a contact looks private, omit it and say so in `notes`.
+4. **Published contacts only — but "published" now includes personal-looking
+   addresses.** If the doctor or their practice has *published* it, you may
+   record it, including a gmail/outlook/yahoo address and including a mobile
+   number. What matters is that they chose to publish it, not what it looks
+   like. Acceptable places to find it: their own website, their clinic's site or
+   contact page, an official hospital profile, a government or university
+   profile, a conference speaker page, or a verified LinkedIn/Facebook/
+   Instagram/YouTube/X profile.
+   **Still absolutely barred:** anything from a contact broker or scraped
+   database (ZoomInfo, RocketReach, Apollo.io, ContactOut, SignalHire, Lusha,
+   Hunter, Scribd scrapes and the like); completing a masked address such as
+   `****@hospital.com`; any address or number you did not see published; and a
+   hospital switchboard passed off as the doctor's own line. The validator now
+   rejects broker domains outright.
 5. **Every populated field needs a provenance line in `sources`** — see §5.
 6. **Never merge two doctors.** If you cannot tell two same-name doctors apart,
    set `status` to `"Ambiguous Match"`, leave every contact and profile field
@@ -71,6 +81,46 @@ Common names (e.g. "Dr. Ravi Kumar", "Dr. Suresh Reddy") need more care: require
 the hospital or the specialty to match explicitly, not just the name.
 
 ---
+
+## 2b. WHAT THIS LIST IS FOR — read before deciding what to chase
+
+The workbook identifies doctors who may be **high-net-worth individuals** worth
+approaching about wealth and portfolio management. That changes your priorities:
+
+- **A reachable contact is worth more than a complete academic profile.**
+- **Evidence of practice ownership, leadership and scale is the second most
+  valuable thing you can find** — capture it in `verified_role`, `owns_clinic`
+  and `hni_signals`, quoting the public wording.
+
+Actively capture, when publicly stated: founder/owner of a clinic or hospital;
+multiple practice locations; Director / Chairman / HOD / Clinical Director /
+Senior Consultant titles; professorship or faculty posts; international
+fellowships and foreign board certification (FRCS, MRCP, MRCOG, FACC, ABIM…);
+conference faculty, proctoring, society office, editorial roles; awards and
+media appearances; and any **publicly stated procedure volume** ("4,000+ cancer
+surgeries"). Quote volumes verbatim — never estimate one.
+
+Never guess at wealth, income, assets or fees. Record only what a public page
+actually says about their professional standing.
+
+## 2c. CONTACT PRIORITY — search until you find ONE of these, then stop
+
+1. Professional email
+2. Publicly published personal email (gmail/outlook/etc. — acceptable, see rule 4)
+3. Direct mobile number, where the doctor or practice published it
+4. Clinic phone dedicated to that doctor
+5. Appointment page for that doctor
+6. Their own website
+7. LinkedIn
+8. Clinic profile
+9. Hospital profile
+10. Verified professional social media
+
+**Once you have a solid contact from the top of that ladder, stop searching and
+move to the next doctor.** Coverage across more doctors beats exhaustive depth
+on one. Do NOT spend searches hunting ORCID, Scopus, Publons, Google Scholar or
+ResearchGate — record them only if they appear on their own during normal
+research. That guidance replaces the earlier "spend one query" advice.
 
 ## 3. WHAT TO LOOK FOR, IN PRIORITY ORDER
 
@@ -115,18 +165,21 @@ switchboard yourself. Spend your effort on the doctor.
 Run **several** query variations per doctor. Stop early only when you have
 found a Tier-1 contact plus two corroborating official sources.
 
+Lead with contact-finding and ownership queries — they serve both goals at once:
+
 ```
-"Dr <Name>" <Hospital> <Specialty>
-"Dr <Name>" <Hospital> Hyderabad
-"Dr <Name>" <Specialty> Hyderabad profile
+"Dr <Name>" <Hospital> <Specialty>          # identity anchor
+"Dr <Name>" clinic                          # ownership + contact
+"Dr <Name>" email OR contact OR appointment # direct route
+"Dr <Name>" website
 "Dr <Name>" LinkedIn
-"Dr <Name>" email contact
-"Dr <Name>" appointment booking
-"Dr <Name>" clinic website
-"Dr <Name>" ORCID OR "Google Scholar" OR ResearchGate
-"Dr <Name>" publications
-"Dr <Name>" conference speaker
+"Dr <Name>" founder OR director OR chairman OR HOD    # HNI signals
+"Dr <Name>" Instagram OR Facebook           # for cosmetic/IVF/derm practices
+"Dr <Name>" conference OR speaker OR proctor
 ```
+
+Skip publication/identifier queries unless a Scholar/ORCID/ResearchGate link
+happens to surface on its own.
 
 Useful `allowed_domains` filters when a doctor is hard to pin down:
 `apollohospitals.com`, `apollo247.com`, `yashodahospitals.com`,
