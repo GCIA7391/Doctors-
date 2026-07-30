@@ -1,0 +1,49 @@
+{
+  "row_id": 804,
+  "name": "Dr. Kamalesh A",
+  "specialization": "General Medicine / Internal Medicine (General Physician); stated special interests in multi-organ dysfunction, HIV medicine and lifestyle disease prevention",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-kamlesh-general-physician",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-a-kamalesh-general-physician",
+  "lybrate": "",
+  "other_profiles": "Yashoda Hospitals health-talk session page (same doctor, official domain): https://www.yashodahospitals.com/health-talk/health-talk-session-with-dr-kamalesh-a/ | Yashoda Hospitals Secunderabad doctors listing: https://www.yashodahospitals.com/locations/secunderabad/doctors/ | Yashoda Hospitals general-medicine team listing: https://www.yashodahospitals.com/specialities/general-medicine/doctors/ | HexaHealth: https://www.hexahealth.com/secunderabad/doctor/dr-kamalesh-a-internal-medicine-specialist | myUpchar: https://www.myupchar.com/en/doctors/hyderabad/nehrunagar-s-o-hyderabad/general-physician/dr-dr-a-kamalesh-31654",
+
+  "indirect_method": "Official Yashoda Hospitals doctor profile - OPD and online video consultation booking",
+  "indirect_details": "Book directly on his own official Yashoda Hospitals profile https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/ , which offers both OPD and online video consultation. Department: General Medicine, Yashoda Hospital, Secunderabad (Behind Hari Hara Kala Bhavan, Secunderabad). Hospital-level switchboard/appointment line comes from the pipeline fallback; no per-doctor direct line is published.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Physician, General Medicine, Yashoda Hospitals, Secunderabad",
+  "verified_experience": "24+ years (per Yashoda Hospitals / corroborating directory profiles; input row says 25 years - consistent)",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant Physician in General Medicine at Yashoda Hospitals Secunderabad, a large multi-speciality corporate hospital. Featured by the hospital as the presenter of a public Health Talk session on its official site - hospitals use those slots for their front-of-house senior consultants. Qualifications reported as MBBS (Kurnool Medical College) and MD General Medicine (Kasturba Medical College, Mangalore). Directory listings indicate a second, evening attachment at Opal Clinics & Diagnostics, West Marredpally, Secunderabad (aggregator-sourced, unverified - not treated as ownership).",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\ncity: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\nappointment_link: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\nhospital_profile: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\npracto: https://www.practo.com/hyderabad/doctor/dr-kamlesh-general-physician\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-a-kamalesh-general-physician\nother_profiles: https://www.yashodahospitals.com/health-talk/health-talk-session-with-dr-kamalesh-a/\nother_profiles: https://www.hexahealth.com/secunderabad/doctor/dr-kamalesh-a-internal-medicine-specialist\nindirect_method: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\nindirect_details: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\nverified_role: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\nverified_experience: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/\nhni_signals: https://www.yashodahospitals.com/health-talk/health-talk-session-with-dr-kamalesh-a/\nconfidence_band: https://www.yashodahospitals.com/doctor/secunderabad/general-medicine/dr-kamalesh-a/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Initial-heavy name, so identity was held to the stricter bar of hospital AND specialty matching explicitly - both do. The official Yashoda URL encodes the branch and the department in the path (/doctor/secunderabad/general-medicine/dr-kamalesh-a/), matching the input row on name + specialty (Physician / General Medicine) + hospital (Yashoda) + branch (Secunderabad) + city + experience (25 vs 24+ years) in a single line of evidence. Band is Medium, not High: although several pages carry him (doctor profile, Secunderabad branch doctor list, general-medicine team list, health-talk page), all of them sit on the single official domain yashodahospitals.com, and the other corroborators (Skedoc, HexaHealth, myUpchar, Practo, JustDial) are aggregators that cannot lift the band. No email, phone, LinkedIn or research profile appeared anywhere in two searches - Yashoda publishes no per-doctor email or direct line, so those fields are blank rather than guessed. Deliberately NOT recorded: the JustDial listing number (call-tracking proxy) and any hospital central booking line, neither of which is his own. Practo listing is filed under the transposed/short form 'Dr. A. Kamalesh' with slug dr-kamlesh-general-physician at West Marredpally, Secunderabad; it surfaced on a full-name query and matches specialty and locality, but a human should sanity-check that single listing is the same man. Same caveat for the reported Opal Clinics & Diagnostics attachment."
+}

@@ -1,0 +1,49 @@
+{
+  "row_id": 884,
+  "name": "Dr. Raja Sekhar Reddy G",
+  "specialization": "Neurology - Consultant Neurologist (neuro physician, not a surgeon); General Neurology, Stroke, Epilepsy & Headache, Neuro Electrophysiology, Movement Disorders / Parkinson's disease",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/online-doctor-consultation/product/dr-raja-sekhar-reddy-g/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "https://www.lybrate.com/hyderabad/doctor/dr-raja-sekhar-reddy-g-neurologist",
+  "other_profiles": "Skedoc: https://www.skedoc.com/hyderabad/doctor/dr-raja-sekhar-reddy-g-neurologist | HexaHealth: https://www.hexahealth.com/hyderabad/doctor/dr-raja-sekhar-reddy-g-neurologist | Vaidam: https://www.vaidam.com/doctors/dr-raja-sekhar-reddy-g | Ortil: https://ortil.com/doctor/dr-raja-sekhar-reddy-g-general-neurologist",
+
+  "indirect_method": "Official Yashoda Hospitals doctor profile plus his own Yashoda online-consultation booking page (Somajiguda, Neurology department)",
+  "indirect_details": "Route enquiries or book through his own official Yashoda Hospitals doctor profile https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/ or his personal online video/OPD consultation booking page https://www.yashodahospitals.com/online-doctor-consultation/product/dr-raja-sekhar-reddy-g/ . Department landing page for the same unit: https://www.yashodahospitals.com/specialities/neurology/doctors/ . Yashoda publishes no per-doctor phone or email, so use the hospital-level fallback for a switchboard route.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Neurologist, Department of Neurology, Yashoda Hospitals, Somajiguda, Hyderabad",
+  "verified_experience": "18+ years per the Yashoda Hospitals profile (input row says 19 years - consistent)",
+  "owns_clinic": false,
+  "hni_signals": "Consultant neurologist at Yashoda Somajiguda, one of Hyderabad's largest private tertiary campuses, with his own paid online-consultation product page on the hospital site (Yashoda only creates those for consultants it markets directly). Credentials reported on the search-indexed profiles: MBBS (Bangalore University, 1996), MD General Medicine (Kasturba Medical College, 2001), DM Neurology (Sri Ramachandra University, Chennai, 2007); member of the Indian Academy of Neurology and the American Academy of Neurology. Sub-interest in neuro electrophysiology and movement disorders.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/\ncity: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/\nappointment_link: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-raja-sekhar-reddy-g/\nhospital_profile: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/\nlybrate: https://www.lybrate.com/hyderabad/doctor/dr-raja-sekhar-reddy-g-neurologist\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-raja-sekhar-reddy-g-neurologist\nother_profiles: https://www.hexahealth.com/hyderabad/doctor/dr-raja-sekhar-reddy-g-neurologist\nother_profiles: https://www.vaidam.com/doctors/dr-raja-sekhar-reddy-g\nother_profiles: https://ortil.com/doctor/dr-raja-sekhar-reddy-g-general-neurologist\nindirect_method: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-raja-sekhar-reddy-g/\nindirect_details: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/\nverified_role: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/\nverified_experience: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/\nhni_signals: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-raja-sekhar-reddy-g/\nconfidence_band: https://www.yashodahospitals.com/doctor/somajiguda/neurology/dr-raja-sekhar-reddy-g/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity nailed to the exact required combination via the official Yashoda URL path itself: yashodahospitals.com/doctor/SOMAJIGUDA/NEUROLOGY/dr-raja-sekhar-reddy-g/ - branch (Somajiguda) + department (Neurology, i.e. neuro physician, NOT neuro surgery) + name + city all in one official URL, with experience (18+ vs input 19 years) as a fourth match. Corroborated by Lybrate, Skedoc, HexaHealth, Vaidam and Ortil listings all naming him as neurologist at Yashoda Hospital Somajiguda. NAME-COLLISION EXCLUSIONS, all deliberately kept out of this record: (1) 'Dr. Rajasekhar Reddy K' - a Yashoda HITEC CITY neuro-SURGERY consultant at yashodahospitals.com/doctor/hitec-city/neuro-surgery/dr-rajasekhar-reddy-k/, different branch, different discipline (surgeon), and his Practo page (practo.com/hyderabad/doctor/dr-rajasekhar-reddy-k-neurosurgeon, KPHB) and Vaidam page were both excluded - this is why the practo field is left blank rather than filled with a same-name listing; (2) 'Dr Rajasekhar Reddy' of row 35 - general/laparoscopic surgery at Apollo Jubilee Hills, unrelated; (3) 'Dr Suresh Reddy Challamalla' of row 1603 - Gleneagles neurology, different name and hospital; (4) 'Dr. Rajasekhar Reddy' at Max Saket, Delhi (lyfboat.com/doctor/1559-rajasekhar-reddy/) - wrong city; (5) 'D. Raja Reddy' (Wikipedia) - a different, historic Hyderabad neurosurgeon. Band is Medium not High: although several pages were found, every OFFICIAL page is on the single yashodahospitals.com domain - one official domain, so one official source. No .gov.in / healinindia entry, no LinkedIn, no ORCID/Scholar/ResearchGate and no clinic or personal site surfaced; a dedicated query for those returned nothing, so all are left blank rather than guessed. No email or phone recorded: Yashoda publishes none per doctor, the Justdial listing that surfaced (justdial.com/.../040PXX40-XX40-170124214315-D6B1_BZDET) carries only a call-tracking proxy number and was rejected on that basis, and no exact-phrase-confirmable institutional line exists. One data-quality flag for a human: a MediGence aggregator page (medigence.com/doctor/pediatric-neurologist/raja-sekhar-reddy-g) labels him a PAEDIATRIC neurologist, which contradicts the hospital's own 'general neurology / adult stroke and epilepsy' description - treated as an aggregator mis-tag and not recorded. A 1mg listing under the variant spelling 'Dr. Rajasekhar Reddy G.' was also left out as unconfirmed."
+}
