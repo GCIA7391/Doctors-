@@ -341,6 +341,7 @@ def derive(rec, res, table):
 
     d["official_source_count"] = official_source_count(r) if res else 0
     d["experience_discrepancy"] = experience_discrepancy(rec, res)
+    d["affiliation_flag"] = affiliation_flag(res)
     return d
 
 
@@ -364,6 +365,33 @@ def experience_discrepancy(rec, res):
     if abs(pub - src) > 3:
         return (f"Source list says {src} yrs; published profile says {pub} yrs "
                 f"(difference {abs(pub - src)})")
+    return ""
+
+
+# Phrases research notes use when the doctor's hospital may not be the one the
+# source list names: a move, a dual appointment, or an unconfirmed affiliation.
+AFFILIATION_DOUBT_RE = re.compile(
+    r"stale|no longer|has moved|moved ~|former employer|current employer"
+    r"|affiliation[^.]{0,40}(not confirmed|unconfirmed|conflict|contradic)"
+    r"|(not confirmed|unconfirmed|conflict|contradic)[^.]{0,40}affiliation"
+    r"|second attachment|dual affiliation|overlapping affiliation", re.I)
+
+
+def affiliation_flag(res):
+    """Flag rows where the source list's hospital may be wrong or incomplete.
+
+    This is a KEYWORD SCAN OF THE RESEARCH NOTES, not a derived fact - unlike
+    the experience check there is no numeric field to compare, so the honest
+    thing is to surface what the note says and label how it was found. Always
+    read the Notes column before acting on it.
+    """
+    if not res:
+        return ""
+    notes = str(res.get("notes", "") or "")
+    if AFFILIATION_DOUBT_RE.search(notes):
+        return ("Research notes question the hospital in the source list "
+                "(possible move, dual appointment, or unconfirmed unit) - "
+                "read Notes before contacting")
     return ""
 
 

@@ -58,6 +58,7 @@ WIDTHS = {
     "Practo Profile": 34, "Apollo247/Directory Profile": 40,
     "Lybrate Profile": 30, "Other Professional Profiles": 34,
     "Review Reason": 44, "Experience Discrepancy": 46,
+    "Affiliation Flag": 48,
 }
 
 HYD_LOCALITIES = ["hyderabad", "secunderabad", "jubilee hills", "banjara hills",
@@ -186,13 +187,15 @@ def main():
             reasons.append("Partial match only (Low confidence)")
         if r["Experience Discrepancy"]:
             reasons.append("Source experience contradicts published profile")
+        if r["Affiliation Flag"]:
+            reasons.append("Hospital in source list may be stale or incomplete")
         if reasons:
             rr = dict(r)
             rr["Review Reason"] = "; ".join(reasons)
             review_rows.append(rr)
     rcols = ["Doctor Name", "Specialization", "Hospital", "Department", "City",
              "Review Reason", "Confidence Score", "Status",
-             "Experience", "Experience Discrepancy",
+             "Experience", "Experience Discrepancy", "Affiliation Flag",
              "Hospital Profile URL", "Best Way To Reach", "Notes",
              "Priority Rank"]
     write_grid(wb.create_sheet("Duplicates & Manual Review"), rcols, review_rows)
@@ -219,6 +222,7 @@ def main():
     n_review = sum(1 for r in rows if r["Status"] == STATUS_REVIEW)
     dup_rows = sum(1 for r in rows if r["Doctor Name"].strip().lower() in dup_names)
     n_exp_disc = sum(1 for r in rows if r["Experience Discrepancy"])
+    n_affil = sum(1 for r in rows if r["Affiliation Flag"])
     n_page = sum(1 for r, _ in researched if r["Verification Method"] == VERIFY_PAGE)
     n_search = sum(1 for r, _ in researched if r["Verification Method"] == VERIFY_SEARCH)
 
@@ -249,6 +253,7 @@ def main():
         ("Rows affected by duplicate names", dup_rows, False),
         ("Ambiguous identities requiring manual review", n_ambiguous, False),
         ("Source experience contradicts published profile (>3 yrs)", n_exp_disc, False),
+        ("Hospital in source list may be stale/incomplete (notes scan)", n_affil, False),
         ("Rows flagged 'Needs Human Review'", n_review, False),
         ("Total rows on the manual-review sheet", len(review_rows), False),
         ("", "", False),
@@ -329,6 +334,20 @@ def main():
         ("  private or restricted sources.", False),
         ("- Social profiles included only where clearly used professionally.", False),
         ("- Every populated field is traceable through the 'Sources Used' column.", False),
+        ("", False),
+        ("TWO SOURCE-DATA WARNINGS", True),
+        ("'Experience Discrepancy' flags rows where a hospital's own profile", False),
+        ("disagrees with the source list's experience figure by more than 3 years.", False),
+        ("That column feeds Priority Rank, so the research queue is partly ordered", False),
+        ("on figures the hospitals themselves contradict. Source values are left", False),
+        ("exactly as given and never silently corrected.", False),
+        ("", False),
+        ("'Affiliation Flag' marks rows where research found the doctor may have", False),
+        ("moved, may hold a dual appointment, or where the named unit could not be", False),
+        ("confirmed. It is a KEYWORD SCAN OF THE RESEARCH NOTES, not a derived", False),
+        ("fact - always read the Notes column before contacting these doctors.", False),
+        ("Contacting the hospital named in the source list may reach the wrong", False),
+        ("institution for them.", False),
         ("", False),
         ("COUNTRY", True),
         ("All eight hospital groups in this list are Hyderabad, India facilities, so", False),
