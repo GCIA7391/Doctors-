@@ -72,18 +72,33 @@ P_MULTI_SITE = (r"\bmultiple hospitals\b", r"\bmultiple simultaneous\b",
                 r"\bdual affiliation\b", r"\balso consults?\b", r"\balso practises\b",
                 r"\balso practices\b", r"\btwo hospital affiliations\b",
                 r"\bacross multiple\b", r"\bclinic chain\b", r"\bmultiple clinics\b",
-                r"\bdual/overlapping\b", r"\bconcurrent\b")
+                r"\bdual/overlapping\b", r"\bconcurrent\b",
+                r"\b(two|three|four|multiple|several) (practice )?locations?\b",
+                r"\bpractice locations\b", r"\bdual[- ]campus\b",
+                r"\bsecond (practice|site|clinic)\b", r"\bboth .{0,25}(campuses|branches)\b")
 P_ENTREPRENEUR = (r"\bfounder\b", r"\bco-founder\b", r"\bentrepreneur\b",
                   r"\bclinic chain\b", r"\bstartup\b", r"\bdirector of .{0,30}(pvt|private limited)\b")
 
 # --- training / standing ----------------------------------------------------
-P_INTL = (r"\bfellowship .{0,40}(usa|uk|germany|france|italy|japan|australia|singapore|canada|israel|korea)\b",
-          r"\b(usa|uk|germany|france|italy|japan|australia|singapore|canada|israel)\b.{0,30}\bfellowship\b",
-          r"\bFRCS\b", r"\bMRCP\b", r"\bMRCOG\b", r"\bFACC\b", r"\bFACS\b", r"\bFRCP\b",
-          r"\bABIM\b", r"\bAmerican Board\b", r"\bboard certified\b",
+_COUNTRIES = (r"usa|u\.s\.|united states|uk|united kingdom|england|scotland|"
+              r"germany|france|italy|japan|australia|singapore|canada|israel|"
+              r"korea|netherlands|greece|switzerland|sweden|belgium|spain|"
+              r"austria|taiwan|hong kong|dubai|ireland|new zealand")
+P_INTL = (rf"\bfellowship[^.]{{0,60}}({_COUNTRIES})\b",
+          rf"\b({_COUNTRIES})\b[^.]{{0,40}}\bfellowship\b",
+          rf"\btrain(ed|ing)[^.]{{0,40}}({_COUNTRIES})\b",
+          rf"\bobservership[^.]{{0,40}}({_COUNTRIES})\b",
+          # Foreign college fellowships / board certifications
+          r"\bFRCS\b", r"\bMRCP\b", r"\bMRCOG\b", r"\bFACC\b", r"\bFACS\b",
+          r"\bFRCP\b", r"\bFRCR\b", r"\bFRCA\b", r"\bFEBU\b", r"\bFEBS\b",
+          r"\bFICS\b", r"\bFSBRT\b", r"\bFCBT\b", r"\bFAMS\b", r"\bSCAI\b",
+          r"\bABIM\b", r"\bAmerican Board\b", r"\bboard[- ]certified\b",
+          r"\bEuropean Board\b", r"\bRoyal College\b",
+          # Named foreign institutions that recur in this dataset
           r"\bHarvard\b", r"\bTufts\b", r"\bMayo\b", r"\bCleveland Clinic\b",
-          r"\bJohns Hopkins\b", r"\btrained (in|at) .{0,30}(usa|uk|germany|japan|singapore)\b",
-          r"\bAOSpine\b", r"\bMCh .{0,20}(Liverpool|Mumbai|UK)\b")
+          r"\bJohns Hopkins\b", r"\bAOSpine\b", r"\bOsaka\b", r"\bFreeman Hospital\b",
+          r"\bNewcastle\b", r"\bLoyola\b", r"\bOregon Health\b", r"\bMie\b",
+          r"\bTata Memorial\b(?!.*\bIndia only\b)")
 P_SPEAKER = (r"\bconference\b", r"\bspeaker\b", r"\bfaculty at\b", r"\bproctor\b",
              r"\bpresented .{0,30}(paper|poster)\b", r"\bkeynote\b",
              r"\bEditor\b", r"\bEditorial\b", r"\bpast president\b",
@@ -117,10 +132,17 @@ PREMIUM_GROUPS = {"Apollo Hospitals", "AIG Hospital", "Yashoda Hospitals",
                   "Care Hospitals", "Gleneagles Aware Hospital", "Star Hospital",
                   "Citi Neuro Centre", "Rainbow Children's Hospital"}
 
+# A publicly stated volume: a number, then up to a few words of procedure
+# description, then a volume noun. Deliberately tolerant of the descriptor
+# ("750 SRS/SRT procedures", "20,000 successful cardiac surgeries") because the
+# alternative is silently dropping real, quoted evidence.
 VOLUME_RE = re.compile(
-    r"([\d,]{3,})\s*\+?\s*(?:cardiac |open heart |cancer |joint |knee |hip |spine |"
-    r"rhinoplast|hair transplant|cleft|burn|IVF |laparoscopic |robotic )?"
-    r"(?:surgeries|surgery|procedures|operations|implants|transplants|cases|deliveries)",
+    # Not a 4-digit year: graduation years and council registration numbers were
+    # being picked up as volumes. No ')' or '.' allowed in the descriptor either,
+    # so a match cannot run across a sentence or parenthesis boundary.
+    r"\b(?!(?:19|20)\d{2}\b)([\d][\d,]{2,})\s*\+?\s*(?:[A-Za-z/&-]+\s+){0,4}"
+    r"(?:surgeries|surgery|procedures|operations|implants|transplants|cases|"
+    r"deliveries|angioplasties|replacements|consultations)\b",
     re.I)
 
 
