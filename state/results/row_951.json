@@ -1,0 +1,50 @@
+{
+  "row_id": 951,
+  "name": "Dr. P.V.G.S. Prasad",
+  "specialization": "Urology - Advanced Endourology, Laparoscopic and Robotic Urology, Andrology / Men's Sexual Health, Renal Transplantation",
+  "city": "Secunderabad (Hyderabad)",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Yashoda urology department listing: https://www.yashodahospitals.com/specialities/urology/doctors/ | Yashoda andrology department listing: https://www.yashodahospitals.com/specialities/andrology/doctors/ | Yashoda group urology listing: https://www.yashodahospitals.com/doctors/urology",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Urologist, Andrologist, Robotic & Renal Transplant Surgeon, Yashoda Hospitals Secunderabad",
+  "verified_experience": "Not stated numerically on the official profile; source row says 15 Years, which nothing in the search output contradicts",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant across three high-fee sub-specialties simultaneously: robotic urology, renal transplantation and andrology / men's sexual health. Qualifications MCh Urology from Nizam's Institute of Medical Sciences (NIMS), MS General Surgery from Osmania Medical College, MBBS from Kurnool Medical College. Officially described as one of very few urologists with the lowest surgical complication rates. Renal transplant surgery and robotic urology are among the highest-value procedures in Indian private practice.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\ncity: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\nhospital_profile: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\nappointment_link: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\nother_profiles: https://www.yashodahospitals.com/specialities/urology/doctors/\nverified_role: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\nverified_experience: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\nhni_signals: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/\nconfidence_band: https://www.yashodahospitals.com/doctor/secunderabad/urology/dr-p-v-g-s-prasad/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Initial-heavy name resolved cleanly. Identity matched on four input facts: name 'Dr. P.V.G.S. Prasad', the exact specialty string from the source row ('Urologist, Andrologist Robotic & Renal Transplant Surgeon' - the official page reads 'Sr. Consultant Urologist, Andrologist, Robotic & Renal Transplant Surgeon'), Yashoda Hospitals, and the SECUNDERABAD branch, explicit in the official URL path /doctor/secunderabad/urology/. Band held at MEDIUM: yashodahospitals.com is the only official domain, and no independent second official source surfaced. APPOINTMENT LINK equals the hospital profile URL deliberately: the official page states that both an Online Video Consultation and an OPD Consultation can be booked from his profile, so that page genuinely is his per-doctor booking route, not merely a biography. DELIBERATELY NOT CONFUSED with Dr. T. Yashaswi Reddy, a different urologist at Yashoda MALAKPET whose profile appeared in the same search results - no data taken from it. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. NO EXPERIENCE FIGURE published on the official profile, so the source row's 15 years is left unchallenged rather than being contradicted or confirmed. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

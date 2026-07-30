@@ -1,0 +1,50 @@
+{
+  "row_id": 818,
+  "name": "Dr. L. Sudarshan Reddy",
+  "specialization": "Internal Medicine / General Medicine - infectious diseases, chronic disease management, medical emergencies",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Second Yashoda official page (Senior Consultant Physician): https://www.yashodahospitals.com/product/dr-l-sudarshan-reddy/ | Yashoda general-medicine team listing: https://www.yashodahospitals.com/specialities/general-medicine-hospital-in-hyderabad/team-general-medicine-doctors/ | HexaHealth (corroborating, lists him among Yashoda Hitec City internal-medicine specialists): https://www.hexahealth.com/hyderabad/doctor/dr-l-sudarshan-reddy-internal-medicine-specialist | Skedoc (corroborating): https://www.skedoc.com/hyderabad/doctor/dr-l-sudarshan-reddy-general-physician",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Physician and Clinical Director, Department of Internal Medicine, Yashoda Hospitals Hitec City",
+  "verified_experience": "Over 23 years (source row states 24 Years - consistent)",
+  "owns_clinic": false,
+  "hni_signals": "Clinical Director of Internal Medicine at Yashoda Hospitals Hitec City - a hospital leadership role, matching the title in the source row. Qualifications MBBS (Kurnool Medical College, 1997), MD General Medicine (KIMS). Won the best paper award at APICON 2018 for work on HIV. Active member of the Association of Physicians of India (API), the Indian Medical Association (IMA), and the Research Society for the Study of Diabetes in India (RSSDI) - each of these societies publishes member-facing contact routes that are a legitimate professional approach.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/\ncity: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/\nhospital_profile: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/\nother_profiles: https://www.yashodahospitals.com/product/dr-l-sudarshan-reddy/\nverified_role: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/\nverified_experience: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/\nhni_signals: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/\nconfidence_band: https://www.yashodahospitals.com/doctor/hitec-city/general-medicine/dr-l-sudarshan-reddy/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on five input facts: name 'Dr. L. Sudarshan Reddy', Internal Medicine / Physician specialty, Yashoda Hospitals, the HITEC CITY branch - explicit in the official URL path /doctor/hitec-city/general-medicine/ - and the 'Clinical Director' title from the source row, which the hospital's own description confirms ('Senior Consultant Physician and Department of Internal Medicine & Clinical Director'). Experience of over 23 years is consistent with the source row's 24 years, so no discrepancy is flagged. Band held at MEDIUM: yashodahospitals.com is the only official domain (two separate pages), with HexaHealth and Skedoc as directory-grade corroboration, which per the rubric cannot lift a row to High. DELIBERATELY EXCLUDED: a Wikipedia article for 'H. Sudarshan Ballal' surfaced in the same search - that is a completely different physician (Manipal Hospitals) and none of his data was used. APPOINTMENT LINK BLANK: no per-doctor booking page surfaced for him, so the Yashoda Hitec City route in the indirect fields is the correct next step. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
