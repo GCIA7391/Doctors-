@@ -1,0 +1,50 @@
+{
+  "row_id": 223,
+  "name": "Dr Hemavathi B V",
+  "specialization": "Obstetrics & Gynaecology, Reproductive Medicine and Fertility",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-hemavathi-b-v-405a032d-0a3e-4dc0-ad4d-e47c4598bf84",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/obstetrician-and-gynecologist/hyderabad/dr-hemavathi-b-v",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-b-v-hemavathi-gynecologist-obstetrician",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-hemavathi-b-v-405a032d-0a3e-4dc0-ad4d-e47c4598bf84",
+  "lybrate": "",
+  "other_profiles": "Apollo corporate OBGYN profile: https://www.apollohospitals.com/corporate/doctors/obstetrician-and-gynecologist/hyderabad/dr-hemavathi-b-v | Apollo Hyderabad region profile: https://www.apollohospitals.com/hyderabad/doctor/dr-hemavathi-b-v/ | Skedoc (corroborating, name variant Dr. B.V.Hemavathi): https://www.skedoc.com/hyderabad/doctor/dr-b-v-hemavathi-gynaecologist | myUpchar (corroborating, URL path states kanchanbagh): https://www.myupchar.com/en/doctors/hyderabad/kanchanbagh/obstetrics-gynaecology/dr-hemavathi-b-v-117122",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Obstetrician & Gynaecologist, Apollo DRDO Hospital, Kanchanbagh, Hyderabad",
+  "verified_experience": "20 years (source row states 18+ Years - a 2-year gap, within normal listing lag)",
+  "owns_clinic": false,
+  "hni_signals": "Qualifications MBBS (NTR University, 2001), DGO (NTR University, 2004), DNB Obstetrics & Gynaecology (NBE, 2009), with additional training in OBG ultrasound. Practice includes fertility treatment, embryo donor programme and gynaecological endoscopy - fertility and reproductive medicine are high-fee private-practice areas. No publicly stated leadership title found, so none is recorded.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/obstetrician-and-gynecologist/hyderabad/dr-hemavathi-b-v\ncity: https://www.apollo247.com/doctors/dr-hemavathi-b-v-405a032d-0a3e-4dc0-ad4d-e47c4598bf84\nhospital_profile: https://www.apollohospitals.com/doctors/obstetrician-and-gynecologist/hyderabad/dr-hemavathi-b-v\nappointment_link: https://www.apollo247.com/doctors/dr-hemavathi-b-v-405a032d-0a3e-4dc0-ad4d-e47c4598bf84\ndirectory_profile: https://www.apollo247.com/doctors/dr-hemavathi-b-v-405a032d-0a3e-4dc0-ad4d-e47c4598bf84\npracto: https://www.practo.com/hyderabad/doctor/dr-b-v-hemavathi-gynecologist-obstetrician\nother_profiles: https://www.apollohospitals.com/corporate/doctors/obstetrician-and-gynecologist/hyderabad/dr-hemavathi-b-v\nverified_role: https://www.myupchar.com/en/doctors/hyderabad/kanchanbagh/obstetrics-gynaecology/dr-hemavathi-b-v-117122\nverified_experience: https://www.practo.com/hyderabad/doctor/dr-b-v-hemavathi-gynecologist-obstetrician\nhni_signals: https://www.myupchar.com/en/doctors/hyderabad/kanchanbagh/obstetrics-gynaecology/dr-hemavathi-b-v-117122\nconfidence_band: https://www.apollohospitals.com/doctors/obstetrician-and-gynecologist/hyderabad/dr-hemavathi-b-v",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity verified by two independent official domains - apollohospitals.com (three separate pages) and apollo247.com - matching name, Obstetrics & Gynaecology / Reproductive Medicine specialty, Apollo Hospitals and Hyderabad. DRDO KANCHANBAGH UNIT: the input's specific unit is confirmed, but by DIRECTORY sources rather than Apollo's own pages - myUpchar's URL path contains /kanchanbagh/, Practo lists her as 'Gynecologist in Kanchanbagh', and JustDial titles her page 'Dr. Hemavathi B V (Apollo Drdo Hospital) in Kanchan Bagh ... Near Midhani Depot, Beside Owaisi Hospital, Santosh Nagar'. Three independent directories agreeing on the unit, with no competing unit anywhere, is treated as sufficient; the band rests on the official-domain identity match, not on the directories. NAME VARIANT: 'Dr. B.V. Hemavathi' and 'Dr. B.V.Hemavathi' are the same person (Apollo uses surname-last, directories use initials-first). DELIBERATELY NOT CONFUSED with Dr. Sangita A or Dr. Sangita Nayak, two other OBGYNs recorded at the same Apollo DRDO Kanchanbagh unit in this dataset - no data shared between those rows. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. The JustDial listing carries a number but JustDial numbers are call-tracking proxies, so it was not recorded. Note that the Apollo DRDO unit has its own reception line distinct from the Jubilee Hills switchboard, so the automatic Apollo group fallback in the indirect fields is approximate for her - a human should use the DRDO unit's own contact page. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
