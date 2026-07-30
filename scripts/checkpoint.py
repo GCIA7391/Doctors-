@@ -46,9 +46,17 @@ def main():
         raise SystemExit(1)
 
     print("=== rebuilding deliverable ===")
-    print(run("python3 scripts/merge_final.py").stdout)
+    merged = run("python3 scripts/merge_final.py").stdout
+    print(merged)
 
-    done, total = progress()
+    # Take the count from the rebuild itself. Agents may still be writing into
+    # state/results/, so re-globbing here would report a number that disagrees
+    # with the workbook we just wrote.
+    m = re.search(r"(\d+) doctors \| (\d+) researched", merged)
+    if m:
+        total, done = int(m.group(1)), int(m.group(2))
+    else:
+        done, total = progress()
     if not commit:
         print(f"(skipping commit) {done}/{total} researched")
         return
