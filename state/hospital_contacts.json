@@ -118,6 +118,8 @@
     "centres_page": "https://www.carehospitals.com/contact-us",
     "helpline": "040 6810 6589",
     "helpline_label": "CARE Hospitals Hyderabad appointment number",
+    "helpline_variant_seen": "040 6810 6529",
+    "helpline_note": "Two near-identical numbers have been observed for the Banjara Hills branch, differing by one digit: '040 6810 6589' (returned consistently by two independent searches as the appointment line, and used as the helpline above) and '040 6810 6529' (surfaced during row 410 research and traced to a CARE Banjara Hills switchboard page). Both may be real lines, or one may be a transcription artefact. Neither was discarded and neither was silently preferred. This matters because this table supplies the indirect contact route for every CARE row in the workbook - a human should confirm the correct number once, then update this field.",
     "email": "",
     "branches": {
       "banjara hills": {"page": "https://www.carehospitals.com/contact-us/care-hospital-banjara-hills", "phone": "040 6810 6589"},
