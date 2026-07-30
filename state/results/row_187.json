@@ -1,0 +1,49 @@
+{
+  "row_id": 187,
+  "name": "Dr Phani Jyotsna V",
+  "specialization": "Obstetrics & Gynaecology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "specialization: https://www.apollohospitals.com/book-doctor-appointment/gynecologist/hyderabad\ncity: https://www.apollohospitals.com/book-doctor-appointment/gynecologist/hyderabad\nconfidence_band: https://www.apollohospitals.com/book-doctor-appointment/gynecologist/hyderabad",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Ambiguous Match",
+  "notes": "AMBIGUOUS - ALL CONTACT AND PROFILE FIELDS DELIBERATELY BLANK. Four queries (name+hospital+specialty+branch, an apollohospitals.com/apollo247.com/askapollo.com domain-restricted query, a full-name-expansion query, and an exact-phrase \"Phani Jyotsna V\" query) failed to produce a single per-doctor official page for the name as given. WHAT I CAN SUPPORT: the exact phrase \"Phani Jyotsna V\" does return https://www.apollohospitals.com/book-doctor-appointment/gynecologist/hyderabad - Apollo's own Hyderabad obstetrician & gynecologist LISTING page - so an OBG of that name in Hyderabad under Apollo is real. That is a hospital-level listing, NOT a per-doctor profile, and it carries no contact details. WHY I WILL NOT NAME A PERSON: (1) The search summary was UNSTABLE about her campus - on one run it asserted 'available at Apollo Health City, Jubilee Hills' and on another 'listed among the doctors at Apollo Hospital, Financial District'. Both are summary-only; neither could be tied to an indexed per-doctor page. The input row says Financial District. (2) A DIFFERENT Apollo Hyderabad doctor carries almost the same name string in a DIFFERENT specialty: 'Dr PHANI JYOTSNA | General Surgeon in Hyderabad' at https://prohealth.apollohospitals.com/doctors/general-surgeon/hyderabad/dr-phani-jyotsna and 'Dr. K Phani Jotsna | General Surgeon, Hyderabad' at https://www.apollo247.com/doctors/ea4eddeb-dd64-4ef3-aa07-61bc68578368 . Recording that general surgeon's page or contact under this OBG row is precisely the same-name cross-contamination failure this project has already been burned by, so both were rejected. (3) THE STRONGEST CANDIDATE IS UNPROVEN BY NAME. 'Dr. V.P Jyotsna' / 'Dr. V P Jyotsna' matches this row on specialty (Obstetrics & Gynaecology, gynaecological endoscopy, fibroids, laparoscopic hysterectomy), hospital, branch (published address 'Apollo Hospitals, D.No-2-105/6/SE, Financial District, Nanakramguda Serilingampally, Hyderabad, Telangana 500032' - the input row's branch verbatim), qualification institution (MD Obstetrics & Gynaecology 2005, JIPMER Puducherry - the row's 'MD (JIPM)') and experience (MBBS 2000 / MD 2005 puts her at ~21 years, matching '21+ Years'). She has her own website https://www.drjyotsna.com/ with an appointment page https://www.drjyotsna.com/book-appointment , an about page https://www.drjyotsna.com/about , a Practo profile https://www.practo.com/hyderabad/doctor/dr-v-p-jyotsna-gynecologist-obstetrician-1 , a Skedoc profile https://www.skedoc.com/hyderabad/doctor/dr-v-p-jyotsna-gynaecologist , a Vaidam profile https://www.vaidam.com/doctors/dr-v-p-jyotsna and - importantly - an official profile at a COMPETING hospital, Ankura Hospital for Women and Children, Gachibowli: https://www.ankurahospitals.com/doctors/dr-v-p-jyotsna . BUT NO indexed page anywhere expands 'V.P.' to 'V. Phani' or otherwise states that V.P. Jyotsna is Phani Jyotsna V. That expansion is my inference, and inference is not evidence, so under Golden Rule 6 I am not merging the two records. WHAT A HUMAN SHOULD DO: confirm whether Dr V.P. Jyotsna is the same person as Dr Phani Jyotsna V (Apollo Financial District's OBG department can settle it in one call). If yes, this row becomes a rich Medium/High result via drjyotsna.com and the Ankura Hospitals profile - and note that the Ankura profile suggests her practice may now be centred on Ankura Gachibowli rather than Apollo, i.e. the input affiliation may also be stale. NO email or phone recorded for anyone: none appeared verbatim in any search output. HexaHealth's Apollo Financial District hospital page carries a 'Contact No.' - REJECTED, it is an aggregator helpline, not the doctor's line. JustDial results (including a 'Dr. Jyotsna E Rao, Apollo Health City Jubilee Hills' general surgeon, another distinct person) were rejected outright as call-tracking proxies. No LinkedIn, ORCID, Google Scholar or ResearchGate presence surfaced for any candidate."
+}
