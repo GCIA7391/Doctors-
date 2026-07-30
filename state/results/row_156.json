@@ -1,0 +1,50 @@
+{
+  "row_id": 156,
+  "name": "Dr Indira Ramasahayam Reddy",
+  "specialization": "Internal Medicine - diabetes management, chronic pain, rheumatic heart disease, irritable bowel syndrome",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-indira-ramasahayam-reddy-general-physician",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Apollo corporate internal-medicine profile: https://www.apollohospitals.com/corporate/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy | Apollo Hyderabad region profile: https://www.apollohospitals.com/region/hyderabad/doctor/dr-indira-ramasahayam-reddy/ | Possible Apollo 24|7 booking page under the shortened name 'Dr. Indira Reddy' - NOT confirmed as the same person, see notes: https://www.apollo247.com/doctors/dr-indira-reddy-3f601a95-9892-424e-8bcf-5039b03117df",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant, Internal Medicine, Apollo Hospitals, Jubilee Hills, Hyderabad - in post since 2000",
+  "verified_experience": "26 years (matches the source row's 26+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Unusually strong international credentials for this dataset: ABIM (American Board of Internal Medicine) certified, DNB General Medicine from The Salem Hospital USA (1994), and an appointment as Instructor in Clinical Medicine at TUFTS and HARVARD universities (1994-1995). Ran a private internal medicine practice at Family Medical Center, Florida (1997-2000) before returning to India. MBBS Bangalore Medical College and Research Institute (1987); Junior Resident in Neurology at NIMS Hyderabad (1988-89). Consultant at Apollo Jubilee Hills continuously since 2000 - a 26-year tenure at one premium institution. US board certification plus Harvard/Tufts teaching history is a distinct standing signal.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy\ncity: https://www.practo.com/hyderabad/doctor/dr-indira-ramasahayam-reddy-general-physician\nhospital_profile: https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy\npracto: https://www.practo.com/hyderabad/doctor/dr-indira-ramasahayam-reddy-general-physician\nother_profiles: https://www.apollohospitals.com/corporate/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy\nverified_role: https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy\nverified_experience: https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy\nhni_signals: https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy\nconfidence_band: https://www.apollohospitals.com/doctors/internal-medicine-physician/hyderabad/dr-indira-ramasahayam-reddy",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on five input facts: distinctive full name 'Dr Indira Ramasahayam Reddy', Internal Medicine specialty, Apollo Hospitals, the APOLLO HEALTH CITY JUBILEE HILLS unit - stated in the search output and corroborated by her Practo listing titled 'General Physician in Jubilee Hills' - and the 26 years figure, which matches the source row exactly with no discrepancy. Band held at MEDIUM rather than High: apollohospitals.com supplies THREE dedicated pages for her, but that is still ONE official domain, and per the rubric several pages on one domain cannot earn High. APPOINTMENT LINK DELIBERATELY LEFT BLANK and the Apollo 24|7 page moved to other_profiles with a caveat: that page is titled 'Dr. Indira Reddy', a SHORTENED name, and 'Indira Reddy' is a common name in Hyderabad. The specialty and city match, and Apollo247 is Apollo's own booking platform, so it is probably her - but 'probably' is not enough to publish as her booking route, because sending someone to the wrong doctor's appointment page is a real harm. A human can confirm it in one click. If confirmed, that URL becomes her Appointment Link and this row becomes High. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload earlier in this session."
+}
