@@ -1,0 +1,50 @@
+{
+  "row_id": 944,
+  "name": "Dr. Sreekanth CN",
+  "specialization": "Surgical Oncology - Head & Neck, Thyroid, Breast, GI and Thoracic Oncosurgery; Laparoscopic, Robotic and HIPEC Surgery",
+  "city": "Secunderabad (Hyderabad)",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Yashoda Secunderabad oncology department listing: https://www.yashodahospitals.com/specialities/oncology/doctors/secunderabad/ | Yashoda surgical-oncology department listing: https://www.yashodahospitals.com/specialities/surgical-oncology/doctors/ | Skedoc (corroborating, spelling variant 'Dr. Srikanth C N'): https://www.skedoc.com/hyderabad/doctor/dr-sreekanth-cn-surgical-oncologist | Ortil (corroborating): https://ortil.com/doctor/dr-sreekanth-c-n-surgical-oncologist",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant, Surgical Oncology, Laparoscopic & Robotic Surgery, Yashoda Hospitals Secunderabad (in post since October 2013)",
+  "verified_experience": "MBBS 2001, MS General Surgery 2007, MCh Surgical Oncology 2013; Senior Consultant at Yashoda since October 2013. Source row states 15 Years, consistent with the post-MS timeline.",
+  "owns_clinic": false,
+  "hni_signals": "Elite oncology training: MCh Surgical Oncology from Tata Memorial Hospital Mumbai (2010-2013) - India's leading cancer centre - MS General Surgery from Gandhi Medical College Secunderabad, MBBS from Osmania Medical College. Completed the 8th Advanced Course on Hyperthermic Intraperitoneal Chemotherapy (HIPEC) after Cytoreductive Surgery in Hamburg, Germany, February 2018. HIPEC, robotic oncosurgery and VATS esophagectomy are among the highest-value procedures in Indian private practice. Senior Consultant continuously since 2013.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/\ncity: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/\nhospital_profile: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/\nother_profiles: https://www.yashodahospitals.com/specialities/oncology/doctors/secunderabad/\nverified_role: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/\nverified_experience: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/\nhni_signals: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/\nconfidence_band: https://www.yashodahospitals.com/doctor/secunderabad/surgical-oncology/dr-sreekanth-cn/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on five input facts: name 'Dr. Sreekanth CN', the exact specialty string from the source row (Surgical Oncology, Laparoscopic & Robotic Surgery, HIPEC Surgery with the Germany training detail), Yashoda Hospitals, the SECUNDERABAD branch - explicit in the official URL path /doctor/secunderabad/surgical-oncology/ - and a training timeline consistent with the stated 15 years. The source row's parenthetical '(Germany)' against HIPEC is independently corroborated by the Hamburg 2018 HIPEC course, which is a strong confirmation that this is the right person. Band held at MEDIUM: yashodahospitals.com is the only official domain, with Skedoc and Ortil as directory-grade corroboration which per the rubric cannot lift a row to High. SPELLING VARIANT: 'Dr. Srikanth C N' and 'Dr. Sreekanth CN' are the same person - directories transliterate the given name both ways. Relevant if these rows are ever deduplicated by exact name match. APPOINTMENT LINK BLANK: no per-doctor booking page surfaced, so the Yashoda Secunderabad route in the indirect fields is the correct next step. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. A wellnessdestinationindia.com medical-tourism e-catalogue page also lists him but such catalogues were not treated as a source. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}
