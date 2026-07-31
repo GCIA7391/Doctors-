@@ -1,0 +1,49 @@
+{
+  "row_id": 503,
+  "name": "Dr. J V N K Aravind",
+  "specialization": "Neurosurgery (Consultant Neurosurgeon); brain and spine surgery, epilepsy",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "CARE Hospitals Nampally neurosurgery branch listing (he appears in this branch/speciality index): https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/neurosurgery | CARE Hospitals Nampally neurosciences centre-of-excellence listing: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/coe/neurosciences",
+
+  "indirect_method": "Official CARE Hospitals doctor profile page (Nampally branch), department route",
+  "indirect_details": "Reach him through his own official CARE Hospitals doctor profile, which carries the branch-specific appointment route: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon . Department: Neurosurgery / Neurosciences, CARE Hospitals, Nampally, Hyderabad - branch department listing: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/neurosurgery . No doctor-specific phone or email is published; the hospital-level fallback applies.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Neurosurgeon, Neurosurgery / Neurosciences, CARE Hospitals, Nampally, Hyderabad",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "Consultant Neurosurgeon on the CARE Hospitals Nampally neurosurgery and Neurosciences centre-of-excellence panels. Search summary (CARE profile) describes him as a consultant neurosurgeon covering complex brain and spine surgery and as a member of the Neurological Society of India (NSI) and the Indian Medical Association (IMA); consults in English, Hindi and Telugu. No ownership, directorship, HOD title, foreign fellowship, professorship or stated procedure volume surfaced. Seniority signals are modest - he reads as an early/mid-career consultant rather than a department head, so HNI potential looks limited on public evidence.",
+
+  "sources": "specialization: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\ncity: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\nhospital_profile: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/speciality/neurosurgery\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-nampally/coe/neurosciences\nindirect_method: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\nindirect_details: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\nverified_role: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\nhni_signals: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Initial-heavy name, so I required branch AND specialty to match explicitly before accepting. The official CARE result title is unambiguous: 'Dr. J V N K Aravind | Neurosurgeon in Nampally, Hyderabad | CARE Hospitals' on the URL .../doctor/hyderabad/nampally/j-v-n-k-aravind-neurosurgeon - that pins name + specialty (neurosurgeon) + branch (Nampally, its own path segment) + city + hospital in a single indexed line, matching the input row on four factors. No experience figure was in the input row, so branch match carried the identity. Only ONE official source family (carehospitals.com) was found, hence Medium, not High. CONTACT REJECTED: both searches' synthesised summaries pushed '+91-40-68106529' as the way to reach him - that is CARE's central booking line, not his own number, and per the brief it has appeared on every CARE row researched so far. Discarded, not recorded. No email, LinkedIn, personal/clinic site, Practo, Apollo247 or government-directory entry surfaced for him; the only other Aravind neurosurgeon in Hyderabad results was a clearly different person (Dr. Aravind Jaladi on Practo), which I did NOT merge. Experience left blank: the search summary said '7 years' but the input row carried no figure to cross-check and I could not see it on the page itself. Per section 2c I stopped after two searches, as the ladder position available (hospital profile, rung 9) was already reached and nothing higher was surfacing."
+}
