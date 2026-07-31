@@ -1,0 +1,50 @@
+{
+  "row_id": 55,
+  "name": "Dr Sindhu Pericherla",
+  "specialization": "Medical Oncology - solid tumours and haematologic malignancies; chemotherapy, immunotherapy, targeted therapy, personalised cancer therapy and clinical trials. Named tumour interests: breast, gynaecological, lung, gastrointestinal and genitourinary cancers.",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "SECOND per-doctor hospital profile - Citizens Specialty Hospital, Nallagandla, Hyderabad (the hospital that houses the American Oncology Institute cancer centre): https://www.citizenshospitals.com/doctor/dr-sindhu-pericherla | Apollo Hospitals official oncologist listing for Hyderabad, which carries her name, 8+ years and qualifications MBBS, MD (General Medicine), DM Medical Oncology, ECMO, FAGE: https://www.apollohospitals.com/book-doctor-appointment/oncologist/hyderabad | Apollo Hospitals oncology listing for Hyderabad: https://www.apollohospitals.com/book-doctor-appointment/oncology/hyderabad | Apollo Hospitals Financial District campus page (her campus per the source row): https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district | Apollo Hyderabad doctors archive: https://www.apollohospitals.com/region/hyderabad/doctors/ | AOI Hyderabad medical-oncologist roster: https://www.americanoncology.com/our-doctors/hyderabad/medical-oncologists | AOI Hyderabad (Nallagandla) hospital page: https://www.americanoncology.com/hospital/american-oncology-institute-at-hyderabad-nallagandla",
+
+  "indirect_method": "Per-doctor hospital profile pages (American Oncology Institute and Citizens Specialty Hospital) plus the Apollo Hyderabad oncology booking listing",
+  "indirect_details": "ROUTE 1: her per-doctor profile at the American Oncology Institute - https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla - AOI's Hyderabad cancer centre operates inside Citizens Specialty Hospital, Nallagandla. ROUTE 2: her per-doctor page on the Citizens Specialty Hospital site - https://www.citizenshospitals.com/doctor/dr-sindhu-pericherla . ROUTE 3 (matches the source row's stated employer): Apollo Hospitals' official Hyderabad oncologist booking listing, which names her - https://www.apollohospitals.com/book-doctor-appointment/oncologist/hyderabad - with the campus page for Apollo Hospitals Financial District at https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district . No doctor-specific Apollo URL for her surfaced in any search and none was constructed.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Medical Oncologist. Apollo's official Hyderabad oncologist listing places her at Apollo Hospitals, Financial District / Apollo Health City Jubilee Hills; she also holds a per-doctor profile as a Medical Oncologist at the American Oncology Institute cancer centre at Citizens Specialty Hospital, Nallagandla, Hyderabad.",
+  "verified_experience": "Published figures differ slightly by source and are recorded verbatim: '8+ years' (Apollo Hospitals listing) and 'over seven years of experience in oncology' (American Oncology Institute profile). Qualifications per Apollo: MBBS, MD (General Medicine), DM Medical Oncology, ECMO, FAGE. AOI records the DM (Medical Oncology) as from Sri Venkateswara Institute of Medical Sciences (SVIMS), Tirupati, 2022.",
+  "owns_clinic": false,
+  "hni_signals": "Practises across TWO major private cancer platforms in Hyderabad - Apollo (Financial District / Jubilee Hills) and the American Oncology Institute cancer centre at Citizens Specialty Hospital, Nallagandla - i.e. more than one practice location. DM Medical Oncology from SVIMS Tirupati, one of India's competitive super-specialty oncology programmes; also holds ECMO and FAGE. FOUR PROFESSIONAL SOCIETY MEMBERSHIPS, two of them international, published verbatim by AOI: American Society of Clinical Oncology (ASCO), European Society of Medical Oncology (ESMO), Indian Society of Medical and Pediatric Oncology (ISMPO) and Indian Cooperative Oncology Network (ICON). Research-active with published case studies and journal articles, including work on bispecific antibodies and CAR-T therapy in multiple myeloma and on pulmonary tuberculosis in breast cancer patients - CAR-T and bispecifics are the most expensive treatment lines in oncology. Runs clinical trials and personalised/targeted therapy, immunotherapy and multidisciplinary tumour-board care - all premium, high-value oncology service lines. No leadership title (Director/HOD) and no published procedure volume were found, so none is claimed.",
+
+  "sources": "specialization: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\ncity: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\nhospital_profile: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\nother_profiles: https://www.citizenshospitals.com/doctor/dr-sindhu-pericherla\nother_profiles: https://www.apollohospitals.com/book-doctor-appointment/oncologist/hyderabad\nother_profiles: https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district\nother_profiles: https://www.americanoncology.com/our-doctors/hyderabad/medical-oncologists\nindirect_method: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\nindirect_details: https://www.citizenshospitals.com/doctor/dr-sindhu-pericherla\nindirect_details: https://www.apollohospitals.com/book-doctor-appointment/oncologist/hyderabad\nverified_role: https://www.apollohospitals.com/book-doctor-appointment/oncologist/hyderabad\nverified_role: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\nverified_experience: https://www.apollohospitals.com/book-doctor-appointment/oncologist/hyderabad\nverified_experience: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\nhni_signals: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla\nconfidence_band: https://www.americanoncology.com/dr-profile/dr-sindhu-pericherla",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "IDENTITY: the surname Pericherla is rare and returned exactly one doctor in oncology. Matched on name + specialty (Medical Oncology) + city (Hyderabad) across two independent hospital groups, and the Apollo side additionally matches the source row's employer and 'Oncology' department. BAND HIGH, with the independence reasoning stated explicitly: (1) apollohospitals.com - official, and it names her with her qualifications and 8+ years; (2) americanoncology.com - a different hospital group's own site with a full per-doctor profile. citizenshospitals.com carries a third per-doctor page but is NOT counted as a further independent source, because AOI's Hyderabad cancer centre physically operates inside Citizens Specialty Hospital, Nallagandla - they are one practice location under two brands. Two genuinely independent official sources therefore support this row. NO APOLLO PER-DOCTOR URL: despite a domain-restricted search across apollohospitals.com / apollo247.com / askapollo.com, no doctor-specific Apollo page for her surfaced. Per the golden rules NO Apollo doctor URL was constructed from the known pattern; hospital_profile therefore points at the AOI per-doctor page, which is a genuine official hospital doctor profile, and the Apollo listing pages that DO name her are recorded under other_profiles. appointment_link is left blank because no booking page specific to her was seen. NO EMAIL OR PHONE: none published anywhere in five searches. Two contact-broker style pages (reachstream.com and medicprospects.com 'oncologist email list' pages) appeared in results and were REJECTED outright as scraped databases - nothing was taken from them. Do not substitute the Apollo group lines 04069321004 / 040-2360-7777. LINKEDIN DELIBERATELY BLANK: a LinkedIn profile named 'Sindhu Pericherla' exists but is a quality-assurance professional in the Greater Toronto Area, Canada - a DIFFERENT person - so it was not recorded. A LinkedIn people-directory page listing five same-name profiles also appeared; none could be tied to this doctor. FOR A HUMAN: worth confirming which affiliation is current. The Apollo listing gives 8+ years while AOI gives 'over seven', suggesting AOI/Citizens may be the earlier post and Apollo Financial District the current one, consistent with the source row - but no page states a start or end date, so both are recorded as live routes."
+}
