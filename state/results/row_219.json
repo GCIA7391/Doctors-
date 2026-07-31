@@ -1,0 +1,49 @@
+{
+  "row_id": 219,
+  "name": "Dr Srinivas Dasarapu",
+  "specialization": "General Surgery",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Unit-level reception at Apollo Hospitals DRDO, Kanchanbagh (the branch named in the brief), plus Apollo's general-surgeon appointment listing for Hyderabad",
+  "indirect_details": "Apollo Hospitals DRDO Kanchanbagh unit reception: 040 24342222 (published on Apollo's own branch page https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh ; this is the DRDO unit's own line, distinct from the Jubilee Hills switchboard). Unit is at Santosh Nagar, Kanchanbagh, Hyderabad 500258. Online booking for the same unit: https://www.apollo247.com/hospital/apollo-hospitals-d-r-d-o-kanchanbagh-in-hyderabad-8bf52349-b0c2-420d-9f3b-b24f1ee31b43 . General-surgeon appointment listing for Hyderabad: https://www.apollohospitals.com/book-doctor-appointment/general-surgeon/hyderabad . Ask the DRDO unit reception for Dr Srinivas Dasarapu, General Surgery, by name.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "040 24342222",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "specialization: https://www.apollohospitals.com/book-doctor-appointment/general-surgeon/hyderabad\ncity: https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh\nhospital_number: https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh\nindirect_method: https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh\nindirect_details: https://www.apollo247.com/hospital/apollo-hospitals-d-r-d-o-kanchanbagh-in-hyderabad-8bf52349-b0c2-420d-9f3b-b24f1ee31b43\nconfidence_band: https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "NOT an ambiguous match - 'Dasarapu' is a distinctive surname and no second Dr Dasarapu surfaced anywhere. The problem is different and worth stating precisely: across five queries (including domain-restricted searches on apollohospitals.com/apollo247.com/askapollo.com/apolloclinic.com and on practo/skedoc/credihealth/lybrate/justdial/bajajfinservhealth) NO indexed per-doctor page for him was returned. Every doctor URL that came back belonged to a DIFFERENT person - Dr Kilambi Srinivas, Dr Srinivas S, Dr Srinivas K, Dr Srinath S, Dr G Srinivasa Rao - and none of them was recorded, because attaching another doctor's profile to this row would be a merge error. Search summaries repeatedly asserted 'General Surgeon, 19+ years, MBBS MS FMAS FIAGES FALS(Hernia), Apollo Hospitals DRDO Kanchanbagh and Apollo Clinic Manikonda', which is consistent with the brief's hospital, branch and specialty, but per the golden rules a summary assertion with no citable indexed page is not evidence - so verified_role and verified_experience are deliberately left BLANK rather than recorded from the summary. Band is therefore Low and status Needs Human Review. CONTACT: the only recordable route is the Apollo DRDO Kanchanbagh unit reception 040 24342222; this was NOT taken from a summary alone - the mandatory exact-phrase re-check on \"040 24342222\" returned Apollo's own official branch page for this unit, so it is published and unit-specific, and it is recorded in hospital_number (institutional), never as his personal line. DISCARDED: 18605007788 and 8065827392 (Apollo central helplines, not a unit or doctor line) and all Justdial numbers (call-tracking proxies). Also noted for the human reviewer: summaries place him at Apollo Clinic Manikonda as well as Apollo DRDO Kanchanbagh - if a second location is confirmed, Manikonda may be the easier route to him."
+}
