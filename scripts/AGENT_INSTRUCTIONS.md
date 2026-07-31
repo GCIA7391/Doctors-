@@ -311,6 +311,22 @@ otherwise stuck at `Medium`.
 If the band would be `Low` or `Unknown`, set `status` to `"Needs Human Review"`
 and keep only the fields you are certain of.
 
+**PRACTICAL ACCURACY IS THE TARGET — read this before agonising over a band.**
+One strong public corroboration is generally sufficient to record a profile.
+`Medium` is a perfectly good, usable result and most rows will land there; do
+not withhold a good profile merely because a second independent official source
+does not exist. Reserve `Ambiguous Match` for cases where you genuinely cannot
+tell two people apart — not for cases that are merely thinly sourced. Losing a
+real prospect to excess caution is a worse error here than a Medium band.
+
+**Search aggressively — do not stop after one failed query.** Work through the
+variations in section 4 until they are genuinely exhausted. Collect EVERY
+publicly published contact you find: hospital and department phones, clinic
+reception, practice manager, secretary, WhatsApp, appointment numbers, booking
+portals, the doctor's own site, their published Gmail/Outlook/Yahoo, published
+mobiles, and professional social profiles. Reject only scraped broker
+databases, leaked data, private information, and anything unverified.
+
 ---
 
 ## 6. THE `sources` FIELD — provenance contract
