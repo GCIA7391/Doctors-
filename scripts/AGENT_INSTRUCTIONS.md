@@ -280,6 +280,16 @@ page never surfaced. Do that.
   AIG name spellings differ from this source list routinely (it publishes
   "Gayathri" for "Gayatri", drops middle names, and reorders initials) — try
   variants before concluding a doctor is unfindable.
+- **Citi Neuro Centre** — publishes **NO per-doctor pages at all**. Both sites
+  carry only a combined roster: `citineurocentre.com/doctors/` and
+  `cityneurocenter.com/our-doctors.html`. There is no `/doctor/<slug>` family, so
+  for these ~60 rows expect `hospital_profile` to be blank and lean on the
+  doctor's other affiliations, their own site, and reputable directories. A
+  missing Citi Neuro page proves nothing about the doctor.
+  Note also that the source list's "Citi Neuro Centre" label has already proved
+  **wrong at least once** — row 1710 turned out to be an Apollo cardiologist with
+  no Citi Neuro connection at all. If two independent negative checks find no
+  link, say so and record the affiliation the evidence actually supports.
 - **Yashoda** — `yashodahospitals.com/doctor/<branch>/<speciality>/<name-slug>/`
   The branch segment is the single strongest branch evidence available. Both
   `hitec-city` and `hitech-city` spellings occur; one redirects to the other.
