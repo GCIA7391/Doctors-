@@ -266,6 +266,20 @@ page never surfaced. Do that.
   Best method: WebSearch with `allowed_domains=["aighospitals.com"]` on name +
   specialty. **A result titled "404 Page Not Found" is a dead page, not a
   profile — do not record it, and never construct a URL from these patterns.**
+  Three AIG-specific traps, each found the hard way:
+  1. A plural URL **with a trailing slash** (`/doctors/dr-x/`) 404s universally.
+     That is an artifact of the trailing slash, NOT evidence the doctor has no
+     page — retry without it before concluding anything.
+  2. AIG pages often surface only through the Google-translate mirror
+     `aighospitals-com.translate.goog/doctor/dr-<slug>?_x_tr_...`. That mirror
+     carries the correct doctor title and is recordable verbatim. Do NOT rewrite
+     it to the canonical host — the canonical often never appears in results, and
+     rewriting it would be constructing a URL.
+  3. AIG title/URL mismatches occur: the index has served one doctor's slug under
+     a different doctor's title. **Trust the slug, not the result title.**
+  AIG name spellings differ from this source list routinely (it publishes
+  "Gayathri" for "Gayatri", drops middle names, and reorders initials) — try
+  variants before concluding a doctor is unfindable.
 - **Yashoda** — `yashodahospitals.com/doctor/<branch>/<speciality>/<name-slug>/`
   The branch segment is the single strongest branch evidence available. Both
   `hitec-city` and `hitech-city` spellings occur; one redirects to the other.
