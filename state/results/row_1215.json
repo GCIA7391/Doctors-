@@ -1,0 +1,49 @@
+{
+  "row_id": 1215,
+  "name": "Dr. D. Sridhar",
+  "specialization": "Surgical Oncology (laparoscopic and robotic cancer surgery; breast cancer / sentinel lymph node surgery)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "https://www.linkedin.com/in/sridhar-dasu-b112012aa/",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-sridhar-dasu-surgical-oncologist",
+  "lybrate": "",
+  "other_profiles": "https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/ ; https://zenonco.io/best-oncologist-in-hyderabad/dr-sridhar-dasu-oncologist-appointment ; https://www.skedoc.com/hyderabad/hospital/aig-hospital-gachibowli",
+
+  "indirect_method": "SLG Hospitals' own doctor page for him (his second, non-AIG affiliation), plus the AIG Gachibowli surgical oncology department listing and hospital doctor-search route",
+  "indirect_details": "SLG Hospitals page dedicated to him: https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/ | AIG surgical oncology doctors listing (numeric speciality filter): https://aighospitals.com/doctors?speciality=20 | AIG doctor search: https://www.aighospitals.com/doctor-search | AIG find-a-doctor: https://www.aighospitals.com/doctors | AIG contact/appointment page: https://www.aighospitals.com/contact | AIG Gachibowli doctor listing on Skedoc: https://www.skedoc.com/hyderabad/hospital/aig-hospital-gachibowli",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant / Senior Consultant Surgical Oncologist, AIG Hospitals, Gachibowli, Hyderabad; also published as Consultant Surgical Oncologist at SLG Hospitals, Hyderabad",
+  "verified_experience": "MS; M.Ch (Surgical Oncology); FMAS. Laparoscopic and robotic cancer surgeon.",
+  "owns_clinic": false,
+  "hni_signals": "Consultant-grade surgical oncologist at AIG Hospitals Gachibowli, a 1000-bed super-specialty hospital with eight Centres of Excellence including Oncology. Holds a SECOND named consultant post published on another hospital group's own site (SLG Hospitals, Hyderabad) - a multi-institution practice, which is the strongest scale signal available for him. Premium specialty and technology tier: M.Ch Surgical Oncology plus FMAS, practising laparoscopic AND robotic cancer surgery, and publicly associated with AIG Hospitals' robotic surgery programme and its simulation training set-up. Research-active: published in the Indian Journal of Surgical Oncology on 'Awareness of Lymphatic Anatomy to Reduce False Negative Sentinel Lymph Node Rate in Breast Cancer', and a co-author on a screening-mammography pilot study in the Journal of Clinical and Diagnostic Research (2017).",
+
+  "sources": "specialization: https://www.skedoc.com/hyderabad/doctor/dr-sridhar-dasu-surgical-oncologist\ncity: https://www.skedoc.com/hyderabad/doctor/dr-sridhar-dasu-surgical-oncologist\nlinkedin: https://www.linkedin.com/in/sridhar-dasu-b112012aa/\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-sridhar-dasu-surgical-oncologist\nother_profiles: https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/\nindirect_method: https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/\nindirect_details: https://aighospitals.com/doctors?speciality=20\nverified_role: https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/\nverified_experience: https://www.skedoc.com/hyderabad/doctor/dr-sridhar-dasu-surgical-oncologist\nowns_clinic: https://www.skedoc.com/hyderabad/doctor/dr-sridhar-dasu-surgical-oncologist\nhni_signals: https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/\nconfidence_band: https://slghospitals.com/dr-sridhar-dasu-consultant-surgical-oncologist-slg-hospitals/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "NAME RECONCILIATION: the workbook's 'Dr. D. Sridhar' is published everywhere as 'Dr. Sridhar Dasu' - the leading initial D is the surname Dasu, in the South Indian surname-initial-first convention. Identity matches on all four assigned facts: name element (Sridhar / Dasu), specialty (Surgical Oncology), hospital (AIG Hospitals) and branch/city (Gachibowli, Hyderabad), stated together on his Skedoc profile and repeated by ZenOnco and by the HexaHealth AIG Gachibowli doctors listing; his LinkedIn profile is titled 'Sridhar Dasu - AIG Hospitals'. No competing 'Sridhar' in surgical oncology surfaced on aighospitals.com, so this is not an ambiguous match. HOSPITAL_PROFILE LEFT BLANK ON PURPOSE: an AIG doctor URL for him IS indexed - https://aighospitals.com/doctors/dr-sridhar-dasu/ - but the search index returns it with the title '404 Page Not Found', so the page is dead. Recording a dead URL as his hospital profile would be misleading, and constructing a replacement in another AIG URL family would breach the no-construction rule, so the field is empty. The indexed-then-removed URL is itself useful evidence that AIG has published a page for him, and it also pins the AIG plural-form pattern. A human re-check later may find him restored under the singular /doctor/ form. AIG URL PATTERN FINDING (first AIG rows in this dataset - full detail in row_1213 notes): (a) YES, aighospitals.com publishes per-doctor profile pages and they index well. (b) FOUR URL families were observed verbatim, so never construct one: [1] https://aighospitals.com/doctor/<dr-name-slug> - singular, the commonest current form; [2] https://aighospitals.com/doctors/<dr-name-slug> - plural, older and partly decommissioned, which is exactly why THIS row has no live profile; [3] https://aighospitals.com/doctor-profile/<dr-name-slug>; [4] https://aighospitals.com/doctor-profile/<numeric-id>. Slugs are 'dr-' + full-name slug, sometimes with a trailing initial. (c) The doctor-page pattern encodes NEITHER department NOR, by default, branch. Specialty is exposed only as a NUMERIC query parameter on the listing pages - https://aighospitals.com/doctors?speciality=20 is the surgical-oncology-side listing that surfaced for this doctor, alongside ?speciality=21, =26 and =28 for other oncology and transplant groupings. Branch exists only as an OPTIONAL leading path segment, '/gcb/' for Gachibowli and '/bh/' for Banjara Hills, and is used mainly on speciality, sub-speciality and doctor-search pages (e.g. /gcb/speciality/..., /bh/sub-speciality/..., /bh/doctor-search) rather than on doctor pages, though /bh/doctor/<slug> does occur. Recommended method for the ~360 AIG rows that follow: WebSearch with allowed_domains=[\"aighospitals.com\"] on name plus specialty, and treat a result titled '404 Page Not Found' as a dead page rather than a profile. REJECTED CONTACTS: a ZoomInfo result offered a MASKED address of the form s***@aighospitals.com together with a phone - rejected twice over, as a barred contact-broker database and as a masked address that must never be completed; nothing from it, including its 'Senior Consultant Surgical Oncology' wording, is relied on as a source line here. ZenOnco and HexaHealth booking numbers were also rejected as aggregator helplines. No email or phone for him appeared verbatim on any legitimate indexed page, so both are blank. Band Medium: slghospitals.com is a hospital's own site and so counts as one official source for his identity and role, but his current AIG affiliation rests on LinkedIn (self-published) plus corroborating-only directories, and the AIG page itself is dead - not enough for High."
+}
