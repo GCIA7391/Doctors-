@@ -1,0 +1,49 @@
+{
+  "row_id": 652,
+  "name": "Dr. Sadath Ahmed",
+  "specialization": "Cardiothoracic and Vascular Surgery (Vascular Surgery, Cardiac Surgery)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Hospital doctor profile / departmental branch listing",
+  "indirect_details": "Book via his own CARE Hospitals doctor page - https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon . Departmental route: CARE Hospitals Banjara Hills cardiac surgery branch listing - https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/speciality/top-cardiac-surgeons and vascular surgery branch listing - https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/vascular-endovascular-surgeons",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Cardiothoracic and Vascular Surgeon, CARE Hospitals, Banjara Hills, Hyderabad",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "International fellowship: Fellowship in Advanced Adult Cardiac Surgery, University of Toronto, Canada. Superspecialty surgical qualifications MS, MCh (Cardio Thoracic Surgery). Premium dual specialty - cardiac surgery plus vascular/endovascular surgery. Listed on CARE Hospitals' curated 'Top 10 Cardiac Surgeons in Banjara Hills' and 'Best Cardiac Surgeons in India' pages.",
+
+  "sources": "hospital_profile: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon\nappointment_link: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon\nspecialization: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon\nverified_role: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon\nhni_signals: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/speciality/top-cardiac-surgeons\nindirect_method: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/vascular-endovascular-surgeons\nindirect_details: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/vascular-endovascular-surgeons\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/sadath-ahmed-cardithoracic-and-vascular-surgeon",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on name + specialty + branch + city in a single official result: 'Dr Sadath Ahmed | Best Cardiothoracic and Vascular ...' on the CARE Hospitals per-doctor URL carrying the /banjara-hills/ branch segment, which corroborates the brief's CARE Hospitals, Banjara Hills posting. He also appears on the CARE Banjara Hills branch listings for both cardiac surgery and vascular/endovascular surgery, matching the brief's dual specialty. No published direct email, mobile or dedicated clinic line surfaced across five query variations (name+hospital, name+specialty+qualifications, name+practo/appointment/clinic/aortic, branch vascular and cardiac listings); professional_email and professional_phone therefore left blank rather than guessed. The CARE group central line +91-40-68106529 was seen in summaries for sibling doctors and REJECTED as a group switchboard. Toronto fellowship and MS/MCh qualifications came from search-result content tied to his CARE affiliation; treat the fellowship detail as worth a human spot-check since it was summary-level rather than from a titled per-doctor result line. Band Medium: CARE Hospitals is the only official source; no independent government, university or second-hospital source surfaced. DISTINCT from row 654 Dr. Sailaja Vasireddy, a different CTVS surgeon at the same CARE Banjara Hills unit - separated by distinct names and distinct per-doctor CARE URLs (sadath-ahmed-cardithoracic-and-vascular-surgeon vs sailaja-vasireddy-cardiothoracic-vascular-surgeon); researched with separate query sets and no contact was carried between them."
+}
