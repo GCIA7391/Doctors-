@@ -280,6 +280,21 @@ page never surfaced. Do that.
   AIG name spellings differ from this source list routinely (it publishes
   "Gayathri" for "Gayatri", drops middle names, and reorders initials) — try
   variants before concluding a doctor is unfindable.
+- **Rainbow Children's Hospital** (`rainbowhospitals.in`) — publishes per-doctor
+  pages that index well:
+  `/all/doctor/<city>/<branch-or-unit-slug>/<facility-type-slug>/dr-<name-slug>-<specialty-slug>`
+  It encodes BOTH branch and specialty. Three traps:
+  1. The facility-type segment varies (`children-care-hospital`, `pediatric-hospital`).
+  2. A UNIT slug can occupy the branch position — e.g. `rchi` (Rainbow Children's
+     Heart Institute) is physically at Banjara Hills, so that is not a
+     contradiction of a "Banjara Hills" source row.
+  3. **The specialty slug is unreliable** — a paediatric cardiologist appeared
+     under `...-pediatrician`, and surnames get dropped for an initial
+     (`dr-d-sri-phani-bhargavi` for "Dhulipudi Sri Phani Bhargavi"). Trust the
+     page TITLE over the slug here, and search by given names too.
+  Other families: `/doctors/best-<specialty>-in-<locality>`, `/our-doctors`,
+  `/our-centre/hyderabad/<branch>`, booking `/all/book-an-appointment`, and
+  unit-level contact pages such as `/rchi/contact`.
 - **Citi Neuro Centre** — publishes **NO per-doctor pages at all**. Both sites
   carry only a combined roster: `citineurocentre.com/doctors/` and
   `cityneurocenter.com/our-doctors.html`. There is no `/doctor/<slug>` family, so
