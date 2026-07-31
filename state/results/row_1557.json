@@ -1,0 +1,49 @@
+{
+  "row_id": 1557,
+  "name": "Dr. Shabbir",
+  "specialization": "Cardiology - Interventional, Structural and Endovascular Cardiology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.askapollo.com/doctors/cardiologist/hyderabad/dr-shabbir-ali-shaik",
+  "lybrate": "",
+  "other_profiles": "https://prohealth.apollohospitals.com/doctors/cardiologist/hyderabad/dr-shabbir-ali-shaik ; https://www.pcronline.com/Physicians/Shabbir-Ali-Shaik ; https://www.apollo247.com/doctors/dr-shabbir-fb7c56d7-dabc-4b89-a721-d0095b35cf39",
+
+  "indirect_method": "AIG Hospitals Banjara Hills Cardiology department page plus the AIG central appointment/contact route",
+  "indirect_details": "AIG Hospitals Banjara Hills Cardiology speciality page (his department): https://aighospitals.com/banjara-hills/speciality/cardiology | AIG Banjara Hills doctor listing: https://aighospitals.com/bh/doctors | AIG doctor search: https://www.aighospitals.com/doctor-search | AIG contact/appointment page: https://www.aighospitals.com/contact | Apollo Hyderabad cardiology booking page carrying his own profile: https://www.askapollo.com/doctors/cardiologist/hyderabad/dr-shabbir-ali-shaik",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Interventional Cardiologist, AIG Hospitals, Banjara Hills, Hyderabad",
+  "verified_experience": "Publicly stated: 'his strong desire to advance medical education led him to teach cardiology fellows since 5 years'. European certifications: ESC-HFA certified and EAPCI certified. Prior/parallel post recorded as Interventional Cardiologist, Apollo Hospitals Jubilee Hills, Hyderabad.",
+  "owns_clinic": false,
+  "hni_signals": "PREMIUM INTERVENTIONAL SUBSPECIALTY at the top end of the field - publicly stated to perform complex angioplasty, intravascular imaging, atherectomy, and STRUCTURAL HEART interventions including TAVR, TMVR and MitraClip, plus endovascular repair for aortic aneurysm/dissection (EVAR) and mechanical circulatory support. Structural-heart operators are a very small, high-earning cohort in India. INTERNATIONAL CERTIFICATION: certified by ESC-HFA (European Society of Cardiology - Heart Failure Association) and EAPCI (European Association of Percutaneous Cardiovascular Interventions). AWARD: INDRAVARDAN AMBALAL MODI GOLD MEDAL for exemplary performance in the field of Cardiology at IAMICON-2021. INTERNATIONAL SOCIETY PRESENCE: carries a physician profile on PCR Online (EuroPCR / PCR, the leading global interventional-cardiology course organisation) - https://www.pcronline.com/Physicians/Shabbir-Ali-Shaik. ACADEMIC ROLE: teaches cardiology fellows (five years of fellow-teaching stated). Multi-institution senior career across two of Hyderabad's largest private groups, AIG Hospitals Banjara Hills and Apollo Hospitals Jubilee Hills. Research-active with published papers on cardiovascular conditions.",
+
+  "sources": "specialization: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik\ncity: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik\nhospital_profile: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik\ndirectory_profile: https://www.askapollo.com/doctors/cardiologist/hyderabad/dr-shabbir-ali-shaik\nother_profiles: https://www.pcronline.com/Physicians/Shabbir-Ali-Shaik\nindirect_method: https://aighospitals.com/banjara-hills/speciality/cardiology\nindirect_details: https://aighospitals.com/banjara-hills/speciality/cardiology\nverified_role: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik\nverified_experience: https://www.pcronline.com/Physicians/Shabbir-Ali-Shaik\nowns_clinic: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik\nhni_signals: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik\nconfidence_band: https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik",
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "AMBIGUITY RESOLVED - this row was flagged as the highest-risk in the batch because the workbook gives a single name with no surname. It is NOT recorded as Ambiguous Match because the disambiguation requirement was met exactly: a WebSearch restricted to allowed_domains=[\"aighospitals.com\"] on 'Shabbir cardiology doctor' returned EXACTLY ONE Shabbir on the entire AIG site - https://aighospitals.com/banjara-hills/doctor/dr-shabbir-ali-shaik, whose page title reads verbatim 'Dr. Shabbir Ali Shaik cardiologist at AIG Hospitals'. That single result matches all three required facts in one line: name (Shabbir), hospital (AIG Hospitals) and specialty (cardiology), plus city (Banjara Hills, Hyderabad). No second Shabbir in AIG cardiology surfaced across three queries, so there are no two people to confuse. FULL NAME resolved to 'Dr. Shabbir Ali Shaik'. URL FAMILY: the page surfaced under the branch-prefixed family https://aighospitals.com/banjara-hills/doctor/<slug> - recorded verbatim as returned; the /bh/ short-prefix and the unprefixed /doctor/ variants did not appear for him, so neither was constructed. Band HIGH: two INDEPENDENT official hospital sources plus an international society profile agree on name + subspecialty + city - aighospitals.com (current AIG Banjara Hills post) and the Apollo Hospitals group (askapollo.com and prohealth.apollohospitals.com, both carrying 'Dr SHABBIR ALI SHAIK | Cardiologist in Hyderabad'; all Apollo domains count as ONE source), corroborated by pcronline.com which records him as an interventional cardiologist at Apollo Hospitals Jubilee Hills, Hyderabad. AFFILIATION CAVEAT for a human: AIG and Apollo Jubilee Hills both publish him; the workbook and the AIG page are treated as current, with Apollo as the prior or parallel post. CONTACTS: no email, mobile or dedicated clinic line for him appeared verbatim on any indexed page across three queries, so professional_email and professional_phone are deliberately BLANK; the AIG central line is the automatic hospital fallback and was not recorded as his own. LINKEDIN DELIBERATELY BLANK: a profile 'shabbir ali - Cardiologist - OWAISI hospital and research centre' (linkedin.com/in/shabbir-ali-0a08a9234/) surfaced but its name is truncated and its hospital is Owaisi Hospital and Research Centre, not AIG or Apollo - it could not be tied to this doctor, so it was left out rather than guessed. APOLLO247 CAVEAT: https://www.apollo247.com/doctors/dr-shabbir-...cf39 is titled only 'Dr. Shabbir, Cardiologist in Hyderabad' (surname truncated); it is almost certainly the same Apollo record but is filed under other_profiles rather than appointment_link because the truncated name alone cannot prove it. No ORCID, Google Scholar or ResearchGate profile surfaced."
+}
