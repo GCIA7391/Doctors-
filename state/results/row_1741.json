@@ -1,0 +1,49 @@
+{
+  "row_id": 1741,
+  "name": "Dr. A. Sumanth",
+  "specialization": "",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Hospital appointments desk / appointments mailbox at Citi Neuro Centre, Uppal (hospital-level fallback only - the doctor himself could not be verified)",
+  "indirect_details": "Citi Neuro Centre group appointments line 9494984747 and appointments mailbox appointments@citineurocentre.in, published at http://www.citineurocenter.com/general-information.html and https://citineurocentre.com/contact/ . Uppal campus: 2-3-215/H/A/NR, Shanthi Nagar, Uppal, Hyderabad; the Uppal cardiology department page is https://citineurocentre.com/best-cardiology-hospital-in-uppal/ . Ask the desk to confirm whether Dr. A. Sumanth still consults there and in which department before using this route.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "appointments@citineurocentre.in",
+  "secretary_number": "",
+  "hospital_number": "9494984747",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "city: https://citineurocentre.com/best-cardiology-hospital-in-uppal/\nindirect_method: http://www.citineurocenter.com/general-information.html\nindirect_details: https://citineurocentre.com/best-cardiology-hospital-in-uppal/\nhospital_email: http://www.citineurocenter.com/general-information.html\nhospital_number: http://www.citineurocenter.com/general-information.html\nconfidence_band: https://www.hexahealth.com/rangareddy/hospital/citi-neuro-centre-uppal/doctors-list",
+  "confidence_band": "Unknown",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "NOT VERIFIED - no public trace of this doctor was found, so every doctor-level field is deliberately blank. Six query variations were run: '\"Dr. A. Sumanth\" cardiologist Citi Neuro Centre Uppal Hyderabad'; '\"Dr Sumanth\" cardiologist Hyderabad Uppal \"Citi Neuro\"'; '\"Dr. Sumanth\" cardiologist Hyderabad DM cardiology Uppal'; '\"A Sumanth\" cardiologist Hyderabad doctor profile'; '\"Sumanth\" doctor \"Citi Neuro Centre\" Hyderabad'; and '\"Dr Sumanth\" heart specialist cardiologist Hyderabad Telangana MBBS MD DM'. None returned a page, profile, listing or mention of a Dr. A. Sumanth anywhere in Hyderabad, in cardiology or any other specialty. The only near-name hit is Dr. Palem Sumanth Reddy, an interventional cardiologist at Aster Narayanadri, TIRUPATI - a different city and clearly a different person, so it was rejected. Additional negative evidence: HexaHealth's doctor list for Citi Neuro Centre Uppal (https://www.hexahealth.com/rangareddy/hospital/citi-neuro-centre-uppal/doctors-list) shows only three doctors, none named Sumanth and none in cardiology, and Skedoc's Uppal hospital page likewise lists no cardiologist named Sumanth. Citi Neuro Centre is primarily a NEURO specialty group; cardiology at Uppal appears to be a small unit, which is consistent with the source workbook's cardiology entries for this branch being imprecise. Only the hospital-level fallback route is recorded, and it is confined to the indirect / hospital_* fields - it is NOT this doctor's own line. This is 'Needs Human Review' rather than 'Ambiguous Match': there are not two candidates to tell apart, there are zero. CITI NEURO CENTRE URL FINDING: the current site citineurocentre.com publishes NO per-doctor profile pages (single roll-up at https://citineurocentre.com/doctors/ plus department pages); the legacy site does, at http://www.cityneurocenter.com/dr-<name-slug>.html (mirrored on citineurocentre.com and citineurocenter.com hosts), but only for neurosurgeons."
+}
