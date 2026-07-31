@@ -49,7 +49,15 @@ P_DIRECTOR = (r"\bdirector\b", r"\bclinical director\b", r"\bmedical director\b"
 P_CHAIRMAN = (r"\bchairman\b", r"\bchairperson\b", r"\bchair\b(?!.*\bside\b)")
 P_HOD = (r"\bhead of (the )?department\b", r"\bHOD\b", r"\bdepartment head\b",
          r"\bgroup head\b", r"\bhead[, ]+(department|dept)\b")
-P_SENIOR = (r"\bsenior consultant\b", r"\bsr\.? consultant\b", r"\bchief\b")
+# "Senior Consultant" is the common form, but hospitals also publish "Senior
+# Interventional Cardiologist", "Sr. Neurosurgeon" and so on - all the same
+# seniority grade.
+P_SENIOR = (r"\bsenior consultant\b", r"\bsr\.? consultant\b", r"\bchief\b",
+            r"\b(senior|sr\.?)\s+(interventional|consultant|specialist|surgeon|"
+            r"physician|cardiologist|neurosurgeon|neurologist|oncologist|"
+            r"urologist|nephrologist|radiologist|gyn(a)?ecologist|"
+            r"p(a)?ediatrician|anesthesiologist|anaesthesiologist|"
+            r"gastroenterologist|endocrinologist|pulmonologist|dermatologist)\b")
 P_PROF = (r"\bprofessor\b", r"\bprof\.\b", r"\bassoc\.? prof\b",
           r"\bassociate professor\b", r"\bfaculty\b")
 P_FOUNDER = (r"\bfounder\b", r"\bco-founder\b", r"\bfounded\b", r"\bestablished (his|her|their) own\b")
@@ -137,10 +145,18 @@ PREMIUM_GROUPS = {"Apollo Hospitals", "AIG Hospital", "Yashoda Hospitals",
 # ("750 SRS/SRT procedures", "20,000 successful cardiac surgeries") because the
 # alternative is silently dropping real, quoted evidence.
 VOLUME_RE = re.compile(
-    # Not a 4-digit year: graduation years and council registration numbers were
-    # being picked up as volumes. No ')' or '.' allowed in the descriptor either,
-    # so a match cannot run across a sentence or parenthesis boundary.
-    r"\b(?!(?:19|20)\d{2}\b)([\d][\d,]{2,})\s*\+?\s*(?:[A-Za-z/&-]+\s+){0,4}"
+    # A stated volume looks like "<count> [up to 4 descriptor words] <noun>".
+    # Guards, each added after a real false positive was found in this dataset:
+    #   - the count is proper thousands format (20,000) or plain digits (2000),
+    #     and must not be followed by a comma, digit or ')' - that is how
+    #     graduation years and registration numbers leaked in;
+    #   - descriptor words cannot be connectives (but/and/in/from...), which is
+    #     how "2008 but MS General Surgery" leaked in;
+    #   - no '.' in the descriptor, so a match cannot span a sentence boundary.
+    # A round count such as "over 2000 procedures" is genuine and still matches.
+    r"\b(\d{1,3}(?:,\d{3})+|\d{3,})(?![\d,)])\s*\+?\s*"
+    r"(?:(?!(?:but|and|in|from|at|with|the|or|is|was|of|per|by|for|to|a|an)\s)"
+    r"[A-Za-z/&-]+\s+){0,4}"
     r"(?:surgeries|surgery|procedures|operations|implants|transplants|cases|"
     r"deliveries|angioplasties|replacements|consultations)\b",
     re.I)
@@ -236,7 +252,11 @@ def score(rec, res):
         pts += 5
 
     # --- negative signals -------------------------------------------------
-    if _has(blob, *P_JUNIOR):
+    # Only penalise juniority when nothing senior is on record. A 23-year
+    # Director who trained through the UK registrar grade will legitimately have
+    # the word "registrar" in their history; that is career narrative, not their
+    # current standing, and must not drag the score down.
+    if _has(blob, *P_JUNIOR) and not leadership:
         pts -= 10
 
     # --- confidence damping: don't score unverified identity highly -------
