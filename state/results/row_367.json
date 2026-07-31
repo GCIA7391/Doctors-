@@ -1,0 +1,49 @@
+{
+  "row_id": 367,
+  "name": "Dr Vijay Kumar B",
+  "specialization": "Cardiac Sciences - Interventional Cardiology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Official Apollo Hospitals doctor profile page plus the Apollo Hospitals Secunderabad cardiology department page",
+  "indirect_details": "His official Apollo per-doctor profile is https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b (Apollo serves this profile on a non-canonical Tagalog '/tl/' locale path; it is recorded exactly as returned by search and has NOT been rewritten to a canonical host, per the no-URL-construction rule). Apollo's Secunderabad cardiology department page, the route to his OPD desk, is https://www.apollohospitals.com/hyderabad/hospitals/secunderabad/specialities/cardiology/ , and the Secunderabad cardiologist roster is at https://www.askapollo.com/hospital/hyderabad/apollo-hospitals-secunderabad/cardiologist . No personal email, direct phone, personal booking page, own website or LinkedIn is published for him on any indexed page. The standard Apollo group switchboard is deliberately NOT recorded here as his own line.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Interventional Cardiologist, Cardiac Sciences, Apollo Hospitals, Hyderabad",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "Practises in interventional cardiology, a high-value procedural cardiac subspecialty, within the Apollo Hospitals group. No director/HOD/chairman title, no professorship, no fellowship, no clinic ownership and no publicly stated procedure volume could be confirmed for him on any indexed page. Deliberately conservative: several seniority claims that surfaced in search summaries belong to a possibly-different doctor of the same name (see notes) and were therefore not recorded.",
+
+  "sources": "specialization: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b\ncity: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b\nhospital_profile: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b\nindirect_method: https://www.apollohospitals.com/hyderabad/hospitals/secunderabad/specialities/cardiology/\nindirect_details: https://www.askapollo.com/hospital/hyderabad/apollo-hospitals-secunderabad/cardiologist\nverified_role: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b\nhni_signals: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b\nconfidence_band: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "INITIAL-HEAVY NAME - extra disambiguation applied as instructed, and this row was nearly set to Ambiguous Match before a genuine Apollo per-doctor page was found on the sixth query. IDENTITY ANCHOR: https://www.apollohospitals.com/tl/doctors/interventional-cardiologist/hyderabad/dr-vijay-kumar-b , title 'Dr. Vijay Kumar B | Mga Ospital ng Apollo', slug dr-vijay-kumar-b. This matches the input row on FOUR criteria at once - exact name form 'Vijay Kumar B', specialty (interventional cardiology, which is the Cardiac Sciences department), city (Hyderabad) and hospital group (Apollo). The '/tl/' Tagalog locale path is a known Apollo quirk documented in the brief; it was recorded verbatim and not 'corrected'. RULED OUT as different people: 'Dr Vijay Dikshit' (Apollo cardiothoracic, already in this dataset), 'Dr. Bandaru Kalyan Vijay Kumar' (AIG, already in dataset), 'Dr. V. Vinoth kumar' (CARE, already in dataset), 'Dr. S. Vijay Kumar Reddy' (KIMS-Sunshine interventional cardiologist), 'Dr. Vijay Kumar Devraj' (KIMS cardiothoracic surgeon), 'Dr. Chennamchetty Vijay Kumar' (a different Apollo Hyderabad consultant), 'Dr. Vikas Kumar' (Apollo 247 cardiologist), and the Apollo Secunderabad cardiologists 'Dr Col M Sitaram' and 'Dr Arun Srinivas'. UNRESOLVED SAME-NAME CLUSTER - FLAGGED FOR HUMAN REVIEW, AND DELIBERATELY NOT MERGED: a second, well-documented 'Dr. VIJAY KUMAR B, Interventional Cardiologist' exists in Hyderabad at Archana Hospital, Madina Guda (official page archanahospitals.com/doctor/dr-vijay-kumar-b/), with 13 years experience, MBBS / MD Internal Medicine / DM Cardiology, previously at Sunridge Multispeciality Hospital and Prathima Hospitals, and with matching listings on HexaHealth, Skedoc and cardiologistindia.com (Chandanagar / Madeenaguda, Miyapur). That profile names NO Apollo affiliation, and Apollo listing summaries gave conflicting credentials for their Vijay Kumar B (8+ years, MBBS + MD General Medicine). Because it is genuinely unclear whether these are one man with two affiliations or two different cardiologists sharing an initial-heavy name, the golden rule 'never merge two doctors' was applied: NONE of the Archana / HexaHealth / Skedoc / cardiologistindia URLs, credentials or experience figures have been recorded in any field. Only the Apollo-confirmed facts are recorded. A human should resolve whether the Archana Hospital doctor is the same person - if so, that page is a strong additional contact route. BRANCH CAVEAT: the input row says Secunderabad. Apollo doctor slugs encode city but never branch, so the branch cannot be proven from the URL; Apollo listing pages did associate him with Apollo Secunderabad, but only via model-synthesised summaries, so the branch is treated as unconfirmed rather than asserted. Band is Medium: the Apollo group is only ONE official source (all apollohospitals.com / askapollo.com / apollo247.com domains count once) and no independent official source - government, university or another hospital - could be confirmed for this individual. NO contact value was recorded: no email, phone, mobile or booking link for him appeared verbatim on any indexed page, and the Apollo group switchboard numbers were correctly excluded as group lines."
+}

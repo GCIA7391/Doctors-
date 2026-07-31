@@ -1,0 +1,52 @@
+{
+  "row_id": 309,
+  "name": "Dr Rajesh Reddy Pasham",
+  "specialization": "Neurology (Neurosciences) - MBBS, MD General Medicine, DM Neurology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://book-appointment.healthplix.com/dr-rajesh-reddy-pasham-neurology-miyapur-hyderabad",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "https://www.facebook.com/RajeshNeuroCenter/",
+  "instagram": "https://www.instagram.com/rajesh_reddy_neurologist/",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/rajesh-reddy-p-neurologist",
+  "directory_profile": "https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur",
+  "lybrate": "https://www.lybrate.com/hyderabad/clinic/best-neurologist-rajesh-neuro-center",
+  "other_profiles": "Skedoc: https://www.skedoc.com/hyderabad/doctor/dr-rajesh-reddy-p-neurologist | Drlogy: https://drlogy.com/hyderabad/doctor/dr-rajesh-reddy-pasham | Hospitals India: https://hospitalsindia.co.in/doctor/dr-rajesh-reddy-pasham-neurologist-hyderabad/",
+
+  "indirect_method": "Own clinic (Rajesh Neuro Center, Miyapur) booking page, plus the Apollo DRDO Kanchanbagh neurologist listing",
+  "indirect_details": "His own clinic Rajesh Neuro Center, Flat No 101, RBR Complex, opposite K S Bakers, Miyapur, Hyderabad 500049; clinic timings Mon-Sat, bookable directly via his HealthPlix page https://book-appointment.healthplix.com/dr-rajesh-reddy-pasham-neurology-miyapur-hyderabad and via https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur. At Apollo he sits in the DRDO Kanchanbagh unit - Apollo's own neurologist listing for that unit is https://www.apollohospitals.com/book-doctor-appointment/neurologist/hyderabad/drdo/ and the unit page is https://www.apollohospitals.com/hospitals/apollo-hospitals-drdo-kanchanbagh (use the DRDO Kanchanbagh unit reception, not the Jubilee Hills switchboard).",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "appointment_number": "",
+  "clinic_number": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Neurologist (Neurosciences), Apollo Hospitals DRDO, Kanchanbagh, Hyderabad; Founder/owner of Rajesh Neuro Center, Miyapur, Hyderabad",
+  "verified_experience": "11-12+ years (Apollo listing states 12+ years; Practo/Drlogy state 11 years)",
+  "owns_clinic": true,
+  "hni_signals": "Owns and runs his own neurology practice: Practo's clinic page states 'Rajesh Neuro Center, Miyapur is the brain child of Dr. Rajesh Reddy Pasham to serve millions of Patients who are suffering from Neuro disorders.' The clinic has its own Facebook page (@RajeshNeuroCenter) and he runs a professional Instagram account (@rajesh_reddy_neurologist). Dual practice: private clinic in Miyapur plus consultant post at Apollo Hospitals DRDO Kanchanbagh. Member, Indian Academy of Neurology. Sub-specialty services advertised include deep brain stimulation, epilepsy surgery, movement disorders and nerve/muscle disorders.",
+
+  "sources": "specialization: https://www.practo.com/hyderabad/doctor/rajesh-reddy-p-neurologist\ncity: https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur\nappointment_link: https://book-appointment.healthplix.com/dr-rajesh-reddy-pasham-neurology-miyapur-hyderabad\nfacebook: https://www.facebook.com/RajeshNeuroCenter/\ninstagram: https://www.instagram.com/rajesh_reddy_neurologist/\npracto: https://www.practo.com/hyderabad/doctor/rajesh-reddy-p-neurologist\ndirectory_profile: https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur\nlybrate: https://www.lybrate.com/hyderabad/clinic/best-neurologist-rajesh-neuro-center\nother_profiles: https://drlogy.com/hyderabad/doctor/dr-rajesh-reddy-pasham\nindirect_details: https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur\nverified_role: https://www.apollohospitals.com/book-doctor-appointment/neurologist/hyderabad/drdo/\nverified_experience: https://www.practo.com/hyderabad/doctor/rajesh-reddy-p-neurologist\nowns_clinic: https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur\nhni_signals: https://www.practo.com/hyderabad/clinic/rajesh-neuro-center-miyapur\nconfidence_band: https://www.apollohospitals.com/book-doctor-appointment/neurologist/hyderabad/drdo/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity anchored on the distinctive surname Pasham plus an exact qualification match (MBBS, MD General Medicine, DM Neurology) across Apollo's own neurologist listing for the DRDO Kanchanbagh unit and his Practo/Drlogy/Skedoc profiles - same doctor. Apollo-domain searches placed him specifically at Apollo Hospitals DRDO, Kanchanbagh (Neurosciences, 12+ years), NOT Jubilee Hills; one search summary also mentioned Apollo Health City Jubilee Hills, but no Jubilee Hills doctor page for him was ever returned, so that claim is not recorded. He is careful to distinguish from Dr C Rajesh Reddy and Dr S Rajesh Reddy (Sannareddy), both different Apollo Jubilee Hills neuro doctors with their own pages. No per-doctor apollohospitals.com profile URL was returned for him, so hospital_profile is left blank rather than constructed. No email or phone is published anywhere indexed: JustDial listings for the clinic were rejected as call-tracking proxies and a Scribd document hit was rejected as a scrape. One healinindia.gov.in query returned nothing for him. Band Medium - Apollo is the only official source; Practo/Lybrate/HealthPlix are corroborating or self-published."
+}

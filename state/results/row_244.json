@@ -1,0 +1,49 @@
+{
+  "row_id": 244,
+  "name": "Dr Chandra Sekhar Bijjala",
+  "specialization": "Urology (Endo-urology, laser urology, laparoscopic urology, paediatric urology, urogynaecology, reconstructive urology, renal transplantation)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.credihealth.com/doctor/chandrasekhar-bijjala-urologist",
+  "lybrate": "",
+  "other_profiles": "Citizens Specialty Hospital (official hospital doctor profile, Hyderabad): https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala | Sri Vijaya Hospitals (official hospital team page): https://srivijayahospitals.com/team/dr-chandra-sekhar-bijjala/ | Skedoc: https://www.skedoc.com/hyderabad/doctor/dr-chandra-sekhar-b-urologist | MediBuddy: https://www.medibuddy.in/doctor-consultations/hyderabad/urologist/dr-bijjala-chandra-sekhar-263006 | MyMediLand: https://www.mymediland.com/doctor/9712/1/india/hyderabad/urologist/dr.-chandra-sekhar-bijjala/MML-DOC-0009712/ | Curofy: https://curofy.com/drchandrasekharbijjala",
+
+  "indirect_method": "Other-hospital official doctor profile (Citizens Specialty Hospital) plus Apollo Hospitals Hyderabad urology department booking page",
+  "indirect_details": "No per-doctor page for him exists on apollohospitals.com or apollo247.com in the search index, so the Apollo route is only the department-level urology booking page for Hyderabad: https://www.apollohospitals.com/book-doctor-appointment/urologist-and-andrologist/hyderabad . The only OFFICIAL hospital page carrying his own name and photo is Citizens Specialty Hospital, Hyderabad: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala - reception/OPD enquiries for him should go through that hospital until the Apollo attachment is confirmed. A second official hospital page exists at Sri Vijaya Hospitals: https://srivijayahospitals.com/team/dr-chandra-sekhar-bijjala/ .",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Urologist, Hyderabad - named on the Citizens Specialty Hospital official doctor directory and the Sri Vijaya Hospitals team page. The Apollo Hospitals (Financial District / Jubilee Hills) attachment given in the input row is NOT confirmed by any Apollo per-doctor page.",
+  "verified_experience": "Approximately 14-17 years in urology. Citizens Specialty Hospital states 'over 14 years'; the input row says 16+ years. Training timeline is consistent with both: MBBS Osmania Medical College (2003/2004), MS General Surgery Gandhi Medical College (2009), MCh Urology Osmania Medical College (2013).",
+  "owns_clinic": false,
+  "hni_signals": "Super-specialist (MCh Urology) doing renal transplantation and reconstructive urology - the highest-margin end of urology. Advanced laparoscopic training in Bangkok. Member of the Urological Society of India, Hyderabad Urological Society and the International Society of Reconstructive Urology. Career track through several large Hyderabad corporate hospitals (AIG Hospitals, KIMS, Maxcure, Fernandez, Citizens Specialty), which indicates a senior consultant with a portable practice rather than a junior appointee.",
+
+  "sources": "specialization: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\ncity: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\ndirectory_profile: https://www.credihealth.com/doctor/chandrasekhar-bijjala-urologist\nother_profiles: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\nother_profiles: https://srivijayahospitals.com/team/dr-chandra-sekhar-bijjala/\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-chandra-sekhar-b-urologist\nother_profiles: https://www.medibuddy.in/doctor-consultations/hyderabad/urologist/dr-bijjala-chandra-sekhar-263006\nother_profiles: https://www.mymediland.com/doctor/9712/1/india/hyderabad/urologist/dr.-chandra-sekhar-bijjala/MML-DOC-0009712/\nother_profiles: https://curofy.com/drchandrasekharbijjala\nindirect_method: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\nindirect_details: https://www.apollohospitals.com/book-doctor-appointment/urologist-and-andrologist/hyderabad\nverified_role: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\nverified_experience: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\nhni_signals: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala\nconfidence_band: https://www.citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "STALE / UNCONFIRMED AFFILIATION - flagged for a human. Five WebSearch queries (including domain-restricted searches on apollohospitals.com and apollo247.com) returned NO per-doctor Apollo profile for him. Every Apollo URL that came back is a generic category or hospital page (e.g. /book-doctor-appointment/urologist-and-andrologist/hyderabad, /online-doctors/best-urologist-in-*-hyderabad, /hospitals/apollo-hospitals-financial-district) - none is a doctor page, and I did not construct one. The WebSearch synthesised summary repeatedly asserted 'available at Apollo Health City Jubilee Hills and Apollo Hospitals Financial District', but that assertion is not attached to any indexed Apollo page for him, so per the anti-fabrication rule I treated it as unconfirmed and left hospital_profile and appointment_link blank. What IS verified on official hospital domains: (1) citizenshospitals.com/doctor/dr-chandra-sekhar-bijjala - his full name, urology, Hyderabad, Consultant in Urology at Citizens Specialty Hospital, 'over 14 years'; (2) srivijayahospitals.com/team/dr-chandra-sekhar-bijjala/ - same full name on a hospital team page. Name + specialty + city therefore match on two official (non-Apollo) hospital sites, but the hospital in the input row does not match, which is exactly the stale-affiliation pattern, hence band Low and Needs Human Review. Further evidence of movement between hospitals: a Big FM Telugu Facebook post describes him as 'Consultant Urologist at AIG Hospital, Hyderabad', a JustDial listing places him at KIMS Hospital Gachibowli, and directory bios list Maxcure, Fernandez and Sai Vani. The surname Bijjala is distinctive, so I am confident all of these are one person - the open question is only which hospital he is at NOW. DELIBERATE OMISSIONS: the JustDial number was not recorded (call-tracking proxy, and per instructions rejected outright); no email or phone appeared verbatim anywhere so all contact fields are blank rather than guessed; the Practo/Skedoc listing 'Dr. Chandra Sekhar B - Urologist in Malakpet' surfaced on full-name queries but the truncated surname plus a different locality (Malakpet) means I cannot be sure it is him, so practo is left blank and the Skedoc URL is filed only under other_profiles with this caveat; the Facebook item is a radio station's page, not his own professional account, so no social field was populated. Apollo247 has no doctor page for him in the index. HUMAN ACTION: call Apollo Financial District urology OPD to confirm whether he still consults there before using any Apollo route."
+}

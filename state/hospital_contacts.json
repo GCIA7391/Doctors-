@@ -1,0 +1,255 @@
+{
+  "_meta": {
+    "purpose": "Verified per-hospital indirect-contact reference. Guarantees every doctor row has at least one legitimate, publicly published route to reach them professionally, even when no doctor-specific contact is discoverable.",
+    "evidence_rules": [
+      "appointment_page / contact_page / branch page URLs appeared verbatim as WebSearch result URLs on the hospital's own official domain.",
+      "Phone numbers and emails appeared verbatim in WebSearch output for the queries listed in `queries`. They are published institutional switchboard/appointment/enquiry contacts only - never a personal mobile or personal email.",
+      "`evidence` records how a value was established. 'official-domain-url' = the URL itself is on the hospital's official domain. 'search-summary' = the value appeared verbatim in search output but page-level confirmation was not possible in this environment (egress policy blocks page fetching).",
+      "Nothing in this file is inferred, pattern-guessed, or constructed."
+    ],
+    "note_on_verification": "This session's network policy blocks page fetching (WebFetch/curl return 403 for all healthcare domains). Values below therefore rest on search-index evidence. The official-domain URLs are high reliability; treat numbers marked 'search-summary' as published-but-not-page-confirmed."
+  },
+
+  "Apollo Hospitals": {
+    "group": "Apollo Hospitals",
+    "appointment_page": "https://www.apollohospitals.com/book-doctor-appointment/hyderabad",
+    "contact_page": "https://www.apollohospitals.com/contact-us",
+    "centres_page": "https://www.apollohospitals.com/region/hyderabad/our-centres/",
+    "helpline": "1860-500-1066",
+    "helpline_label": "Apollo Hospitals central appointment helpline",
+    "email": "",
+    "branches": {
+      "jubilee hills": {
+        "page": "https://www.apollohospitals.com/hospitals/apollo-health-city-jubilee-hills",
+        "phone": ""
+      },
+      "financial district": {
+        "page": "https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district",
+        "phone": "040 2360 6666"
+      },
+      "hyderguda": {
+        "page": "",
+        "phone": "040-23231380",
+        "email": "apollo_hyderguda@apollohospitals.com"
+      }
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "centres_page": "official-domain-url",
+      "helpline": "search-summary",
+      "branches": "search-summary"
+    },
+    "queries": [
+      "apollohospitals.com official website \"1860\" appointment number contact us Hyderabad",
+      "Apollo Hospitals Hyderabad official contact us page appointment helpline number Jubilee Hills Health City"
+    ],
+    "sources": [
+      "https://www.apollohospitals.com/contact-us",
+      "https://www.apollohospitals.com/book-doctor-appointment/hyderabad",
+      "https://www.apollohospitals.com/region/hyderabad/our-centres/",
+      "https://www.apollohospitals.com/hospitals/apollo-health-city-jubilee-hills",
+      "https://www.apollohospitals.com/hospitals/apollo-hospitals-financial-district"
+    ]
+  },
+
+  "AIG Hospital": {
+    "group": "AIG Hospitals (Asian Institute of Gastroenterology)",
+    "appointment_page": "https://www.aighospitals.com/contact",
+    "contact_page": "https://www.aighospitals.com/contact",
+    "centres_page": "https://www.aighospitals.com/",
+    "helpline": "+91-40-4244 4222",
+    "helpline_label": "AIG Hospitals appointments and enquiries",
+    "email": "info@aighospitals.com",
+    "branches": {
+      "gachibowli": {"page": "https://www.aighospitals.com/contact", "phone": "+91-40-4244 4222"},
+      "banjara hills": {"page": "https://www.aighospitals.com/contact", "phone": ""}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "helpline": "search-summary",
+      "email": "search-summary"
+    },
+    "queries": [
+      "AIG Hospitals Gachibowli Hyderabad official contact us appointment number aighospitals.com"
+    ],
+    "sources": [
+      "https://www.aighospitals.com/contact",
+      "https://www.aighospitals.com/"
+    ]
+  },
+
+  "Yashoda Hospitals": {
+    "group": "Yashoda Hospitals",
+    "appointment_page": "https://www.yashodahospitals.com/find-a-doctor/",
+    "contact_page": "https://www.yashodahospitals.com/contact-us/",
+    "centres_page": "https://www.yashodahospitals.com/doctors/",
+    "helpline": "+91 40 4567 4567",
+    "helpline_label": "Yashoda Hospitals 24/7 appointment helpline",
+    "email": "",
+    "branches": {
+      "malakpet": {"page": "https://www.yashodahospitals.com/contact-us/", "phone": "040 6723 2348"},
+      "hitec city": {"page": "https://www.yashodahospitals.com/contact-us/", "phone": "040 6723 2348"},
+      "secunderabad": {"page": "https://www.yashodahospitals.com/contact-us/", "phone": ""},
+      "somajiguda": {"page": "https://www.yashodahospitals.com/contact-us/", "phone": ""}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "centres_page": "official-domain-url",
+      "helpline": "search-summary",
+      "branches": "search-summary"
+    },
+    "queries": [
+      "Yashoda Hospitals Hyderabad official appointment booking page contact number Malakpet Secunderabad Hitec City"
+    ],
+    "sources": [
+      "https://www.yashodahospitals.com/find-a-doctor/",
+      "https://www.yashodahospitals.com/contact-us/",
+      "https://www.yashodahospitals.com/doctors/"
+    ]
+  },
+
+  "Care Hospitals": {
+    "group": "CARE Hospitals",
+    "appointment_page": "https://www.carehospitals.com/contact-us",
+    "contact_page": "https://www.carehospitals.com/contact-us",
+    "centres_page": "https://www.carehospitals.com/contact-us",
+    "helpline": "040 6810 6589",
+    "helpline_label": "CARE Hospitals Hyderabad appointment number",
+    "helpline_variant_seen": "040 6810 6529",
+    "helpline_note": "Two near-identical numbers have been observed for the Banjara Hills branch, differing by one digit: '040 6810 6589' (returned consistently by two independent searches as the appointment line, and used as the helpline above) and '040 6810 6529' (surfaced during row 410 research and traced to a CARE Banjara Hills switchboard page). Both may be real lines, or one may be a transcription artefact. Neither was discarded and neither was silently preferred. This matters because this table supplies the indirect contact route for every CARE row in the workbook - a human should confirm the correct number once, then update this field.",
+    "email": "",
+    "branches": {
+      "banjara hills": {"page": "https://www.carehospitals.com/contact-us/care-hospital-banjara-hills", "phone": "040 6810 6589"},
+      "hitec city": {"page": "https://www.carehospitals.com/contact-us/care-hospital-hi-tech-city", "phone": "040 6810 6589"},
+      "outpatient centre banjara hills": {"page": "https://www.carehospitals.com/contact-us/care-outpatient-centre-banjara-hills", "phone": ""}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "helpline": "search-summary",
+      "branches": "official-domain-url"
+    },
+    "queries": [
+      "CARE Hospitals Hyderabad official contact us page appointment number carehospitals.com Banjara Hills Hitec City"
+    ],
+    "sources": [
+      "https://www.carehospitals.com/contact-us",
+      "https://www.carehospitals.com/contact-us/care-hospital-banjara-hills",
+      "https://www.carehospitals.com/contact-us/care-hospital-hi-tech-city",
+      "https://www.carehospitals.com/contact-us/care-outpatient-centre-banjara-hills"
+    ]
+  },
+
+  "Rainbow Children's Hospital": {
+    "group": "Rainbow Children's Hospital & BirthRight",
+    "appointment_page": "https://www.rainbowhospitals.in/contact-us",
+    "contact_page": "https://www.rainbowhospitals.in/contact-us",
+    "centres_page": "https://www.rainbowhospitals.in/contact-us",
+    "helpline": "1800 2122",
+    "helpline_label": "Rainbow Children's Hospital 24/7 customer support",
+    "email": "",
+    "branches": {
+      "banjara hills": {"page": "https://www.rainbowhospitals.in/contact-us", "phone": "040 61626364"},
+      "kukatpally": {"page": "https://www.rainbowhospitals.in/contact-us", "phone": ""}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "helpline": "search-summary",
+      "branches": "search-summary"
+    },
+    "queries": [
+      "Rainbow Children's Hospital Hyderabad official contact us appointment number rainbowhospitals.in"
+    ],
+    "sources": [
+      "https://www.rainbowhospitals.in/contact-us"
+    ]
+  },
+
+  "Gleneagles Aware Hospital": {
+    "group": "Gleneagles Hospitals (formerly Aware Gleneagles Global)",
+    "appointment_page": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar",
+    "contact_page": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar",
+    "centres_page": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar",
+    "helpline": "63665 62041",
+    "helpline_label": "Gleneagles Hospital LB Nagar appointments",
+    "email": "",
+    "branches": {
+      "lb nagar": {"page": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar", "phone": "63665 62041"},
+      "l b nagar": {"page": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar", "phone": "63665 62041"}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "helpline": "search-summary",
+      "branches": "search-summary"
+    },
+    "queries": [
+      "Gleneagles Aware Hospital LB Nagar Hyderabad official contact us appointment number"
+    ],
+    "sources": [
+      "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar"
+    ]
+  },
+
+  "Citi Neuro Centre": {
+    "group": "Citi Neuro Centre (Brain and Spine Hospital)",
+    "appointment_page": "https://citineurocentre.com/contact/",
+    "contact_page": "https://citineurocentre.com/contact/",
+    "centres_page": "http://www.cityneurocenter.com/contact-us.html",
+    "helpline": "+91 9494984747",
+    "helpline_label": "Citi Neuro Centre appointments",
+    "email": "info@cncmail.in",
+    "branches": {
+      "banjara hills": {"page": "https://citineurocentre.com/contact/", "phone": "+91 40-46289999"},
+      "secunderabad": {"page": "https://citineurocentre.com/contact/", "phone": ""},
+      "tirumalgherry": {"page": "https://citineurocentre.com/contact/", "phone": ""}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "helpline": "search-summary",
+      "email": "search-summary",
+      "branches": "search-summary"
+    },
+    "queries": [
+      "Citi Neuro Centre Hyderabad official website contact appointment number Secunderabad"
+    ],
+    "sources": [
+      "https://citineurocentre.com/contact/",
+      "http://www.cityneurocenter.com/contact-us.html"
+    ]
+  },
+
+  "Star Hospital": {
+    "group": "STAR Hospitals",
+    "appointment_page": "https://starhospitals.in/find-a-doctor",
+    "contact_page": "https://starhospitals.in/contact-us",
+    "centres_page": "https://starhospitals.in/locations/banjara-hills",
+    "helpline": "1800 102 7827",
+    "helpline_label": "STAR Hospitals appointment helpline",
+    "email": "info@starhospitals.co.in",
+    "branches": {
+      "banjara hills": {"page": "https://starhospitals.in/locations/banjara-hills", "phone": "1800 102 7827"}
+    },
+    "evidence": {
+      "appointment_page": "official-domain-url",
+      "contact_page": "official-domain-url",
+      "centres_page": "official-domain-url",
+      "helpline": "search-summary",
+      "email": "search-summary",
+      "branches": "search-summary"
+    },
+    "queries": [
+      "Star Hospitals Banjara Hills Hyderabad official contact us appointment number starhospitals.in"
+    ],
+    "sources": [
+      "https://starhospitals.in/contact-us",
+      "https://starhospitals.in/find-a-doctor",
+      "https://starhospitals.in/locations/banjara-hills"
+    ]
+  }
+}

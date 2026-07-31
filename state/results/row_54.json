@@ -1,0 +1,49 @@
+{
+  "row_id": 54,
+  "name": "Dr Ramachandra Nagaraju Chavali",
+  "specialization": "Surgical Oncology & Laparoscopic Surgery (colorectal and gynaecological cancers, sentinel node biopsy and oncoplastic breast surgery, HIPEC for ovarian and peritoneal surface malignancies)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "https://www.linkedin.com/in/dr-ramachandra-nagaraju-chavali-37599b9/",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-naga-raja-chavali-oncologist",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali ; https://www.americanoncology.com/our-doctors/hyderabad/surgical-oncologists ; https://www.skedoc.com/hyderabad/doctor/dr-ch-ramachandra-nagaraju-surgical-oncologist ; https://medhive.in/doctors/dr-naga-raja-chavali",
+
+  "indirect_method": "Official doctor profile at his currently published employer, American Oncology Institute (NOT the hospital named in the source row)",
+  "indirect_details": "American Oncology Institute publishes his individual doctor profile at https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali and lists him on its Hyderabad surgical oncology team page https://www.americanoncology.com/our-doctors/hyderabad/surgical-oncologists . AOI profiles state an affiliation at Citizens Specialty Hospital, Nallagandla, Hyderabad. No individual profile for him exists on any Apollo domain in the search index, so no Apollo appointment route specific to this doctor can be given; only Apollo's generic oncology listing pages surfaced and those are not his own page.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant - Surgical Oncology & Laparoscopic Surgery, American Oncology Institute, Hyderabad (current per published profile); previously Senior Consultant, Department of Surgical Oncology, Kamineni Oncology Centre (Jun 2023-Mar 2024) and Consultant, Department of Surgical Oncology, Basavatarakam Indo American Cancer Hospital & Research Institute (Feb 2017-Dec 2019)",
+  "verified_experience": "Published figures conflict: 'over 11 years' as consultant surgical oncologist (AOI profile), '12+ years' (matches source row), and '22 years' elsewhere - not reconciled",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant grade; DNB Surgical Oncology (National Board of Examinations, New Delhi, 2016) trained at Basavatarakam Indo-American Cancer Hospital & Research Institute 2014-2016; MBBS from Dr NTR University of Health Sciences 2004; performs HIPEC and robotic/minimally invasive oncological surgery; career across Basavatarakam Indo American Cancer Hospital, American Oncology Institute, Kamineni Oncology Centre, APS RTC Hospital and ESIC Model Hospital",
+
+  "sources": "linkedin: https://www.linkedin.com/in/dr-ramachandra-nagaraju-chavali-37599b9/\npracto: https://www.practo.com/hyderabad/doctor/dr-naga-raja-chavali-oncologist\nother_profiles: https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali\nspecialization: https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali\nverified_role: https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali\nverified_experience: https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali\nhni_signals: https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali\nconfidence_band: https://www.americanoncology.com/dr-profile/dr-ramachandra-nagaraju-chavali",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "STALE-AFFILIATION PATTERN - same shape as rows 32, 244, 261 and 969. The hospital named in the source row, Apollo Hospitals Financial District, publishes NO individual doctor profile for him anywhere in the search index: four queries, including two restricted to apollohospitals.com / apollo247.com / askapollo.com, returned only Apollo's generic oncology listing and city booking pages, never a /doctors/<name> page for him. Per the brief, hospital_profile, appointment_link and directory_profile are therefore left BLANK and no Apollo URL is recorded, band set Low and status Needs Human Review. OTHER institutions DO publish him: American Oncology Institute carries a dedicated profile page bearing his exact full name in the URL slug and lists him on its Hyderabad surgical oncology team page, describing him as Senior Consultant - Surgical Oncology & Laparoscopic Surgery with an affiliation at Citizens Specialty Hospital, Nallagandla; his LinkedIn headline reads Senior Consultant at Kamineni Oncology Centre Private Limited. Those are filed under other_profiles and linkedin. Identity itself is solid - the distinctive full name 'Ramachandra Nagaraju Chavali' plus surgical oncology plus Hyderabad plus a verbatim-identical subspecialty list (advanced MIS in colorectal/gynaecological cancers, sentinel node biopsy and oncoplastic breast surgery, HIPEC in ovarian and peritoneal surface malignancies) recurs across every source, and the Basavatarakam Indo American Cancer Hospital link is common to all of them; the Low band reflects the UNCONFIRMED Apollo Financial District affiliation, not doubt about who the person is. CAUTION FOR THE HUMAN REVIEWER: one WebSearch summary asserted that he 'practices at Apollo Hospitals, Financial District' and another asserted 'Apollo Health City, Jubilee Hills' - two different Apollo units - yet neither claim is attached to any indexed doctor page, and the published timeline (Kamineni to Mar 2024, then AOI) suggests the Apollo entry in the source list may be out of date or mis-assigned. Nothing Apollo-specific was recorded on the strength of those summaries. Name variants seen: 'Dr. Ch. Ramachandra Nagaraju' (Skedoc, Ch = Chavali) and 'Dr. Nagaraju Chavali' / slug 'dr-naga-raja-chavali' (Practo, MedHive). No institutional email or phone is published for him on any indexed page, so both fields are blank; no ORCID or Google Scholar profile surfaced, which is the normal result for this cohort. Qualification conflict to resolve: one summary said MBBS + MS (General Surgery), the AOI-sourced summary said MBBS 2004 + DNB Surgical Oncology 2016."
+}

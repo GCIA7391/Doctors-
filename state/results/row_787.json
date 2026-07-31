@@ -1,0 +1,50 @@
+{
+  "row_id": 787,
+  "name": "Dr. M. Ramakrishna",
+  "specialization": "General Medicine / Internal Medicine - preventive health care, adult vaccination, chronic disease management, diabetes, infectious disease including HIV",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/online-doctor-consultation/product/dr-m-ramakrishna/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Yashoda Malakpet doctor listing: https://www.yashodahospitals.com/locations/malakpet/doctors/ | Yashoda general-medicine department listing: https://www.yashodahospitals.com/specialities/general-medicine/doctors/ | HexaHealth (corroborating): https://www.hexahealth.com/hyderabad/doctor/dr-m-ramakrishna-internal-medicine-specialist",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Physician, Department of General Medicine, Yashoda Hospitals Malakpet",
+  "verified_experience": "Over 26 years per one source and 33 years per another; source row says 27 Years - see notes, no figure chosen",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant Physician with MD General Medicine. Practice includes preventive health care and adult vaccination alongside chronic disease and infectious disease management. No publicly stated leadership title, ownership or society office was found, so none is recorded - this row carries fewer standing signals than most, which is itself useful information.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/\ncity: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/\nhospital_profile: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/\nappointment_link: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-m-ramakrishna/\nother_profiles: https://www.yashodahospitals.com/locations/malakpet/doctors/\nverified_role: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/\nverified_experience: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/\nhni_signals: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/\nconfidence_band: https://www.yashodahospitals.com/doctor/malakpet/general-medicine/dr-m-ramakrishna/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Common initial-heavy name resolved rather than punted. Identity matched on four input facts: name 'Dr. M. Ramakrishna', Physician / General Medicine specialty, Yashoda Hospitals, and the MALAKPET branch - explicit in the official URL path /doctor/malakpet/general-medicine/. Band held at MEDIUM: yashodahospitals.com is the only official domain (three pages), with HexaHealth as directory-grade corroboration which per the rubric cannot lift a row to High. APPOINTMENT LINK is a genuine per-doctor booking route on the hospital's own online-consultation path - the official profile states both Online Video Consultation and OPD Consultation can be booked. EXPERIENCE DISAGREES ACROSS SOURCES: one states over 26 years, another 33, and the source row says 27. The 26-27 figures agree closely; the 33 figure is the outlier. All are reported and none is chosen, since search output alone cannot resolve it. NOT RECORDED: Skedoc lists a 'Dr. Malla Rama Krishna, General Physician' in Hyderabad who is plausibly this person - 'M.' expanding to the Malla surname - but nothing in the search output confirms the identity, so the URL was left out rather than risk a wrong merge. Flagged here as a lead for a human. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

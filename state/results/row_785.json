@@ -1,0 +1,50 @@
+{
+  "row_id": 785,
+  "name": "Dr. Srinath",
+  "specialization": "Emergency Medicine (Accident & Emergency Medicine) - Senior Consultant & Group Head",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Hospital department page (Emergency Services, Yashoda Hitec City) via his own hospital doctor profile",
+  "indirect_details": "Route through his official Yashoda Hospitals Hitec City emergency-services doctor profile: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/ ; the Hitec City emergency-services department doctor list is at https://www.yashodahospitals.com/specialities/emergency-services/doctors/hitec-city/ . As Group Head of the Department of Emergency Medicine he is reachable via the Yashoda Hitec City emergency department / hospital switchboard.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant & Group Head, Department of Emergency Medicine, Yashoda Hospitals, Hitec City, Hyderabad (MBBS, MD Accident and Emergency Medicine)",
+  "verified_experience": "27 years per input; the Yashoda profile states the role (Senior Consultant & Group Head) but a years figure was not visible in search output",
+  "owns_clinic": false,
+  "hni_signals": "Group Head of Emergency Medicine across the Yashoda Hospitals group - a group-level departmental leadership role, not a single-site consultancy. Served as Covid-19 nodal officer, authoring and maintaining the group's patient treatment guidelines, and was additionally appointed Chief Vaccinating Officer in January 2021, writing vaccination protocols and acting as liaison for public and private vaccine supply; coordinated 500+ vaccination camps with over 250,000 doses administered. Qualifications MBBS, MD (Accident and Emergency Medicine). Affiliated with the Society for Emergency Medicine India and has peer-reviewed publications in emergency medicine (e.g. needlestick-injury post-exposure prophylaxis prevalence, Eurasian J Emerg Med 2016; ultrasonographic assessment of diaphragmatic dysfunction in weaning, National Journal of Emergency Medicine 2013).",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\ncity: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\nhospital_profile: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\nindirect_method: https://www.yashodahospitals.com/specialities/emergency-services/doctors/hitec-city/\nindirect_details: https://www.yashodahospitals.com/specialities/emergency-services/doctors/hitec-city/\nverified_role: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\nverified_experience: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\nowns_clinic: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\nhni_signals: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/\nconfidence_band: https://www.yashodahospitals.com/doctor/hitec-city/emergency-services/dr-srinath/",
+  "confidence": 80,
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "AMBIGUITY HANDLED EXPLICITLY. 'Dr. Srinath' is a single given name, so nothing was accepted on name alone. The required Yashoda Hitec City emergency-medicine match was obtained directly: the official hospital URL /doctor/hitec-city/emergency-services/dr-srinath/ pins name + department (emergency services) + branch (Hitec City) + city in one line, and the profile states 'Senior Consultant & Group Head, Department of Emergency Medicine' - matching the input department and title exactly. Search output for that same Yashoda page also gives his fuller name as Dr. T. S. Srinath Kumar, and he is corroborated on the Yashoda Hitec City emergency-services department doctor list. Because that explicit hospital+department match exists, the row is Enriched rather than Ambiguous Match. DELIBERATE EXCLUSIONS: search also returned a different, unrelated 'Dr. Srinath' in emergency/critical care medicine at SPARSH Hospital, Bangalore (sparshhospital.com/doctors/dr-srinath/, plus a HexaHealth Bangalore listing) - not this doctor, and not recorded. No email, phone, directory profile, LinkedIn or social account could be tied to him with confidence, so all are blank; a bare given name makes directory matching unsafe. Confidence is High on identity but only one official source exists (the hospital's own site, two pages of it), and no years-of-experience figure was visible, hence band Medium.",
+  "confidence_band": "Medium"
+}

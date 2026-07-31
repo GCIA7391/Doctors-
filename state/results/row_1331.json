@@ -1,0 +1,49 @@
+{
+  "row_id": 1331,
+  "name": "Dr. Gorrepati Rohith",
+  "specialization": "Urology, Kidney (Renal) Transplantation and Andrology - male & female reconstructive urology, stone disease, prostatic disease, uro-oncology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://aighospitals.com/doctor/dr-rohith-gorrepati",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-rohith-gorrepati-urologist",
+  "lybrate": "",
+  "other_profiles": "LinkedIn activity post by him (Urological Society of India / UAA 2024 Bali) - evidences an active professional LinkedIn presence, though his profile URL itself never appeared verbatim in search: https://www.linkedin.com/posts/rohith-gorrepati-a1444129_urologicalsocietyofindia-uaa2024bali-activity-7198330975754326016-i-FS",
+
+  "indirect_method": "AIG Hospitals doctor profile and Urology & Renal Transplant department page",
+  "indirect_details": "Route via his own AIG Hospitals doctor page https://aighospitals.com/doctor/dr-rohith-gorrepati (Consultant, Department of Urology and Renal Transplant, AIG Hospitals Gachibowli, Hyderabad), the AIG Urology & Renal Transplant department page https://aighospitals.com/speciality/urology-renal-transplant , or the AIG find-a-doctor directory https://www.aighospitals.com/doctors . He is also reachable professionally through the Urological Society of India network - he posts on LinkedIn under the handle shown in https://www.linkedin.com/posts/rohith-gorrepati-a1444129_urologicalsocietyofindia-uaa2024bali-activity-7198330975754326016-i-FS .",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant, Department of Urology and Renal Transplant, AIG Hospitals, Gachibowli, Hyderabad",
+  "verified_experience": "Consultant since 2023; MCh Urology, AIIMS Bhubaneswar, 2023",
+  "owns_clinic": false,
+  "hni_signals": "MEDICAL-DEVICE INVENTOR / ENTREPRENEURSHIP SIGNAL: AIG's own profile states he 'designed and developed a novel surgical retraction system, enhancing the safety and efficiency of surgical procedures', and that he is 'incorporating augmented reality into percutaneous nephrolithotomy (PCNL) puncture techniques' - i.e. he holds original device/technique IP, the strongest non-ownership wealth signal in this row. Premium specialty stack: urology + renal transplantation + andrology + uro-oncology at AIG Hospitals, a quaternary private group. MCh Urology from AIIMS Bhubaneswar (2023). AIG states he is 'a member of prestigious urological societies across Europe, America and India' - i.e. international society memberships (EAU/AUA-tier plus USI). International conference participation evidenced by his own LinkedIn post tagging the Urological Society of India and UAA 2024 Bali. Research-active from the AIIMS Bhubaneswar Department of Urology (TURP, laser lithotripsy). No clinic ownership, founder, HOD or director title found - early-career consultant with unusually strong innovation credentials.",
+
+  "sources": "specialization: https://aighospitals.com/doctor/dr-rohith-gorrepati\ncity: https://aighospitals.com/doctor/dr-rohith-gorrepati\nhospital_profile: https://aighospitals.com/doctor/dr-rohith-gorrepati\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-rohith-gorrepati-urologist\nother_profiles: https://www.linkedin.com/posts/rohith-gorrepati-a1444129_urologicalsocietyofindia-uaa2024bali-activity-7198330975754326016-i-FS\nindirect_method: https://aighospitals.com/speciality/urology-renal-transplant\nindirect_details: https://aighospitals.com/doctor/dr-rohith-gorrepati\nverified_role: https://aighospitals.com/doctor/dr-rohith-gorrepati\nverified_experience: https://aighospitals.com/doctor/dr-rohith-gorrepati\nhni_signals: https://aighospitals.com/doctor/dr-rohith-gorrepati\nhni_signals: https://www.linkedin.com/posts/rohith-gorrepati-a1444129_urologicalsocietyofindia-uaa2024bali-activity-7198330975754326016-i-FS\nconfidence_band: https://aighospitals.com/doctor/dr-rohith-gorrepati",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Name appears in the source row surname-first ('Gorrepati Rohith'); AIG publishes him given-name-first as 'Dr. Rohith Gorrepati' - same person. Identity matched on four criteria in one result title plus body: name + specialty (Urology and Renal Transplant, with andrology and uro-oncology) + hospital (AIG) + city (Hyderabad), on the LIVE canonical AIG page https://aighospitals.com/doctor/dr-rohith-gorrepati titled 'Dr. Rohith Gorrepati | Consultant Urologist at AIG Hospitals, Hyderabad' - title checked, not a 404. Corroborated by a Skedoc listing 'Dr. Rohith Gorrepati, Urologist | Hyderabad'. Band held at Medium, not High: aighospitals.com is the only OFFICIAL source (Skedoc is corroborating-only, LinkedIn is self-published), and a dedicated healinindia.gov.in domain-restricted query returned no profile for him. NO email or phone was found published anywhere - none was recorded and none was inferred from AIG's known address pattern. LINKEDIN NOT RECORDED: only an activity-post URL surfaced, never his profile URL, so the linkedin field is left blank and the post URL is filed under other_profiles instead of constructing a /in/ profile link from the slug it contains - a human can open that post to reach his profile. Worth a human follow-up: whether the surgical retraction system he designed is patented or commercialised, which would materially strengthen the HNI case."
+}

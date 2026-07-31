@@ -1,0 +1,49 @@
+{
+  "row_id": 1325,
+  "name": "Dr. Shakthivel Mani",
+  "specialization": "",
+  "city": "",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "AIG Hospitals Radiation Oncology department page / AIG find-a-doctor directory",
+  "indirect_details": "No per-doctor page for him exists on any AIG URL family and no directory listing ties him to AIG. Only lawful route found is the AIG Hospitals Radiation Oncology department page https://aighospitals.com/speciality/radiation-oncology and the AIG find-a-doctor directory https://www.aighospitals.com/doctors , asking the Radiation Oncology department for Dr Shakthivel Mani by name.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "indirect_method: https://aighospitals.com/speciality/radiation-oncology\nindirect_details: https://www.aighospitals.com/doctors\nconfidence_band: https://aighospitals.com/speciality/radiation-oncology",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "Seven searches run and NOTHING ties this name to AIG Hospitals. Queries tried: full name + AIG + radiation oncology; aighospitals.com domain-restricted on name + specialty; 'Shakthivel' + AIG Hospitals; initial-first variants ('Dr. M Shakthivel', 'Dr Shakthivel M'); the alternate transliteration 'Sakthivel Mani'; bare quoted '\"Shakthivel Mani\"'; and name + 'AIG Hospitals' + proton. AIG returned only speciality/listing pages (e.g. the Radiation Oncology speciality page and /doctors?speciality= listings) - no per-doctor page in the /doctor/, /doctors/ or /doctor-profile/ families, so hospital_profile is left blank rather than constructed. The ONE substantive trail found is academic and points elsewhere: a Shakthivel Mani, MD Radiation Oncology with FRCR (Clinical Oncology), described as a Senior Resident at Apollo Proton Cancer Centre and affiliated with the Department of Radiation Oncology, ACTREC/TMH, Tata Memorial Centre (HBNI) Mumbai, appearing as a contributor on the medulloblastoma paper at https://www.oncotarget.com/article/28360/text/ . That matches SPECIALTY only - not hospital, not city - so under the two-criteria rule it is not enough to accept as the AIG doctor, and it was deliberately NOT recorded in any profile field. A Chennai/Mumbai academic radiation oncologist moving to AIG Hyderabad is a plausible career path (AIG announced an 800-crore proton therapy centre in Jan 2025), but plausible is not verified. An X handle @shakthivelmani surfaced with no medical content and was rejected. Band Low, status Needs Human Review. NOT marked Ambiguous Match - this is thin sourcing, not two indistinguishable people. A human with AIG's internal directory should confirm whether he is on staff and whether the Tata Memorial / Apollo Proton individual is the same person."
+}

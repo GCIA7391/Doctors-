@@ -1,0 +1,49 @@
+{
+  "row_id": 420,
+  "name": "Dr. Alluri Raja Gopala Raju",
+  "specialization": "Cardiology - Consultant Cardiologist (coronary angiography, coronary angioplasty)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Credihealth per-doctor booking page (aggregator, corroborating only): https://www.credihealth.com/doctor/alluri-raja-gopala-raju-cardiologist/appointment | CARE Hospitals Banjara Hills cardiology branch listings that surfaced on his query (team-level, not per-doctor): https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/speciality/top-cardiologists and https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/cardiac-sciences | CARE Outpatient Centre Banjara Hills cardiology listing: https://www.carehospitals.com/doctor-list/hyderabad/care-outpatient-centre-banjara-hills/speciality/cardiologists-doctors",
+
+  "indirect_method": "Official CARE Hospitals per-doctor profile with online appointment booking, plus the CARE Banjara Hills cardiology department listings",
+  "indirect_details": "Book or route enquiries through his own official CARE Hospitals doctor page - https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists - which CARE states carries an appointment-booking route. Department: Cardiology / Cardiac Sciences, CARE Hospitals, Banjara Hills, Hyderabad; he also consults at CARE Hospitals Outpatient Centre, Banjara Hills. Relevant department listings: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/cardiac-sciences and https://www.carehospitals.com/doctor-list/hyderabad/care-outpatient-centre-banjara-hills/speciality/cardiologists-doctors . NOTE: CARE publishes no direct line for him - see notes for the central-switchboard number that was found and deliberately rejected. Use the hospital-level fallback for phone contact.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Cardiologist, Department of Cardiology / Cardiac Sciences, CARE Hospitals, Banjara Hills, Hyderabad - in post there since October 2000; also consults at CARE Hospitals Outpatient Centre, Banjara Hills",
+  "verified_experience": "More than two decades (the input row carried no experience figure). Stated to have been Consultant Cardiologist at CARE Hospitals Banjara Hills from October 2000 onwards, which is approximately 25 years to 2026.",
+  "owns_clinic": false,
+  "hni_signals": "Long-tenured senior consultant - continuously at CARE Hospitals Banjara Hills since October 2000, over two decades at the group's flagship Hyderabad campus, and CARE's own page headline ranks him as a 'Top Cardiologist in Hyderabad'. Elite training pedigree: MBBS Andhra University, MD Osmania University, DM Cardiology from Christian Medical College (CMC) Vellore - one of India's most competitive DM Cardiology programmes. Holds dual practice across the main Banjara Hills hospital and the Banjara Hills Outpatient Centre.",
+
+  "sources": "specialization: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\ncity: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\nhospital_profile: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\nother_profiles: https://www.credihealth.com/doctor/alluri-raja-gopala-raju-cardiologist/appointment\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/speciality/top-cardiologists\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-outpatient-centre-banjara-hills/speciality/cardiologists-doctors\nindirect_method: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\nindirect_details: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/cardiac-sciences\nverified_role: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\nverified_experience: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\nhni_signals: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "NEAR-COLLISION EXPLICITLY RESOLVED - THE OTHER ALLURI EXISTS. There are TWO different cardiologists surnamed Alluri at CARE Banjara Hills: this row's Dr. Alluri RAJA GOPALA RAJU (row 420) and Dr. Alluri SRINIVAS RAJU (row 421). They share surname, specialty, branch and city. HOW I TOLD THEM APART: CARE's own site publishes two SEPARATE per-doctor pages with different slugs and different page titles, and both surfaced in the same result set, which proves they are two distinct listings rather than one person indexed twice - this row's man is at /doctor/hyderabad/banjara-hills/alluri-raja-gopala-raju-top-cardiologists titled 'Top Cardiologist in Hyderabad | Dr. Alluri Raja Gopala Raju | CARE Hospitals', whereas the other is at /doctor/hyderabad/banjara-hills/alluri-srinivas-raju-heart-specialist titled 'Dr. Alluri Srinivas Raju | Top Heart Specialist in Banjara Hills, Hyderabad'. I used the FULL given name ('Raja Gopala Raju') as the discriminator in a query set run separately from row 421's, and every value in this file comes only from pages carrying that full given name. No contact, profile or biography detail has been carried across between the two rows. IDENTITY MATCHED on four factors on CARE's own domain: name (full given name), specialty (Cardiology), hospital (CARE), branch/city (Banjara Hills, Hyderabad). The input row carried no experience figure, so - as instructed - I compensated by requiring the branch to match explicitly, which it does in the URL path itself. BRANCH AMBIGUITY RESOLVED: the input row listed both 'CARE Hospitals Outpatient Centre, Banjara Hills' and 'CARE Hospitals, Banjara Hills'. For this doctor BOTH are correct - he is stated to practise at CARE Hospitals Banjara Hills AND at CARE Hospitals Outpatient Centre Banjara Hills, and listings for both branches surfaced on his query. Slug behaviour matched the documented CARE pattern exactly: the /doctor/ family uses the bare 'banjara-hills', while /doctor-list/ uses the verbose 'care-hospital-banjara-hills' and, for the separate outpatient branch, 'care-outpatient-centre-banjara-hills'. PHONE DELIBERATELY REJECTED - THE EXACT-PHRASE RULE EARNED ITS KEEP HERE: a search summary offered '+91-40-68106529' as the way to book this doctor. I re-searched the number in quotes; it came back attached to CARE's generic /contact-us page and to the hospital-detail pages for Hi-Tech City, Nampally, Malakpet, Banjara Hills and CARE Outpatient Centre alike. It is CARE's central switchboard/booking line reused across every Hyderabad unit, not this doctor's line, so it is rejected outright under section 4 and professional_phone is left blank. Recording it would have attributed the same central number to both Alluri doctors - precisely the failure mode the brief warned about. No email, LinkedIn, clinic site, ORCID, Google Scholar or ResearchGate surfaced; nothing was constructed from the CARE URL pattern. BAND: Medium - carehospitals.com is the only section-5 official source backing this (all CARE pages are one domain, therefore one official source); Credihealth is aggregator-grade corroboration only and cannot lift the band."
+}

@@ -1,0 +1,49 @@
+{
+  "row_id": 1539,
+  "name": "Dr. K Meena",
+  "specialization": "Medical Oncology (DM Medical Oncology), including palliative care",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://aighospitals.com/bh/doctor/dr-k-meena",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-k-meena-medical-oncologist",
+  "lybrate": "",
+  "other_profiles": "MediBuddy booking listing: https://www.medibuddy.in/doctor-consultations/Hyderabad/oncology/dr-k-meena-297117?from=listing | YouTube video feature titled 'Dr. K Meena - Top Medical Oncologist in Hyderabad | Palliative Care Specialist': https://www.youtube.com/watch?v=VogpPUwJPik | AIG Banjara Hills doctor listing: https://aighospitals.com/bh/doctors",
+
+  "indirect_method": "Official AIG Hospitals Banjara Hills doctor profile page, plus booking-capable directory listings",
+  "indirect_details": "The official AIG Hospitals Banjara Hills doctor page is https://aighospitals.com/bh/doctor/dr-k-meena (Medical Oncology, AIG Hospitals Banjara Hills, Hyderabad), reached from the campus doctor listing https://aighospitals.com/bh/doctors . Appointment-capable directory listings exist at https://www.skedoc.com/hyderabad/doctor/dr-k-meena-medical-oncologist and https://www.medibuddy.in/doctor-consultations/Hyderabad/oncology/dr-k-meena-297117?from=listing . Department route: Medical Oncology, AIG Hospitals - https://aighospitals.com/specialties/medical-oncology .",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Medical Oncologist, Department of Medical Oncology, AIG Hospitals, Banjara Hills, Hyderabad",
+  "verified_experience": "Approximately 6 years since MD (directory-stated); DM in Medical Oncology completed 2024, so he is early in his super-speciality career. No experience figure was supplied in the source row.",
+  "owns_clinic": false,
+  "hni_signals": "EARLY-CAREER PROFILE - WEAK HNI SIGNALS, flagged honestly rather than inflated. Qualifications published by AIG: MBBS from Prathima Institute of Medical Sciences, Karimnagar (2012); MD General Medicine from GSL Medical College & General Hospital, Rajahmundry (2018); DM Medical Oncology from the National Board of Examinations (2024). Holds a substantive consultant post in Medical Oncology at AIG Hospitals Banjara Hills, a flagship private quaternary-care campus, and has some media presence (a YouTube feature as 'Top Medical Oncologist in Hyderabad | Palliative Care Specialist'). No director/HOD/chairman title, no professorship, no fellowship abroad, no owned clinic, no stated procedure volume and no society office were found. Given the 2024 DM completion date he is a junior consultant and should be scored accordingly as a wealth-management prospect.",
+
+  "sources": "specialization: https://aighospitals.com/bh/doctor/dr-k-meena\ncity: https://aighospitals.com/bh/doctor/dr-k-meena\nhospital_profile: https://aighospitals.com/bh/doctor/dr-k-meena\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-k-meena-medical-oncologist\nother_profiles: https://www.medibuddy.in/doctor-consultations/Hyderabad/oncology/dr-k-meena-297117?from=listing\nother_profiles: https://www.youtube.com/watch?v=VogpPUwJPik\nother_profiles: https://aighospitals.com/bh/doctors\nindirect_method: https://aighospitals.com/bh/doctor/dr-k-meena\nindirect_details: https://aighospitals.com/bh/doctor/dr-k-meena\nverified_role: https://aighospitals.com/bh/doctor/dr-k-meena\nverified_experience: https://www.skedoc.com/hyderabad/doctor/dr-k-meena-medical-oncologist\nverified_experience: https://aighospitals.com/bh/doctor/dr-k-meena\nhni_signals: https://aighospitals.com/bh/doctor/dr-k-meena\nhni_signals: https://www.youtube.com/watch?v=VogpPUwJPik\nconfidence_band: https://aighospitals.com/bh/doctor/dr-k-meena",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "INITIAL-HEAVY NAME - AIG + SPECIALTY REQUIREMENT WAS MET EXPLICITLY, so this row is Enriched rather than Ambiguous Match. An AIG-domain-restricted search (allowed_domains=aighospitals.com) for \"Dr. K Meena\" Medical Oncology returned AIG's OWN doctor page at https://aighospitals.com/bh/doctor/dr-k-meena, in the branch-prefixed /bh/ (Banjara Hills) family, titled 'Dr. K Meena'. It matches on name including the initial, specialty (Medical Oncology), hospital (AIG Hospitals) and city (Hyderabad). Corroborated independently of the name by the published qualification chain - MBBS Prathima Karimnagar 2012, MD General Medicine GSL Rajahmundry 2018, DM Medical Oncology NBE 2024 - which appears identically on the AIG page and on the Skedoc listing, tying those two records to one and the same person.\n\nBAND IS MEDIUM: aighospitals.com is the single official source. Skedoc, MediBuddy and the YouTube feature are corroborating only and cannot lift the row to High. No healinindia.gov.in, NMC/TSMC, university, ORCID or Scholar profile surfaced - expected for a consultant who only completed his DM in 2024.\n\nNO EMAIL OR PHONE RECORDED - AND ONE NUMBER WAS DELIBERATELY DISCARDED. A search-result summary asserted a contact number of '+91 40 4244 4222' for him. That is AIG Hospitals' central switchboard / booking line, not a line dedicated to this doctor; recording a hospital central number as a doctor's own is expressly barred, and it surfaced only via an aggregator listing summary rather than an AIG per-doctor publication. It was therefore DISCARDED and no exact-phrase confirmation was pursued. The pipeline's automatic hospital-level fallback from state/hospital_contacts.json covers the switchboard route anyway. Nothing was constructed from the aighospitals.com domain.\n\nGENDER NOTE FOR HUMAN REVIEW: 'Meena' is commonly a female given name in India, but the AIG and directory biographies for this doctor use male pronouns. Any outreach should avoid assuming a salutation - the AIG page is the authority.\n\nYOUTUBE CAVEAT: https://www.youtube.com/watch?v=VogpPUwJPik is a single video FEATURING him, recorded under other_profiles as a media appearance. It was NOT put in the 'youtube' field because there is no evidence it is a channel he owns or operates."
+}

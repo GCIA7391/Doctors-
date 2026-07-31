@@ -1,0 +1,50 @@
+{
+  "row_id": 266,
+  "name": "Dr M S S Keerthi",
+  "specialization": "Surgical Oncology - breast cancer surgery, laparoscopic and robotic onco-surgery, GI/lung/oral cancer surgery",
+  "city": "Secunderabad (Hyderabad)",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4",
+
+  "hospital_profile": "",
+  "clinic_url": "https://www.hillsoncocare.com/",
+  "personal_website": "https://www.hillsoncocare.com/",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4",
+  "lybrate": "",
+  "other_profiles": "Own practice - breast cancer surgery page: https://www.hillsoncocare.com/breast-cancer-surgeon-in-hyderabad/ | Own practice - robotic onco-surgery page: https://www.hillsoncocare.com/robotic-onco-surgeon-in-hyderabad/ | Own practice - robotic surgeon page: https://www.hillsoncocare.com/robotic-surgeon-in-hyderabad/ | Apollo247 Secunderabad surgical-oncology listing: https://www.apollo247.com/doctors/surgical-oncologists-in-secunderabad-sloc",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Surgical Oncologist, Laparoscopic & Robotic Onco Surgeon, Apollo Hospitals Secunderabad; also practises at Hills Gastro & Onco Care, Secunderabad",
+  "verified_experience": "Apollo247 states 15 years; own practice material states 17+ years; source row says 15+ Years",
+  "owns_clinic": true,
+  "hni_signals": "Runs an eponymous-branded practice, Hills Gastro & Onco Care in Secunderabad, with a dedicated multi-page website - a strong ownership signal. MCh Surgical Oncology from the Cancer Institute (WIA) Chennai, one of India's leading cancer centres. Publicly stated volume of 4,000+ cancer surgeries. One of a small number of oncologists in Secunderabad/Hyderabad offering laparoscopic and robotic minimal-access cancer surgery, which is premium-fee work. Practice is weighted towards breast cancer management.",
+
+  "sources": "specialization: https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4\ncity: https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4\nappointment_link: https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4\ndirectory_profile: https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4\nclinic_url: https://www.hillsoncocare.com/\npersonal_website: https://www.hillsoncocare.com/\nother_profiles: https://www.hillsoncocare.com/breast-cancer-surgeon-in-hyderabad/\nowns_clinic: https://www.hillsoncocare.com/\nverified_role: https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4\nverified_experience: https://www.hillsoncocare.com/\nhni_signals: https://www.hillsoncocare.com/\nconfidence_band: https://www.apollo247.com/doctors/dr-m-s-s-keerthi-beb11259-ae51-41ea-a0de-716c5795b9a4",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on four input facts: name 'Dr M S S Keerthi', Surgical Oncology specialty, Apollo Hospitals, and the SECUNDERABAD unit - stated verbatim in the Apollo247 page title ('Surgical Oncologist, Secunderabad') - with the source row's 15+ years matching Apollo247's stated 15 years. Band held at MEDIUM: apollo247.com is the only official-domain source. Note that NO doctor-specific page on apollohospitals.com surfaced for this doctor - only Apollo's generic Hyderabad oncology listing pages - so hospital_profile is deliberately LEFT BLANK rather than filled with a listing page that is not about this individual. The Apollo Secunderabad affiliation is nonetheless well supported because Apollo247 is Apollo's own booking platform and its page title names the unit. The remaining corroboration (hillsoncocare.com) is a primary self-published practice site, which per the rubric cannot lift a row to High. OWNS A PRACTICE: hillsoncocare.com is Hills Gastro & Onco Care, Secunderabad, with several dedicated service pages naming this doctor - recorded as both clinic_url and personal_website, and owns_clinic set true. EXPERIENCE: Apollo247 says 15 years while the practice site says 17+; both recorded, neither chosen, gap too small to flag. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. A westbengaldoctor.com listing also appeared but such aggregator sites were not treated as a source. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

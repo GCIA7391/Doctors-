@@ -1,0 +1,50 @@
+{
+  "row_id": 1432,
+  "name": "Dr. Bharat Veeramachaneni",
+  "specialization": "Internal Medicine / General Medicine (source row lists Cardiology; every indexed directory profile lists him as Internal Medicine / General Physician, and Credihealth alone titles him Cardiologist)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "https://www.linkedin.com/in/bharat-veeramachaneni-4668a3200/?_l=en",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine",
+  "directory_profile": "https://www.credihealth.com/doctor/bharat-veeramachaneni-cardiologist",
+  "lybrate": "",
+  "other_profiles": "Practo profile for his SECOND practice, Challa Hospitals Ameerpet: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine?practice_id=899516 | ClinicSpots: https://www.clinicspots.com/doctor/bharat-veeramachaneni | DocIndia: https://www.docindia.org/doctors/hyderabad/dr-bharat-veeramachaneni-internal-medicine | HealthTrip: https://www.healthtrip.com/doctors/dr-bharat-veeramachaneni | eKa.care booking page: https://www.eka.care/doctor/dr-bharat-veeramachaneni-general_physician-hyderabad | AIG Gachibowli doctor list carrying his name: https://www.clinicspots.com/hospital/aig-hospital/doctors?page=6",
+
+  "indirect_method": "Second practice location - Challa Hospitals, Ameerpet",
+  "indirect_details": "He holds a regular OPD at Challa Hospitals, 7-1-71/A/1 Dharam Karam Road, Ameerpet, Hyderabad 500016, in addition to AIG Gachibowli. Reachable via the hospital's own reception; hospital listing: https://www.practo.com/hyderabad/hospital/challa-hospital-ameerpet",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant physician practising at AIG Hospitals, Gachibowli and at Challa Hospitals, Ameerpet; LinkedIn headline reads 'Medical Doctor - Self-employed'",
+  "verified_experience": "19-20 years stated by directory profiles (source row carries no experience figure). MBBS Sri Ramachandra Medical College 2005, MD General Medicine Sri Ramachandra University 2013.",
+  "owns_clinic": false,
+  "hni_signals": "Two concurrent practice locations in Hyderabad (AIG Hospitals Gachibowli and Challa Hospitals Ameerpet) with a six-day OPD schedule at the Ameerpet site including Sunday mornings, indicating a high-volume private practice. LinkedIn self-describes as 'Self-employed', which is consistent with a visiting-consultant/own-practice arrangement rather than salaried employment - worth a human check as a possible ownership signal. Training at Sri Ramachandra Medical College and University, Chennai.",
+
+  "sources": "specialization: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine\ncity: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine\nappointment_link: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine\npracto: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine\ndirectory_profile: https://www.credihealth.com/doctor/bharat-veeramachaneni-cardiologist\nlinkedin: https://www.linkedin.com/in/bharat-veeramachaneni-4668a3200/?_l=en\nother_profiles: https://www.clinicspots.com/doctor/bharat-veeramachaneni\nindirect_method: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine?practice_id=899516\nindirect_details: https://www.practo.com/hyderabad/hospital/challa-hospital-ameerpet\nverified_role: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine\nverified_experience: https://www.clinicspots.com/doctor/bharat-veeramachaneni\nhni_signals: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine?practice_id=899516\nconfidence_band: https://www.practo.com/hyderabad/doctor/dr-bharat-veeramachaneni-internal-medicine",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "IDENTITY: 'Veeramachaneni' is a distinctive Telugu surname and only ONE Dr Bharat Veeramachaneni surfaces anywhere in Hyderabad, so there is no merge risk. Three facts agree across five independent directories (Practo, Credihealth, ClinicSpots, DocIndia, HealthTrip): name, city Hyderabad, and AIG Hospitals Gachibowli as his practice - the Practo page names the AIG Gachibowli address (Plot 2/3/4/5, Survey 136/1, Mindspace Road, Gachibowli 500032) that matches the source row's hospital, and ClinicSpots carries him on its AIG Gachibowli doctor list. NO OFFICIAL AIG PAGE EXISTS IN THE INDEX: three domain-restricted searches of aighospitals.com (name+cardiology, surname+AIG, and a general profile query) returned only other cardiologists (Dr C Narasimhan, Dr K Raghu, Dr Daljeet Kaur Saggu, Dr Shabbir Ali Shaik, Dr Varsha Kiron) and never this doctor, in any of the /doctor/, /doctors/, /doctor-profile/, /bh/ or /banjara-hills/ families. Nothing was constructed - hospital_profile is deliberately left blank. SPECIALTY DISCREPANCY FLAGGED FOR HUMAN REVIEW: the source row says Cardiology, but his own qualifications (MD General Medicine) and every profile except Credihealth's title say Internal Medicine / General Physician. Credihealth files him under 'cardiologist' in the URL slug while the body text describes internal-medicine experience, which looks like directory mis-categorisation. Recorded the specialty honestly rather than repeating the source row. BAND MEDIUM: identity and hospital are strongly and repeatedly corroborated, but every source is a corroborating directory - no .gov.in, hospital-own or academic page exists - so this cannot reach High. A healinindia/government query was folded into the LinkedIn query and returned nothing. NO EMAIL OR PHONE RECORDED: none appeared verbatim in any search output. JustDial listings exist for both his AIG and Challa practices but JustDial numbers are call-tracking proxies and are barred, so they were deliberately not recorded. LINKEDIN: appeared verbatim in search output as 'Bharat Veeramachaneni - Medical Doctor - Self-employed | LinkedIn', Hyderabad-based; distinctive surname plus doctor plus city, recorded exactly as returned including its trailing query string."
+}

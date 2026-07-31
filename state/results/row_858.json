@@ -1,0 +1,49 @@
+{
+  "row_id": 858,
+  "name": "Dr. Dilip Nandamuri",
+  "specialization": "Internal Medicine / General Physician & Diabetologist",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/online-doctor-consultation/product/dr-dilip-nandamuri/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-dilip-nandamuri-general-physician",
+  "lybrate": "https://www.lybrate.com/hyderabad/doctor/dr-dilip-nandamuri-general-physician",
+  "other_profiles": "https://starhospitals.in/site/doctorview/120/consultantphysiciananddiabetologist\nhttps://www.eka.care/doctor/dilip-nandamuri\nhttps://www.eka.care/doctor/dr-dilip-nandamuri\nhttps://www.1mg.com/doctors/dr-dilip-nandamuri-internal-medicine-in-hyderabad/DR-dvggp\nhttps://docmitra.com/hyderabad/general-physician/dr-dilip-nandamuri",
+
+  "indirect_method": "Yashoda online-consultation booking page for this doctor + Yashoda general medicine department team page",
+  "indirect_details": "Doctor's own Yashoda online consultation/booking page https://www.yashodahospitals.com/online-doctor-consultation/product/dr-dilip-nandamuri/ ; Yashoda general medicine consultant team page https://www.yashodahospitals.com/specialities/general-medicine-hospital-in-hyderabad/team-general-medicine-doctors/",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Sr. Consultant Physician & Diabetologist, Department of Internal Medicine, Yashoda Hospitals Hitec City; also described as Clinical Director",
+  "verified_experience": "Around 20 years of clinical experience per Yashoda page snippets (one Yashoda snippet also says 'close to a decade' - see notes); at Yashoda Hitec City since August 2022; brief states 21 years",
+  "owns_clinic": false,
+  "hni_signals": "Clinical Director title in the Department of Internal Medicine at Yashoda Hitec City; Senior Consultant grade; FCCP (USA); Principal Investigator on Phase II-IV clinical trials (SRT-501 resveratrol stage I / phase IIA, a Phase III lixisenatide diabetes study, a Phase III travellers' diarrhoea study); completed a clinical trial design course at CMC Vellore with the University of North Carolina; peer-reviewed publications including 'An uncommon cause of hypertension: Paraganglioma revisited' (CHRISMED J Health Res 2015)",
+
+  "sources": "hospital_profile: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/\nappointment_link: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-dilip-nandamuri/\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-dilip-nandamuri-general-physician\nlybrate: https://www.lybrate.com/hyderabad/doctor/dr-dilip-nandamuri-general-physician\nother_profiles: https://starhospitals.in/site/doctorview/120/consultantphysiciananddiabetologist\nspecialization: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/\ncity: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/\nverified_role: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/\nverified_experience: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/\nhni_signals: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/\nindirect_method: https://www.yashodahospitals.com/specialities/general-medicine-hospital-in-hyderabad/team-general-medicine-doctors/\nindirect_details: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-dilip-nandamuri/\nconfidence_band: https://www.yashodahospitals.com/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity confirmed on four signals: the official Yashoda URL encodes the branch and department (/doctor/hitech-city/general-medicine/) and the result title reads 'Best Physician in Hyderabad | Dr. Dilip Nandamuri'; a second Yashoda page title reads 'Dr. Dilip Nandamuri | Sr. Consultant Physician & Diabetologist'. Name + specialty (internal medicine/diabetology) + hospital + Hitec City branch + city all match the brief. CLINICAL DIRECTOR: an exact-phrase query for '\"Dilip Nandamuri\" \"Clinical Director\"' returned the Yashoda Hitec City profile as its top result and the summary described him as 'Consultant Physician & Diabetologist in the Department of Internal Medicine and Clinical Director' - wording that matches the brief's own title. Recorded in verified_role and hni_signals, but flagged here because I could not open the page to see the phrase in situ (WebFetch blocked). NO email and NO phone recorded: nothing institutional surfaced; the JustDial listing that appeared is a call-tracking proxy and was rejected per section 4, as were the aggregator 'contact number' pages (Lybrate, 365Doctor, DocMitra). URL VARIANT TO CHECK: two spellings of the branch segment came back verbatim across two searches - '/doctor/hitech-city/general-medicine/dr-dileep-nandamuri/' and '/doctor/hitec-city/general-medicine/dr-dileep-nandamuri/'. I recorded the first as returned; one is likely a redirect to the other. Note also that the Yashoda slug spells the name 'dr-dileep-nandamuri' while every page title spells it 'Dilip'. STALE/OTHER AFFILIATION TO CHECK: starhospitals.in carries a 'Dr. Dilip Nandamuri | Consultant Physician and Diabetologist' profile. Same name and same specialty in the same city, and the Yashoda snippet says he joined Hitec City in August 2022, so this is plausibly a prior post - but I could not confirm it is the same person, so it is filed under other_profiles only and is NOT counted toward the confidence band. Experience is inconsistent across Yashoda's own snippets ('close to a decade' in one, 'over 20 years' in another); the brief says 21 years, so I recorded ~20 years and flagged the discrepancy. Band is Medium not High: yashodahospitals.com is the only qualifying official domain, and several pages on one domain is still one domain. No LinkedIn, ORCID or Google Scholar profile surfaced (one query spent; absence is the normal result for this cohort) despite genuine publication and trial activity."
+}

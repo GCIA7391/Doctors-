@@ -1,0 +1,50 @@
+{
+  "row_id": 947,
+  "name": "Dr. Sukesh Rao Sankineani",
+  "specialization": "Orthopaedics - Shoulder Surgery, Arthroscopy and Sports Medicine, Joint Replacement",
+  "city": "Secunderabad (Hyderabad)",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "https://www.facebook.com/DrSukeshRao/",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Yashoda arthroscopy & sports medicine department listing: https://www.yashodahospitals.com/specialities/arthroscopy-sports-medicine/doctors/ | Yashoda-hosted YouTube playlist of his clinical explainers (hospital's channel, not his own account): https://www.youtube.com/playlist?list=PLHxmI7YPzcV14OYJ3SjXKaHTK_u4qS9Zm | HexaHealth (corroborating, Secunderabad): https://www.hexahealth.com/secunderabad/doctor/dr-sukesh-rao-sankineani-orthopedic-doctor | Skedoc (corroborating): https://www.skedoc.com/hyderabad/doctor/dr-sukesh-rao-sankineani-orthopaedic-surgeon",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant & Clinical Director - Shoulder Surgery, Arthroscopy and Joint Replacement, Yashoda Hospitals Secunderabad",
+  "verified_experience": "18 years in Orthopaedics (source row states 15 Years)",
+  "owns_clinic": false,
+  "hni_signals": "Clinical Director at Yashoda Hospitals Secunderabad - a hospital leadership role, matching the title in the source row. Exceptional international fellowship record: MS Orthopaedics from AIIMS Delhi, Fellowship in Shoulder Surgery & Hip Arthroscopy (France), Fellowship in Arthroscopy & Cartilage Surgery (Italy), and Fellowship in Hip & Knee Arthroscopy (AOA, Australia). Sub-specialises in revision total knee replacement and multi-ligament reconstruction - high-complexity, high-fee surgery. Maintains his own professional Facebook practice page and is used by the hospital as a clinical spokesperson. 98% patient recommendation score.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/\ncity: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/\nhospital_profile: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/\nfacebook: https://www.facebook.com/DrSukeshRao/\nother_profiles: https://www.yashodahospitals.com/specialities/arthroscopy-sports-medicine/doctors/\nverified_role: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/\nverified_experience: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/\nhni_signals: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/\nconfidence_band: https://www.yashodahospitals.com/doctor/secunderabad/arthroscopy-sports-medicine/dr-sukesh-rao-sankineani/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on five input facts: distinctive full name 'Sukesh Rao Sankineani', the exact specialty string from the source row (Shoulder Surgery, Arthroscopy, Joint Replacement), Yashoda Hospitals, the SECUNDERABAD branch - explicit in the official URL path /doctor/secunderabad/arthroscopy-sports-medicine/ - and the 'Clinical Director' title, which the hospital's own page confirms verbatim ('Senior Consultant & Clinical Director'). Band held at MEDIUM: yashodahospitals.com is the only official domain (it supplies several pages, but one domain), and HexaHealth/Skedoc are directory-grade corroboration which per the rubric cannot lift a row to High. FACEBOOK RECORDED, YOUTUBE NOT: the Facebook page is titled 'Dr.Sukesh Rao Shoulder, knee and sports surgeon' and is unambiguously his own professional practice page, so it is recorded. The YouTube playlist of his clinical explainers sits on YASHODA's channel, not an account of his, so the youtube field is left blank and the playlist is noted under other_profiles instead. EXPERIENCE: the hospital states 18 years against the source row's 15 - a 3-year gap, below the flagging threshold, but noted here. APPOINTMENT LINK BLANK: no per-doctor booking page surfaced for him, so the Yashoda Secunderabad route in the indirect fields is the correct next step. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

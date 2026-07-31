@@ -1,0 +1,49 @@
+{
+  "row_id": 1489,
+  "name": "Dr. Shreya Gopal Agarwal",
+  "specialization": "",
+  "city": "",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "confidence_band: https://www.aighospitals.com/doctors",
+  "confidence_band": "Unknown",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "NOT FOUND - all fields deliberately left blank. Five distinct searches produced no page anywhere on the open web for a Dr Shreya Gopal Agarwal in medical oncology at AIG Hospitals, or indeed in Hyderabad at all: (1) full name + medical oncology + AIG + Hyderabad; (2) domain-restricted search of aighospitals.com on 'Shreya Agarwal medical oncologist', which returned the AIG medical-oncology listing pages and OTHER oncologists (Dr Indraja Siripurapu, Dr Avinash Bonda) but never her, in any URL family; (3) 'Dr Shreya Agarwal' + medical oncologist + Hyderabad + AIG; (4) exact-phrase \"Shreya Gopal Agarwal\" + oncologist; (5) spelling variants 'Dr Shreya Agrawal' / 'Dr Shreya Gopal' + oncology + Hyderabad + AIG + LinkedIn. The AIG Gachibowli oncology rosters on Practo, HexaHealth, Skedoc and Credihealth were all surfaced and none carries her name. SAME-NAME PEOPLE FOUND AND CORRECTLY EXCLUDED, none of them this doctor: Dr Shreya Agarwal MD, paediatric haematologist-oncologist at UCSF Benioff Children's Hospitals, San Francisco (right specialty family, wrong country and wrong sub-specialty); Dr Shreya Agrawal, Consultant Anaesthesiologist and Pain Physician at CONTINENTAL Hospitals, Hyderabad (right city, wrong specialty, wrong hospital); Dr Shreya Goyal, medical oncologist in Brooklyn NY; and an unrelated 'Shreya Agarwal - Garden City Hospital' LinkedIn account. Nothing was recorded from any of them and no contact, URL or role was carried across. HUMAN ACTION SUGGESTED: the name may be transliterated differently in the source workbook (e.g. a compound Indian name where 'Gopal' is a middle/father's name), she may be a junior/registrar-grade doctor who is not published on the hospital roster, or the AIG affiliation may be stale. Only the AIG doctor-directory landing page is cited as provenance for the band, since that is the page whose absence of her name is the evidence."
+}

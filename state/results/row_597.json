@@ -1,0 +1,49 @@
+{
+  "row_id": 597,
+  "name": "Dr. Panduranga",
+  "specialization": "Cardiology - Interventional Cardiology (coronary angiography, primary/complex/multivessel PCI, FFR, IVUS- and OCT-guided PCI, congenital cath studies and device closure, pacemaker implantation, peripheral/carotid/renal intervention)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "CARE Hospitals HITEC City cardiology department listing (branch roster he appears on): https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-hi-tech-city/speciality/cardiology | CARE Hospitals HITEC City cardiologists centre-of-excellence listing: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-hi-tech-city/coe/cardiologists | Aggregator listings that surfaced on the CARE-anchored queries (corroborating only, single-name so treat with care): HexaHealth https://www.hexahealth.com/hyderabad/doctor/dr-panduranga-cardiologist , Credihealth https://www.credihealth.com/doctor/panduranga-cardiologist , DocIndia https://www.docindia.org/doctors/hyderabad/dr-panduranga-interventional-cardiology",
+
+  "indirect_method": "Official CARE Hospitals doctor profile / branch department page for CARE Hospitals HITEC City, Hyderabad",
+  "indirect_details": "Reach him through his own official CARE Hospitals doctor page https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga (carries the 'Book Appointment' route for this doctor), or via the Cardiology department roster for the HITEC City branch https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-hi-tech-city/speciality/cardiology . Department: Cardiology, CARE Hospitals, HITEC City, Hyderabad. No doctor-specific direct line, email, LinkedIn or personal site was found published anywhere.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Cardiologist (Interventional Cardiology), Cardiology, CARE Hospitals, HITEC City, Hyderabad",
+  "verified_experience": "Input row gives no experience figure. CARE's own profile text describes him as a leading heart specialist in HITEC City; aggregator listings quote conflicting figures (5 years on one, 14 years on another), so no experience value is asserted here.",
+  "owns_clinic": false,
+  "hni_signals": "Consultant interventional cardiologist at CARE Hospitals HITEC City - a premium metro campus of a large national hospital group. Practice profile is high-end interventional: primary PCI, multivessel and complex PCI, FFR, imaging-guided PCI using IVUS and OCT, congenital cath studies and device closure, temporary and permanent pacemaker insertion, peripheral arterial disease, carotid and renal intervention. Training chain is a strong-institution one: MBBS JJM Medical College Davangere, MD B J Government Medical College Pune, DM Cardiology King George's Medical University Lucknow. No ownership, directorship, HOD title, founder role, published procedure volume or second practice was found publicly stated, so none is claimed.",
+
+  "sources": "specialization: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\ncity: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\nhospital_profile: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-hi-tech-city/speciality/cardiology\nother_profiles: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-hi-tech-city/coe/cardiologists\nindirect_method: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\nindirect_details: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-hi-tech-city/speciality/cardiology\nverified_role: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\nverified_experience: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\nhni_signals: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/hitec-city/panduranga",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "HIGH AMBIGUITY NAME - single name, no surname - so identity was pinned strictly to the CARE branch. Verified on three criteria in one official line: the carehospitals.com result title 'Dr. Panduranga | Heart Specialist in HITEC City, Hyderabad | CARE Hospitals' on URL /doctor/hyderabad/hitec-city/panduranga matches name + specialty (cardiology) + hospital + exact branch (HITEC City) + city. He also appears on CARE's own HITEC City cardiology and cardiologists rosters, which are the same official source. Band is Medium: CARE Hospitals is the only official source; no government registry, university, ORCID or second hospital page exists for him. DISCARDED: the phone +91-40-68106529 that the search summary attached to him - that is CARE's group-wide central booking line, not his own number, and is barred by the brief. DELIBERATELY NOT RECORDED: a Practo profile 'Dr. Panduranga - Interventional Cardiologist in Sun city, Hyderabad' (practo.com/hyderabad/doctor/dr-panduranga-cardiologist) and a JustDial listing tying a 'Dr. Panduranga' to Shri Siddhi Vinayaka Super Speciality Heart Care Centre, Chevella Road / Sun City. A search summary asserted these were the same man as the CARE HITEC City consultant, but no page I saw stated both affiliations together, and with a single-word name that is exactly the merge risk rule 6 forbids. A Skedoc listing for 'Dr. Panduranga Patwari' was also left out for the same reason. A human should check whether the Sun City clinic is in fact his second practice - if it is, it would be a meaningful ownership signal and would change owns_clinic to true. No email, phone, LinkedIn, website or research profile is published for him."
+}

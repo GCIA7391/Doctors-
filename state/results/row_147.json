@@ -1,0 +1,49 @@
+{
+  "row_id": 147,
+  "name": "Dr Hemanth Chirumamilla",
+  "specialization": "Internal Medicine / General Medicine",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Apollo Hospitals Financial District - Internal Medicine department appointment route",
+  "indirect_details": "No doctor-specific profile or booking URL for him surfaced in search. Reach him through the Internal Medicine / General Medicine department at Apollo Hospitals, Financial District (Nanakramguda), Hyderabad, where the hospital's own official Facebook account announced his joining (https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/). Apollo's Hyderabad internal-medicine booking page is https://www.apollohospitals.com/book-doctor-appointment/family-medicine-physician/hyderabad - this is a hospital-level page, not his personal booking page.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Internal Medicine / General Medicine consultant, Apollo Hospitals, Financial District, Hyderabad",
+  "verified_experience": "28+ years (as per the assigned record; search returned MBBS, MD General Medicine but no independently verbatim experience figure)",
+  "owns_clinic": false,
+  "hni_signals": "Newly welcomed as a consultant to Apollo Hospitals Financial District - announced on the hospital's own official Facebook account, which Apollo normally reserves for senior consultant hires. Reported qualifications MBBS, MD (General Medicine) with a ~28-year career, indicating a senior physician. No other public seniority signals (awards, academic posts, publications) were found in search.",
+
+  "sources": "specialization: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/\ncity: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/\nverified_role: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/\nverified_experience: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/\nhni_signals: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/\nindirect_method: https://www.apollohospitals.com/book-doctor-appointment/family-medicine-physician/hyderabad\nindirect_details: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/\nconfidence_band: https://www.facebook.com/apollo.hospitals.hyderabad/posts/we-are-delighted-to-welcome-dr-hemanth-chirumamilla-to-apollo-hospitals-financia/1473809680970800/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Two facts matched, but on only ONE official source, hence Medium. The single official source is Apollo Hospitals Hyderabad's own verified Facebook account, whose post title appeared verbatim in search: 'We are delighted to welcome Dr. Hemanth Chirumamilla ... to Apollo Hospitals Financia[l District]' - this confirms name + hospital + the exact assigned unit (Financial District). Specialty (Internal Medicine / General Physician, MBBS + MD General Medicine) and city (Hyderabad) were consistent across Apollo listing pages, but no doctor-specific apollohospitals.com or apollo247.com profile URL for him appeared in any of three searches, so hospital_profile, appointment_link and directory_profile are left blank rather than constructed. The FB post is the hospital's institutional page, not his own professional account, so it was NOT recorded in the facebook field. FOR HUMAN REVIEW - two open items: (1) one search summary asserted he practises at Apollo Health City, Jubilee Hills, which contradicts the verbatim Financial District evidence; the assigned record says Financial District and the verbatim source agrees, so Financial District was used. (2) Search surfaced 'Dr. C. Hemanth' / 'Dr. C Hemanth' / 'Dr. Hemanth C', a General Physician / Internal Medicine specialist in Hyderabad, on Practo, Lybrate, Skedoc, HexaHealth and 1mg. The initial 'C' plausibly stands for Chirumamilla and this is very likely the same person, but that link cannot be proven from search output alone, so none of those directory URLs were recorded - they are noted here purely as a lead. No email or phone was published anywhere in search output."
+}

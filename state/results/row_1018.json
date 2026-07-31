@@ -1,0 +1,50 @@
+{
+  "row_id": 1018,
+  "name": "Dr. G. Madhusudhan Reddy",
+  "specialization": "Urology & Renal Transplant Surgery - renal transplantation, endo-urology, laparoscopic and robotic urology, uro-oncology, andrology, laser urology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Skedoc profile (Urologist, Hyderabad): https://www.skedoc.com/hyderabad/doctor/dr-g-madhusudhan-reddy-urologist | Medifyhome profile: https://medifyhome.com/doctor/dr-g-madhusudhan-reddy-urologist/ | MedsurgeIndia profile: https://medsurgeindia.com/doctor/dr-madhusudhan-reddy/ | Yashoda urology department listing: https://www.yashodahospitals.com/specialities/urology/doctors/ | Yashoda kidney-transplant department listing: https://www.yashodahospitals.com/specialities/kidney-transplant/doctors/",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Renal Transplant Surgeon (Urology, Andrology, Uro-Oncology, Robotic Urology), Yashoda Hospitals Somajiguda",
+  "verified_experience": "11 years - matches the source row exactly; the figure appeared in search output attached to the official Yashoda Somajiguda profile.",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant heading renal transplant surgery, one of the highest-value surgical lines in Indian private medicine, plus robotic urology and uro-oncology. Training pedigree is unusually strong: MBBS Osmania Medical College, MS at PGI Chandigarh, MCh at Nizam's Institute of Medical Sciences (NIMS). Long OPD block (Mon-Sat 9:30 am to 6:00 pm) indicating a high-volume practice, and the hospital markets him to international patients, stating patients from over 25 countries.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\ncity: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\nhospital_profile: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\nappointment_link: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-g-madhusudhan-reddy-urologist\nverified_role: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\nverified_experience: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\nhni_signals: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/\nconfidence_band: https://www.yashodahospitals.com/doctor/somajiguda/urology/dr-g-madhusudhan-reddy/",
+
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Strongest match of this batch on facts: FIVE input facts agree on the official page - name 'Dr G. Madhusudhan Reddy', role 'Sr Consultant Renal Transplant Surgeon' matching the source row's 'Renal Transplant Surgeon', Yashoda Hospitals, the SOMAJIGUDA branch explicit in the official URL path /doctor/somajiguda/urology/, and 11 years of experience matching the source row exactly. KEPT SEPARATE from row 1015 (Dr Lalith Kumar Reddy Kanthala, HPB/liver transplant at Yashoda MALAKPET) - different people at different branches, no data shared. Band held at MEDIUM: yashodahospitals.com is the only official domain, and the extra Yashoda department and branch listing pages are the same domain, which per the brief adds no independence. Skedoc, Medifyhome and MedsurgeIndia are corroborating-only. SAME-NAME WEBSITE DELIBERATELY NOT RECORDED: a personal site exists at https://drmadhusudhanreddyuro.com/ for a 'Dr Madhusudhan Reddy', urologist and andrologist in Hyderabad with 10+ years including renal transplantation - specialty and city match, but a domain-restricted search of that site returned NO mention of Yashoda or Somajiguda and instead places him at PROXIMA SUPER SPECIALTY CLINICS, Kondapur. 'Madhusudhan Reddy' is a common Telugu name, so rather than risk merging two doctors this URL was left out of clinic_url and personal_website entirely and owns_clinic left false. A human should check whether the Kondapur clinic site is this same surgeon's private practice; if it is, that site is a second official source and would lift this row to High. NO EMAIL OR PHONE RECORDED: none appeared verbatim in any search output, including the domain-restricted query. No summary asserted a contact value, so nothing needed discarding. NO ORCID / SCHOLAR - none surfaced."
+}

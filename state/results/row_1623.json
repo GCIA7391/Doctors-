@@ -1,0 +1,50 @@
+{
+  "row_id": 1623,
+  "name": "Dr M V Naveen  Reddy",
+  "specialization": "Plastic, Cosmetic and Reconstructive Surgery",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon",
+  "clinic_url": "https://drnaveenhas.com/",
+  "personal_website": "https://drnaveenhas.com/",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-naveen-reddy-m-v-cosmetic-plastic-surgeon",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-m-v-naveen-reddy-febd7318-8751-45b5-a24b-c6100999b489",
+  "lybrate": "",
+  "other_profiles": "Gleneagles Lakdi-Ka-Pul plastic-surgery department page: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/speciality/plastic-cosmetic-reconstructive-surgery | Apollo Hospitals Secunderabad profile for the same surgeon: https://www.apollohospitals.com/doctors/plastic-surgeon/hyderabad/dr-m-v-naveen-reddy | Skedoc (corroborating): https://www.skedoc.com/hyderabad/doctor/dr-naveen-reddy-m-v-plastic-surgeon",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Plastic and Aesthetic Surgeon, Gleneagles Hospital Hyderabad (Lakdi-Ka-Pul); also Consultant Plastic Surgeon at Apollo Hospitals Secunderabad; founder of Dr. Naveen's Hyderabad Aesthetic Solutions (Gachibowli)",
+  "verified_experience": "23 years (Gleneagles official profile - matches this source row exactly)",
+  "owns_clinic": true,
+  "hni_signals": "Practises across multiple hospitals simultaneously (Gleneagles Lakdi-Ka-Pul, Apollo Secunderabad, BBR Super Speciality) and founded his own aesthetic-surgery clinic, Dr. Naveen's Hyderabad Aesthetic Solutions, in Gachibowli. Qualifications MBBS (K.L.E University of Health Sciences, Karnataka, 1996), MS General Surgery (K.L.E, 2000), MCh Plastic Surgery (University of Mumbai, 2004). Publicly stated volumes: 700+ rhinoplasties, 1000+ filler/botox procedures, 500+ hair transplants, 500+ burn reconstructions.",
+
+  "sources": "specialization: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon\ncity: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon\nhospital_profile: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon\ndirectory_profile: https://www.apollo247.com/doctors/dr-m-v-naveen-reddy-febd7318-8751-45b5-a24b-c6100999b489\npracto: https://www.practo.com/hyderabad/doctor/dr-naveen-reddy-m-v-cosmetic-plastic-surgeon\nclinic_url: https://drnaveenhas.com/\npersonal_website: https://drnaveenhas.com/\nother_profiles: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/speciality/plastic-cosmetic-reconstructive-surgery\nowns_clinic: https://drnaveenhas.com/\nverified_role: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon\nverified_experience: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon\nhni_signals: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon\nconfidence_band: https://www.gleneagleshospitals.co.in/hyderabad/lakdi-ka-pul/doctors/dr-m-v-naveen-reddy-plastic-surgeon",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "DUPLICATE-NAME COLLISION RESOLVED - this row and row 222 are the SAME PERSON, not two surgeons. The source list contains him twice because he holds two hospital affiliations: Gleneagles Hospital Lakdi-Ka-Pul (this row) and Apollo Hospitals Secunderabad (row 222). Evidence for one identity: both official profiles give the identical qualification timeline (MBBS K.L.E Karnataka 1996, MS General Surgery K.L.E 2000, MCh Plastic Surgery University of Mumbai 2004) and the same sub-specialty mix; a search summary drawn from his profiles states he consults at Gleneagles Hospitals, BBR Super Speciality, Apollo Hospitals Secunderabad and his own Gachibowli clinic. Identity matched on five input facts for this row: name, plastic/cosmetic/reconstructive specialty, Gleneagles Aware Hospital, the Lakdi-Ka-Pul unit (explicit in the official URL path), and the 23-year experience figure, which matches this source row exactly. Band High: three independent official domains agree (gleneagleshospitals.co.in, apollohospitals.com, apollo247.com). RECOMMENDED ACTION FOR THE CLIENT: treat rows 222 and 1623 as one prospect with two hospital affiliations; do not contact twice. DELIBERATELY NOT MERGED: 'Dr Naveen Kumar H R' is a different plastic surgeon at Gleneagles (https://gleneagleshospitals.co.in/doctors/naveen-kumar-h-r-0) and none of his data is used here. Also distinct from 'Dr. M Naveen Chandar Reddy', an orthopaedic surgeon who owns drnaveenreddyortho.com - unrelated person, no data taken. NO EMAIL OR PHONE RECORDED: none appeared verbatim in any search output; appointment_link left blank because Gleneagles publishes no per-doctor booking page, so the Tier-1 route is his own clinic site and the hospital's appointment page in the indirect fields. Researched directly in the main session (not by a subagent) because parallel research agents were failing on API overload at the time."
+}

@@ -1,0 +1,49 @@
+{
+  "row_id": 1292,
+  "name": "Dr. Arvind Muthirevula",
+  "specialization": "Cardiothoracic Surgery - Thoracic Surgery (minimally invasive VATS & RATS, complex airway reconstruction, chest wall surgery, lung transplant)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "dr.arvindm@aighospitals.com",
+  "professional_phone": "+919849230957",
+  "appointment_link": "",
+
+  "hospital_profile": "https://aighospitals.com/doctor/dr-arvind-reddy",
+  "clinic_url": "",
+  "personal_website": "http://drarvindreddythoracicsurgeon.com/",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.hexahealth.com/hyderabad/doctor/dr-arvind-reddy-cardiothoracic-and-vascular-surgeon",
+  "lybrate": "",
+  "other_profiles": "Own practice site - Thoracic Surgery page: https://drarvindreddythoracicsurgeon.com/thorecic-surgery | Own practice site - Robotic Surgery page: https://drarvindreddythoracicsurgeon.com/robotic-surgery | Own practice site - Lung Transplant page: http://drarvindreddythoracicsurgeon.com/lung-transplant",
+
+  "indirect_method": "Doctor's own practice website (published email + phone + appointment enquiry form) plus his official AIG Hospitals doctor profile",
+  "indirect_details": "His own professional practice site http://drarvindreddythoracicsurgeon.com/ publishes his direct email dr.arvindm@aighospitals.com and phone +919849230957 and carries an appointment enquiry form. His official AIG Hospitals doctor page is https://aighospitals.com/doctor/dr-arvind-reddy . Department: Cardiothoracic Surgery, AIG Hospitals, Gachibowli, Hyderabad.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Cardiothoracic / Thoracic Surgeon, Cardiothoracic Surgery, AIG Hospitals, Gachibowli, Hyderabad. UK-trained, board-certified thoracic surgeon; FRCS (CTh) via JCIE, UK; previously Cardiothoracic Surgeon at The Leeds Teaching Hospitals NHS Trust, Leeds, UK.",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "Premium high-acuity specialty (thoracic surgery, robotic/RATS and VATS, complex airway reconstruction, lung transplant). Runs his own branded professional practice website separate from the hospital site - a marketing/entrepreneurship signal. International credentials: FRCS (CTh) via the JCIE, UK, and a substantive UK NHS consultant-track post at The Leeds Teaching Hospitals NHS Trust before returning to India; MBBS SVMC Tirupati; 6-year DNB (Cardiothoracic Surgery) at Narayana Institute. Publicly stated procedure volumes (quoted verbatim from his own site): involved in the care of 'over 7000 patients', 'more than 2000 cardiothoracic procedures', 'over 1000 thoracic surgeries', '300+ airway procedures', '500+ VATS', '50+ robotic surgeries'. Conference faculty: presented 'Long-term Diagnostic Yield for Navigational Bronchoscopy: Analysis of Over 600 Procedures' at the SCTS Conference, March 2024; published case reports in thoracic surgery.",
+
+  "sources": "specialization: https://aighospitals.com/doctor/dr-arvind-reddy\ncity: https://aighospitals.com/doctor/dr-arvind-reddy\nprofessional_email: http://drarvindreddythoracicsurgeon.com/\nprofessional_phone: http://drarvindreddythoracicsurgeon.com/\nhospital_profile: https://aighospitals.com/doctor/dr-arvind-reddy\npersonal_website: http://drarvindreddythoracicsurgeon.com/\ndirectory_profile: https://www.hexahealth.com/hyderabad/doctor/dr-arvind-reddy-cardiothoracic-and-vascular-surgeon\nother_profiles: https://drarvindreddythoracicsurgeon.com/thorecic-surgery\nother_profiles: https://drarvindreddythoracicsurgeon.com/robotic-surgery\nother_profiles: http://drarvindreddythoracicsurgeon.com/lung-transplant\nindirect_method: http://drarvindreddythoracicsurgeon.com/\nindirect_details: http://drarvindreddythoracicsurgeon.com/\nverified_role: https://aighospitals.com/doctor/dr-arvind-reddy\nhni_signals: http://drarvindreddythoracicsurgeon.com/\nconfidence_band: https://aighospitals.com/doctor/dr-arvind-reddy",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "DUPLICATE-NAME NOTE: 'Dr. Arvind Muthirevula' appears TWICE in the 1,756-row source list. Everything recorded here is sourced ONLY to AIG Hospitals cardiothoracic surgery, Gachibowli, Hyderabad. The second same-name row must NOT be merged with this one without independent checking. Identity: the source row gives name 'Arvind Muthirevula' + Cardiothoracic Surgery + AIG Hospitals Gachibowli; searches resolve him to 'Dr. Arvind Reddy Muthirevula', whose own practice site drarvindreddythoracicsurgeon.com states he is a thoracic surgeon at AIG Hospital, Gachibowli, and whose AIG page (https://aighospitals.com/doctor/dr-arvind-reddy, titled 'Dr. Arvind Reddy - Cardiothoracic Surgery') matches on specialty + hospital + city. AIG's slug drops the surname ('dr-arvind-reddy'), which is normal for AIG. HUMAN CHECK: confirm 'Dr. Arvind Reddy' on the AIG page is the same person as Arvind Reddy Muthirevula - the tie is his own site naming AIG Gachibowli plus a full-name query returning that exact AIG page. CONTACT VERIFICATION: the email and phone were both re-checked with exact-phrase searches per the mandatory rule. Quoted search for \"dr.arvindm@aighospitals.com\" returned his own site drarvindreddythoracicsurgeon.com as an indexed page; quoted search for \"9849230957\" returned both drarvindreddythoracicsurgeon.com and his AIG profile page. Both values are therefore recorded as published on HIS OWN professional website, not derived from a pattern. A ZoomInfo listing for him also appeared in results and was DISCARDED as a barred broker source (it showed only a masked address ****@aighospitals.com anyway). Band is Medium not High: AIG Hospitals is one official source, and his own website - although the source of the contacts - is self-published and cannot be the independent second source; HexaHealth is corroborating only. No LinkedIn, ORCID or Scholar profile surfaced."
+}

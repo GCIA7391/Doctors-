@@ -1,0 +1,49 @@
+{
+  "row_id": 258,
+  "name": "Dr Antharvedi Santhi",
+  "specialization": "Obstetrics & Gynaecology / Reproductive Medicine - prenatal care, high-risk pregnancy, reproductive health and fertility, menopause management, adenomyosis and endometriosis",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/gynecologist/hyderabad/dr-antharvedi-santhi",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Official Apollo doctor profile and her own Apollo 24|7 booking page, plus the Apollo Hyderguda hospital booking page",
+  "indirect_details": "Book or route enquiries through her own Apollo 24|7 doctor page https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213 (which names her department and the Hyderguda location) or her official Apollo Hospitals profile https://www.apollohospitals.com/doctors/gynecologist/hyderabad/dr-antharvedi-santhi . Site-level route for her campus: Apollo Multispeciality Hospital Hyderguda booking page https://www.apollo247.com/hospital/apollo-hospitals-hyderguda-in-hyderguda-cb939fea-260d-4cc4-a47c-6ce1d3dbb3e5 , and the Hyderguda obstetrics-and-gynaecology consult listing https://www.apollo247.com/doctors/obstetrician-and-gynaecologists-in-hyderguda-hyderabad-scity . Apollo publishes no per-doctor phone or email, so use the hospital-level fallback for a switchboard route.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Obstetrician & Gynaecologist, Apollo Hospitals Hyderguda, Hyderabad",
+  "verified_experience": "15+ years per the Apollo Hospitals and Apollo 24|7 profiles (matches the input row); MBBS followed by MS in Obstetrics & Gynaecology",
+  "owns_clinic": false,
+  "hni_signals": "Consultant obstetrician-gynaecologist at Apollo Hyderguda with her own Apollo 24|7 booking page (Apollo creates those for consultants it markets directly). Clinical profile skews to high-acuity obstetrics - high-risk pregnancy management - plus reproductive health and menopause. Qualifications MBBS and MS (Obstetrics & Gynaecology). No published leadership title, society office, fellowship, award or media presence surfaced, so seniority signals are modest relative to other rows; nothing further is asserted.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/gynecologist/hyderabad/dr-antharvedi-santhi\ncity: https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213\nappointment_link: https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213\nhospital_profile: https://www.apollohospitals.com/doctors/gynecologist/hyderabad/dr-antharvedi-santhi\ndirectory_profile: https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213\nindirect_method: https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213\nindirect_details: https://www.apollo247.com/hospital/apollo-hospitals-hyderguda-in-hyderguda-cb939fea-260d-4cc4-a47c-6ce1d3dbb3e5\nverified_role: https://www.apollo247.com/doctors/dr-antharvedi-santhi-d9c414bf-4515-443b-84f3-086787b38213\nverified_experience: https://www.apollohospitals.com/doctors/gynecologist/hyderabad/dr-antharvedi-santhi\nconfidence_band: https://www.apollohospitals.com/doctors/gynecologist/hyderabad/dr-antharvedi-santhi",
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity verified on four criteria (name, specialty, hospital branch, city) plus experience, across TWO independent official sources that agree: (1) apollohospitals.com - 'Dr Antharvedi Santhi - Best Gynecologist in Hyderabad'; (2) apollo247.com - her own booking page titled 'Dr. Antharvedi Santhi | Obstetrician and Gynaecologist, HYDERGUDA', which pins the exact branch from the input row (Apollo Hospitals, Hyderguda). Both state 15+ years, matching the input row's 15+, and MBBS + MS (Obstetrics & Gynaecology). This is NOT the stale-affiliation pattern - the named hospital does publish her profile - so hospital_profile is populated and the band is High. UNRESOLVED SAME-SURNAME QUESTION, deliberately NOT merged, flagged for a human: rainbowhospitals.in publishes 'Dr. Santhi Anthervedi - Consultant Obstetrics and Gynecology' at Rainbow Children's Hospital, HIMAYATNAGAR, Hyderabad (rainbowhospitals.in/all/doctor/hyderabad/himayatnagar/obstetrics-maternity-hospital/dr-santhi-anthervedi-obstetrician-gynecologist). The surname is a rare variant spelling of the same name and the specialty and city match, which is suggestive - but a follow-up query returned 23 YEARS of experience and MBBS + MS from Rangaraya Medical College, Kakinada for the Rainbow doctor, against 15 years for the Apollo doctor. That 8-year gap is a material conflict on the best available discriminator, so under the never-merge-two-doctors rule the Rainbow URL was NOT recorded in any field of this row. It is either a previous/concurrent attachment with an out-of-date experience figure on one of the two sites, or a different clinician sharing an uncommon surname; a human should resolve it. If they are the same person, the Rainbow profile would be a second independent official source and possibly a better direct route. PRACTO AND OTHER DIRECTORIES DELIBERATELY LEFT BLANK: the only listings found were under heavily abbreviated names - 'Dr. A Santhi' (Practo, Nallakunta), 'Dr. A. Shanthi' (Practo), 'Dr. A. Santhi' (Vaidam), 'Dr. A.Santhi' (DocIndia). 'Santhi' is a very common Telugu given name and none of those pages states Apollo or Hyderguda, so filling them in would risk merging unrelated doctors. No email, phone, LinkedIn, personal or clinic website, social account or research profile (ORCID / Google Scholar / ResearchGate) surfaced for her in any query; Apollo publishes no per-doctor contact details, so every one of those fields is left blank rather than constructed. owns_clinic false - no evidence of an independent practice."
+}

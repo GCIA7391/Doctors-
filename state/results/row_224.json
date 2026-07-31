@@ -1,0 +1,50 @@
+{
+  "row_id": 224,
+  "name": "Dr Nitish Bhan",
+  "specialization": "Orthopaedics - Joint Replacement, Complex Trauma and Lower Limb Reconstruction",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-nitish-bhan-13ebe5f0-8b45-4996-b5bb-dd75bf0b2701",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-nitish-bhan-1-orthopedist",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-nitish-bhan-13ebe5f0-8b45-4996-b5bb-dd75bf0b2701",
+  "lybrate": "https://www.lybrate.com/hyderabad/doctor/dr-nitish-bhan-orthopedist",
+  "other_profiles": "Skedoc (corroborating): https://www.skedoc.com/hyderabad/doctor/dr-nitish-bhan-orthopaedic-surgeon | 1mg (corroborating): https://www.1mg.com/doctors/dr-nitish-bhan-orthopaedics-in-hyderabad/DR-w8pz9",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Orthopaedician / Orthopaedic and Joint Replacement Surgeon, Apollo Hospitals Financial District, Hyderabad",
+  "verified_experience": "18 years (matches the source row's 18+ Years)",
+  "owns_clinic": false,
+  "hni_signals": "Qualifications MBBS, DNB Orthopaedic Surgery, MCh Orthopaedics, MNAMS. Sub-specialises in Direct Anterior Approach (DAA) minimally invasive hip replacement, revision joint replacement, pelvic and acetabular trauma, and orthopaedic oncology - a high-complexity, high-fee surgical mix. Publicly associated with introducing tactileless hip replacement technique in India. Stated consultation fee Rs 1000.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan\ncity: https://www.apollo247.com/doctors/dr-nitish-bhan-13ebe5f0-8b45-4996-b5bb-dd75bf0b2701\nhospital_profile: https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan\nappointment_link: https://www.apollo247.com/doctors/dr-nitish-bhan-13ebe5f0-8b45-4996-b5bb-dd75bf0b2701\ndirectory_profile: https://www.apollo247.com/doctors/dr-nitish-bhan-13ebe5f0-8b45-4996-b5bb-dd75bf0b2701\npracto: https://www.practo.com/hyderabad/doctor/dr-nitish-bhan-1-orthopedist\nlybrate: https://www.lybrate.com/hyderabad/doctor/dr-nitish-bhan-orthopedist\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-nitish-bhan-orthopaedic-surgeon\nverified_role: https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan\nverified_experience: https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan\nhni_signals: https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan\nconfidence_band: https://www.apollohospitals.com/doctors/orthopaedic-surgeon/hyderabad/dr-nitish-bhan",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on four input facts: distinctive name 'Dr Nitish Bhan' (Kashmiri surname, only one Hyderabad orthopaedic surgeon by this name in the index), Orthopedics specialty, Apollo Hospitals, and the Financial District unit - stated explicitly in the search output and corroborated by the Practo listing's Nanakramguda location, which is the Financial District locality. Experience of 18 years matches the source row's '18+ Years' exactly, with no discrepancy. Band High: two independent official domains agree (apollohospitals.com and apollo247.com). NO EMAIL OR PHONE RECORDED: none appeared verbatim in any search output. Note that his Apollo 24|7 page states he does NOT offer online consultation, so the appointment link is for physical booking only - the practical route is that booking page or the Apollo appointment line in the indirect fields. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

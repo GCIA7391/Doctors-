@@ -1,0 +1,49 @@
+{
+  "row_id": 1537,
+  "name": "Dr. K. Raghu",
+  "specialization": "Cardiology - interventional and clinical cardiology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Second AIG page for the same doctor, branch-prefixed /bh/ family: https://aighospitals.com/bh/doctor/dr-k-raghu- | AIG Banjara Hills cardiology department page listing him: https://aighospitals.com/banjara-hills/speciality/cardiology | AIG Banjara Hills cardiology doctor listing: https://aighospitals.com/banjara-hills/doctors?speciality=29",
+
+  "indirect_method": "Official AIG Hospitals Banjara Hills doctor profile page and the AIG Banjara Hills Cardiology department route",
+  "indirect_details": "His official AIG Hospitals doctor page, which carries his title verbatim as 'Dr. K. Raghu Clinical Director of Cardiology & Senior Consultant Cardiologist', is https://aighospitals.com/banjara-hills/doctor/dr-k-raghu- (note the trailing hyphen in the slug - the URL is recorded exactly as returned). AIG publishes a second page for him at https://aighospitals.com/bh/doctor/dr-k-raghu- . The departmental route is AIG Banjara Hills Cardiology, https://aighospitals.com/banjara-hills/speciality/cardiology , with the consultant listing at https://aighospitals.com/banjara-hills/doctors?speciality=29 . As Clinical Director of Cardiology he heads that department, so departmental correspondence reaches him directly.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Clinical Director of Cardiology & Senior Consultant Cardiologist, AIG Hospitals, Banjara Hills, Hyderabad (title quoted verbatim from AIG's own doctor page)",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "Departmental leadership: AIG's own page titles him 'Clinical Director of Cardiology & Senior Consultant Cardiologist' - a Clinical Director post at AIG Banjara Hills, one of the group's flagship quaternary-care campuses, and a strong seniority and budget-authority signal. Elite training pedigree: MBBS and MD from Osmania University, and DM (Cardiology) from the Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum - a national Institute of National Importance and among the most competitive cardiology DM programmes in India. AIG publishes TWO distinct doctor pages for him (the /banjara-hills/ and the /bh/ families). No publicly stated procedure volume, no owned clinic, no personal website and no LinkedIn profile were found. No experience figure was supplied in the source row and none was verified.",
+
+  "sources": "specialization: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\ncity: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\nhospital_profile: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\nother_profiles: https://aighospitals.com/bh/doctor/dr-k-raghu-\nother_profiles: https://aighospitals.com/banjara-hills/speciality/cardiology\nother_profiles: https://aighospitals.com/banjara-hills/doctors?speciality=29\nindirect_method: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\nindirect_details: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\nverified_role: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\nhni_signals: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-\nconfidence_band: https://aighospitals.com/banjara-hills/doctor/dr-k-raghu-",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "INITIAL-HEAVY NAME - AIG + SPECIALTY REQUIREMENT WAS MET EXPLICITLY, so this row is Enriched rather than Ambiguous Match. AIG's OWN site returns a doctor page whose title is 'Dr. K. Raghu Clinical Director of Cardiology & Senior Consultant Cardiologist' at https://aighospitals.com/banjara-hills/doctor/dr-k-raghu- . That single page matches FOUR criteria at once - name ('Dr. K. Raghu', initial included), specialty (Cardiology), hospital (AIG Hospitals) and city (Hyderabad, Banjara Hills campus). A second AIG page for him exists at https://aighospitals.com/bh/doctor/dr-k-raghu- . Both URLs end in a trailing hyphen inside the slug; they are recorded EXACTLY as returned by search and were not 'corrected'.\n\nSAME-NAME AND SIMILAR-NAME DOCTORS DELIBERATELY EXCLUDED - THIS IS THE MAIN RISK ON THIS ROW:\n1. A DIFFERENT 'Dr. K Raghu' is indexed as a cardiologist at CARE Hospitals Banjara Hills (medijourney listing, 13 years, interventional cardiology). Same initial, same speciality, same suburb, different hospital. Nothing from that listing was recorded here.\n2. 'Dr. C. Raghu' is a well-known senior interventional cardiologist at Yashoda Hospitals Secunderabad with his own website drraghu.com. DIFFERENT INITIAL, DIFFERENT DOCTOR. drraghu.com was NOT recorded on this row - it belongs to Dr. C. Raghu, not Dr. K. Raghu. This is an easy and costly confusion; a human reviewer should not add it later.\n3. 'Dr. Raghu Chilukoori' and 'Dr. Raghu Samala' are separate AIG doctors and are unrelated to this row.\nBecause of 1 and 2, the Practo and Skedoc listings indexed as 'dr-k-raghu-cardiologist' were NOT recorded: nothing on them tied the listing to AIG rather than to the CARE Hospitals namesake, and under the never-merge rule an unattributable directory page is worth less than a blank field.\n\nBAND IS MEDIUM: aighospitals.com is ONE official source. AIG publishes two pages for him but a hospital group's several page families count once. No healinindia.gov.in, NMC/TSMC, university, ORCID or Scholar profile surfaced, so nothing independent exists to lift the row to High.\n\nNO EMAIL OR PHONE RECORDED. AIG publishes no per-doctor email or telephone number on his page, and no published direct line surfaced from any acceptable source. Nothing was constructed from the aighospitals.com domain."
+}

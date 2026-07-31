@@ -1,0 +1,50 @@
+{
+  "row_id": 261,
+  "name": "Dr K V Krishnamani",
+  "specialization": "Medical Oncology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "American Oncology Institute official profile (medical oncologist, Hyderabad): https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani | Citizens Specialty Hospital official profile (medical oncologist): https://www.citizenshospitals.com/doctor/dr-k-v-krishnamani | iCloudHospital listing referencing his American Oncology role: https://icloudhospital.com/doctors/k-v-krishnamani",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Medical Oncologist, Hyderabad. Publicly listed at American Oncology Institute and Citizens Specialty Hospital; the input's Apollo Financial District affiliation is NOT confirmed by any Apollo doctor-specific page - see notes.",
+  "verified_experience": "15+ years - MBBS 2005, postgraduation 2010, Medical Oncology specialisation 2014. Matches the source row's 15+ Years.",
+  "owns_clinic": false,
+  "hni_signals": "Research-active medical oncologist: holds publications in national, international and peer-reviewed journals, and presented a proffered paper at ESMO 2021 in Paris plus several papers and posters at other international conferences. Qualifications MBBS, DNB, DM. Appears to hold multiple simultaneous hospital affiliations, which is itself a seniority signal - but see the affiliation caveat in notes before using this row.",
+
+  "sources": "specialization: https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani\ncity: https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani\nother_profiles: https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani\nverified_role: https://www.citizenshospitals.com/doctor/dr-k-v-krishnamani\nverified_experience: https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani\nhni_signals: https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani\nconfidence_band: https://www.americanoncology.com/dr-profile/dr-k-v-krishnamani",
+
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "PARTIAL MATCH - AFFILIATION NOT CONFIRMED, so this row is deliberately held at Low / Needs Human Review despite the person being clearly identifiable. What IS confirmed: the name 'Dr K V Krishnamani', Medical Oncology specialty, Hyderabad, and the 15+ years experience figure (MBBS 2005, PG 2010, Medical Oncology 2014) all match the source row. What is NOT confirmed: the input places him at APOLLO HOSPITALS, FINANCIAL DISTRICT, but no Apollo doctor-specific profile page for him surfaced at all. The only Apollo URLs returned were generic Hyderabad oncology listing and hospital pages, not a page about him. Meanwhile two OTHER hospitals publish dedicated official profiles for him: American Oncology Institute (americanoncology.com) and Citizens Specialty Hospital (citizenshospitals.com). The Apollo Financial District association appeared only in synthesised search text, not in any indexed page attributable to him. This is most likely either a stale entry in the source list or a doctor who has moved, and it could also be a same-name collision - all three possibilities are live. ACTION REQUIRED: a human should confirm his current employer before this row is used for outreach. HOSPITAL_PROFILE DELIBERATELY LEFT BLANK: recording the American Oncology or Citizens URL in that field would misrepresent it as the input hospital's profile, so both are recorded under other_profiles instead. NO CONTACT DETAILS RECORDED: no email or phone appeared verbatim in search output, and no appointment link is recorded because the only booking routes found belong to hospitals other than the one in the source row. NOTE ON THE INDIRECT ROUTE: the pipeline appends the Apollo group's appointment route to this row automatically from the hospital named in the source data - given the unconfirmed affiliation, that route may reach the wrong institution for him. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

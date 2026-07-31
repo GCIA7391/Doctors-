@@ -1,0 +1,52 @@
+{
+  "row_id": 303,
+  "name": "Dr Prashanta Chihnara",
+  "specialization": "Neurosurgery (Neuro & Spine Surgery) - Neurosciences",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "+91 9347501410",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.apollohospitals.com/pt/doctors/general-surgeon/hyderabad/dr-prashanta-chihnara",
+  "clinic_url": "",
+  "personal_website": "https://www.drprashantaneuroandspinesurgeon.com/about.php",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Prathima Hospitals (Kachiguda) doctor profile: https://prathimahospitals.com/our_doctors/top-neurosurgeon-in-kachiguda/ | Own-practice location pages: https://drprashantaneuroandspinesurgeon.com/best-neurosurgeon-in-kachiguda.php , https://drprashantaneuroandspinesurgeon.com/best-head-injury-treatment-in-hyderguda-hyderabad.php",
+
+  "indirect_method": "Doctor's own practice website (publishes his direct number) plus second-hospital appointment desk",
+  "indirect_details": "Direct published number +91 9347501410 appears in the page title of his own site https://www.drprashantaneuroandspinesurgeon.com/about.php. He also consults at Prathima Hospitals, Kachiguda, whose published appointment line 7337336600 is printed across https://prathimahospitals.com/speciality/neurosciences/ (hospital line, not his personal line).",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "appointment_number": "",
+  "clinic_number": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant Neurosurgeon, Apollo Hospitals, Hyderguda, Hyderabad; also listed as Top Neurosurgeon (Brain & Spine) at Prathima Hospitals, Kachiguda. Former Assistant Professor, Department of Neurosurgery, NIMS Hyderabad; former Consultant Neurosurgeon, Gleneagles Hospital.",
+  "verified_experience": "12+ years",
+  "owns_clinic": false,
+  "hni_signals": "Runs his own branded practice website (drprashantaneuroandspinesurgeon.com) publishing a direct contact number and multiple location-specific practice pages (Kachiguda, Hyderguda, Nallakunta). Dual hospital practice: Apollo Hospitals Hyderguda and Prathima Hospitals Kachiguda. M.Ch Neurosurgery from NIMS Hyderabad; ex-Assistant Professor of Neurosurgery at NIMS; Neuro Endoscopy Fellowship (NSCB Medical College, Jabalpur); experience at AIIMS Bhopal. Sub-specialty focus in neuro-oncosurgery, minimally invasive and endoscopic spine surgery, epilepsy and paediatric neurosurgery.",
+
+  "sources": "specialization: https://prathimahospitals.com/our_doctors/top-neurosurgeon-in-kachiguda/\ncity: https://www.apollohospitals.com/pt/doctors/general-surgeon/hyderabad/dr-prashanta-chihnara\nprofessional_phone: https://www.drprashantaneuroandspinesurgeon.com/about.php\nhospital_profile: https://www.apollohospitals.com/pt/doctors/general-surgeon/hyderabad/dr-prashanta-chihnara\npersonal_website: https://www.drprashantaneuroandspinesurgeon.com/about.php\nother_profiles: https://prathimahospitals.com/our_doctors/top-neurosurgeon-in-kachiguda/\nindirect_details: https://prathimahospitals.com/speciality/neurosciences/\nverified_role: https://www.apollohospitals.com/pt/doctors/general-surgeon/hyderabad/dr-prashanta-chihnara\nverified_experience: https://www.apollohospitals.com/pt/doctors/general-surgeon/hyderabad/dr-prashanta-chihnara\nhni_signals: https://www.drprashantaneuroandspinesurgeon.com/about.php\nconfidence_band: https://prathimahospitals.com/our_doctors/top-neurosurgeon-in-kachiguda/",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Two independent official hospital sources agree: (1) Apollo Hospitals' own doctor page for Dr. Prashanta Chihnara (Hyderabad; returned on a /pt/ locale path with a 'general-surgeon' specialty segment - recorded verbatim as returned, slug matches the doctor), which states Consultant Neurosurgeon, M.Ch Neurosurgery, 12+ years, Apollo Hospitals Hyderguda; and (2) Prathima Hospitals' own doctor page 'Top Neurosurgeon in Kachiguda | Dr. Prashanta Chihnara'. Name + specialty + city + experience all match the brief. Phone +91 9347501410 was NOT taken from a search summary alone - it appears verbatim in the indexed page title of his own website (https://www.drprashantaneuroandspinesurgeon.com/about.php: 'Dr. Prashanta Chihnara | +91 9347501410') and was re-confirmed by an exact-phrase search on \"9347501410\", which returned his own site pages. Prathima's 7337336600 was exact-phrase re-checked and is the hospital's general appointment line printed across prathimahospitals.com speciality pages - recorded only as an indirect route, not as his personal number. No email published on any indexed page. Website root URL was never returned verbatim, so the verbatim /about.php URL is recorded rather than a constructed homepage URL."
+}

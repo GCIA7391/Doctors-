@@ -1,0 +1,49 @@
+{
+  "row_id": 703,
+  "name": "Dr. Swaroopa Chundru",
+  "specialization": "Medical Oncology",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.medibuddy.in/doctor-consultation/Hyderabad/doctor-profile/dr-chundru-swaroopa-id75043",
+  "lybrate": "",
+  "other_profiles": "Second CARE doctor-page slug returned for the same doctor: https://www.carehospitals.com/doctor/hyderabad/banjara-hills/swaroopa-chundru-medical-oncologist | Specialist listing: https://trysecondopinion.com/specialist/dr-swaroopa-chundru-m-b-b-s-dnb-radiation-oncology-dm-medical-oncology/",
+
+  "indirect_method": "Official CARE Hospitals doctor profile + oncology department listings",
+  "indirect_details": "Official doctor page: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist ; CARE Hyderabad oncology centre-of-excellence listing: https://www.carehospitals.com/doctor-list/hyderabad/coe/oncologists ; CARE Banjara Hills Outpatient Centre cancer-doctors listing (one of her stated practice sites): https://www.carehospitals.com/doctor-list/hyderabad/care-outpatient-centre-banjara-hills/speciality/cancer-doctors",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Medical Oncologist, CARE Hospitals - practises across CARE Hospitals Banjara Hills, CARE Hospitals Outpatient Centre Banjara Hills and CARE Hospitals Nampally, Hyderabad",
+  "verified_experience": "12 years (publicly stated on CARE profile)",
+  "owns_clinic": false,
+  "hni_signals": "Multi-site consultant - CARE publicly lists three Hyderabad practice locations for her (Banjara Hills hospital, Banjara Hills Outpatient Centre, Nampally); premium specialty (medical oncology, autologous bone marrow transplantation, immunotherapy and targeted therapy); dual higher qualifications MBBS, DNB Radiation Oncology, DM Medical Oncology; international society memberships ESMO and ASCO plus AROI life membership; stated involvement in 'clinical trials and research'; carried on CARE's national 'Best Oncologist in India' panel listing.",
+
+  "sources": "hospital_profile: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\ndirectory_profile: https://www.medibuddy.in/doctor-consultation/Hyderabad/doctor-profile/dr-chundru-swaroopa-id75043\nother_profiles: https://trysecondopinion.com/specialist/dr-swaroopa-chundru-m-b-b-s-dnb-radiation-oncology-dm-medical-oncology/\nindirect_method: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\nindirect_details: https://www.carehospitals.com/doctor-list/hyderabad/coe/oncologists\nverified_role: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\nverified_experience: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\nhni_signals: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\nspecialization: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\ncity: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/hitec-city/swaroopa-chundru-medical-oncologist",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity confirmed on name + specialty (medical oncology) + hospital group (CARE) + city (Hyderabad) from the official carehospitals.com doctor-page title and URL. The workbook lists her at CARE Nampally; CARE's own profile text states she practises at CARE Hospitals Banjara Hills, CARE Hospitals Outpatient Centre Banjara Hills AND CARE Hospitals Nampally, so the workbook affiliation is corroborated. Two different CARE doctor-page slugs for her (/hitec-city/ and /banjara-hills/) both appeared verbatim as search results; both are recorded, neither was constructed. Band Medium - CARE is the sole official source and no government, university or independent-hospital source surfaced. NO phone or email recorded: every search summary pushed +91-40-68106529, which is the CARE group central switchboard and is rejected per brief; no doctor-specific line, secretary number, or published personal email was found anywhere. No LinkedIn profile for her surfaced - queries for 'Swaroopa Chundru linkedin' returned only unrelated Hyderabad 'Swaroopa' clinics and a dermatologist Dr. K Swaroopa, which are different people and were correctly excluded."
+}

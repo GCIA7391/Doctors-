@@ -1,0 +1,49 @@
+{
+  "row_id": 899,
+  "name": "Dr. Vennela Rajamouli",
+  "specialization": "Dermatology - Clinical Dermatology (Consultant Dermatologist; phototherapy, cosmetic laser, radiofrequency, electrocautery; psoriasis, vitiligo, leprosy, wart/skin-tag removal)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.yashodahospitals.com/online-doctor-consultation/product/dr-vennela-rajamouli/",
+
+  "hospital_profile": "https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Skedoc (corroborating directory): https://www.skedoc.com/hyderabad/doctor/dr-vennela-rajamouli-dermatologist | iCloudHospital (corroborating, medical-travel listing naming Yashoda Hospitals): https://icloudhospital.com/doctors/vennela-rajamouli | Yashoda Hospitals Malakpet branch doctor index: https://www.yashodahospitals.com/locations/malakpet/doctors/ | Yashoda Hospitals dermatology department doctor index: https://www.yashodahospitals.com/specialities/dermatology/doctors/",
+
+  "indirect_method": "Own official Yashoda Hospitals doctor profile + Yashoda online video / OPD consultation booking page for this doctor",
+  "indirect_details": "Book directly on this doctor's own Yashoda booking page https://www.yashodahospitals.com/online-doctor-consultation/product/dr-vennela-rajamouli/ (Yashoda offers both Online Video Consultation and OPD Consultation for this doctor), or route via the official profile https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/ . Department: Dermatology, Yashoda Hospital, Malakpet, Hyderabad. The Malakpet branch doctor index is at https://www.yashodahospitals.com/locations/malakpet/doctors/ .",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Dermatologist, Department of Dermatology, Yashoda Hospital, Malakpet, Hyderabad",
+  "verified_experience": "Input row says 18 years. The Yashoda profile and derived listings state 24-25+ years of clinical dermatology experience - a discrepancy in the number only, not in identity; flagged for human check.",
+  "owns_clinic": false,
+  "hni_signals": "Senior Consultant Dermatologist at Yashoda Hospitals Malakpet (one of Yashoda's three Hyderabad campuses). Qualifications per the official profile: MBBS (Gandhi Medical College, Hyderabad) and DD - Diploma in Dermatology (Osmania Medical College, Hyderabad). Registered with the Hyderabad/Telangana Medical Council; member of IADVL (Indian Association of Dermatologists, Venereologists and Leprologists). Offers procedural/aesthetic dermatology (cosmetic laser, phototherapy, radiofrequency) alongside general clinical dermatology, and is carried on Yashoda's paid online-video-consultation panel.",
+
+  "sources": "specialization: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\ncity: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\nhospital_profile: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\nappointment_link: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-vennela-rajamouli/\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-vennela-rajamouli-dermatologist\nother_profiles: https://icloudhospital.com/doctors/vennela-rajamouli\nother_profiles: https://www.yashodahospitals.com/locations/malakpet/doctors/\nother_profiles: https://www.yashodahospitals.com/specialities/dermatology/doctors/\nindirect_method: https://www.yashodahospitals.com/online-doctor-consultation/product/dr-vennela-rajamouli/\nindirect_details: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\nverified_role: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\nverified_experience: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\nhni_signals: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/\nconfidence_band: https://www.yashodahospitals.com/doctor/malakpet/dermatology/dr-vennela-rajamouli/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Distinctive name; no rival same-name dermatologist with this exact surname appeared. Identity verified on four facts in a single official URL: the Yashoda Hospitals path itself encodes branch and department - /doctor/MALAKPET/DERMATOLOGY/dr-vennela-rajamouli/ - matching the input row on name + specialty (Dermatologist) + hospital (Yashoda) + branch (Malakpet) + city (Hyderabad). Band is Medium, NOT High, deliberately: every official page found sits on the single domain yashodahospitals.com (profile page, booking page, Malakpet branch index, dermatology department index), and per the brief several pages on one hospital domain is still one official domain. Skedoc and iCloudHospital are corroborating-only sources and cannot lift the band. IMPORTANT NEGATIVE FINDING - the aesthetic-clinic assets that surface on a name query belong to a DIFFERENT doctor and were deliberately excluded: 'Dr. Vennela's Skin & Hair Clinic' (drvennelas.com, Instagram @dr.vennelas, Facebook /Dr.Vennelas, Practo clinic listing) is run by Dr. Vennela REDDY in Uppal/Peerzadiguda/Boduppal, not by Dr. Vennela Rajamouli of Yashoda Malakpet. Recording any of those would have attached another practitioner's clinic, website and social accounts to this row, so clinic_url, personal_website, instagram, facebook and practo are all left blank and owns_clinic is false. No professional email or direct phone was published anywhere in search output - Yashoda does not publish per-doctor lines - so both are blank rather than guessed; contact runs through the doctor's own Yashoda booking page or the hospital-level fallback. No LinkedIn, ORCID, Google Scholar or ResearchGate profile appeared (expected for a Hyderabad private-practice clinical dermatologist). Two points for a human: (1) the experience figure - official profile says 24-25+ years vs 18 in the input row; (2) the Yashoda-derived summary text refers to this doctor as 'he' while 'Vennela' is normally a female given name, so gender was not asserted in any field."
+}

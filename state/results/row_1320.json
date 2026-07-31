@@ -1,0 +1,49 @@
+{
+  "row_id": 1320,
+  "name": "Dr. Tejas Chincholi",
+  "specialization": "",
+  "city": "",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "Department-level route only - AIG Hospitals Liver Transplant & Hepatobiliary Surgery department page. THE INDIVIDUAL'S AFFILIATION IS UNCONFIRMED; this is a route to the stated department, not to a verified profile.",
+  "indirect_details": "No doctor-specific route exists on the public record found here. The only lawful route is the department the input row names: AIG Hospitals Liver Transplant & Hepatobiliary Surgery, Gachibowli - department page https://aighospitals.com/gcb/speciality/liver-transplant-hepatobiliary-surgery , AIG multiorgan transplant page https://aighospitals.com/speciality/multiorgan-transplants , AIG doctor listings for this speciality https://aighospitals.com/doctors?speciality=28 and https://aighospitals.com/doctors?speciality=26 , AIG find-a-doctor index https://www.aighospitals.com/doctors , and AIG Gachibowli doctor search https://aighospitals.com/gcb/doctor-search . A human should ask the department directly whether Dr. Tejas Chincholi is on the Liver Transplant & HPB team.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "indirect_method: https://aighospitals.com/gcb/speciality/liver-transplant-hepatobiliary-surgery\nindirect_details: https://aighospitals.com/gcb/speciality/liver-transplant-hepatobiliary-surgery\nindirect_details: https://aighospitals.com/speciality/multiorgan-transplants\nindirect_details: https://aighospitals.com/doctors?speciality=28\nindirect_details: https://aighospitals.com/doctors?speciality=26\nindirect_details: https://www.aighospitals.com/doctors\nindirect_details: https://aighospitals.com/gcb/doctor-search\nconfidence_band: https://aighospitals.com/gcb/speciality/liver-transplant-hepatobiliary-surgery",
+  "confidence_band": "Unknown",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "NOT FOUND. Six targeted searches failed to connect any Dr. Tejas Chincholi to AIG Hospitals, Hyderabad, or to liver transplant / hepatobiliary surgery anywhere. Every identity field is therefore left blank rather than filled with a plausible-looking guess. Queries run: (1) '\"Dr. Tejas Chincholi\" AIG Hospitals liver transplant hepatobiliary surgery Hyderabad'; (2) 'Tejas Chincholi liver transplant hepatobiliary surgeon' restricted to aighospitals.com; (3) '\"Chincholi\" AIG Liver Conclave faculty liver transplant Hyderabad'; (4) '\"Tejas Chincholi\" surgeon LinkedIn OR fellowship OR HPB OR consultant'; (5) '\"Chincholi\" AIG Hospitals doctor' restricted to aighospitals.com; (6) '\"Dr Tejas Chincholi\" Hyderabad liver transplant AIG consultant surgeon'. WHAT THE AIG-RESTRICTED SEARCHES DID RETURN is the important negative evidence: query 2 surfaced the correct department and THREE named colleagues in exactly that unit - Dr. Sumana Kolar Ramachandra, Dr. Upasna C Bahure and Dr. Govindhu, each with a live per-doctor page in the /doctor/<slug> family - but no Chincholi page in any of the four AIG URL families. Query 5, a surname-only search restricted to the AIG domain, returned no Chincholi page either. So AIG's site indexes this department's surgeons well, and he is simply absent from it. That is consistent with a very recent joiner not yet published, a departure, or an error in the source list - it is NOT sufficient to record an affiliation. NO URL was constructed and no 404-titled page was recorded. TWO DIFFERENT REAL PEOPLE NAMED TEJAS CHINCHOLI WERE FOUND, and NEITHER matches this row - both are recorded here only so a future researcher does not mistake them for this doctor, and neither is written into any field: (a) Dr. Tejas Chincholi, GENERAL SURGEON in GULBARGA (Kalaburagi), KARNATAKA - MBBS Mahadevappa Rampure Medical College Gulbarga 2005, MS General Surgery Krishna Institute of Medical Sciences Karad 2015, practising at Chincholi Hospital, GB N Gunj, Gulbarga, listed on Practo (https://www.practo.com/gulbarga/doctor/dr-tejas-chincholi-general-surgeon) and DocIndia (https://www.docindia.org/doctors/gulbarga/dr-tejas-chincholi-surgery) with 7 years of experience. Wrong city, wrong state, wrong specialty - general surgery, not liver transplant or HPB - and no AIG or Hyderabad link anywhere. (b) A Tejas Chincholi in Collierville, TENNESSEE, USA, with a LinkedIn profile - wrong country. Merging either into this row would breach golden rule 6, so neither was used. Status is 'Needs Human Review' and band 'Unknown' per section 5, which directs exactly this for an unverifiable row. This is deliberately NOT marked 'Ambiguous Match': that value is reserved for two same-name people who genuinely cannot be told apart, whereas here the two same-name people are easy to tell apart and both are clearly the WRONG person - the problem is that the target individual is absent from the public record, not that he is confusable. NO contact, profile, role or HNI value is recorded, and owns_clinic is left false as an unverified default rather than a finding - note the Gulbarga namesake DOES appear to own 'Chincholi Hospital', which is precisely the kind of detail that would be dangerous to carry across. HIGHEST-VALUE HUMAN FOLLOW-UP: contact the AIG Liver Transplant & HPB department directly to confirm whether he is on staff, and check the source spreadsheet for a transcription error in the name."
+}

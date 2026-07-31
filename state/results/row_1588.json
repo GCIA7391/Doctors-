@@ -1,0 +1,49 @@
+{
+  "row_id": 1588,
+  "name": "Dr Parigala Hemanth",
+  "specialization": "Surgical Oncology - breast and oral cancer surgery, cytoreductive surgery with HIPEC for complex abdominal/peritoneal cancers, hepatopancreatobiliary surgery, laparoscopic and robotic (minimal access) cancer surgery, oncologic reconstruction, general surgery",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "Gleneagles Hospitals' own LinkedIn feature post introducing him ('Meet Dr Hemanth, Consultant - Surgical Oncology at Gleneagles AWARE Hospital ... from Breast and Oral cancer surgeries to advanced HIPEC'): https://www.linkedin.com/posts/gleneagles-hospitals_gleneagleshospitals-oncologyspecialist-activity-7425416055306571776-B8FV | Gleneagles LB Nagar surgical oncology department page: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/speciality/surgical-oncology | Gleneagles LB Nagar surgical oncologist doctor list: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/surgical-oncology",
+
+  "indirect_method": "Own official Gleneagles Hospitals LB Nagar doctor profile, backed by the LB Nagar Surgical Oncology department page and doctor list",
+  "indirect_details": "Route to him through his own official profile on the named hospital's site: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist . Department-level routes at the same campus: Surgical Oncology speciality page https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/speciality/surgical-oncology and the LB Nagar surgical oncologist listing https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/surgical-oncology . He consults in English, Telugu and Hindi. No per-doctor phone, email or personal booking URL is published, so the hospital-level fallback for Gleneagles Aware Hospital, LB Nagar is the switchboard route.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant - Surgical Oncology, Gleneagles AWARE Hospital, L.B. Nagar, Hyderabad (also published as a specialist in General Surgery and Minimal Access Surgery)",
+  "verified_experience": "12 years per his Gleneagles Hospitals profile - matches the input row's 12 Years exactly",
+  "owns_clinic": false,
+  "hni_signals": "Heavily credentialled minimal-access cancer surgeon: MBBS, MS (General Surgery), DNB (Surgical Oncology), FMAS, FALS (Robotics), FIAGES, EFIAGES. Performs advanced HIPEC / cytoreductive surgery for peritoneal and complex abdominal malignancy and hepatopancreatobiliary resections - high-complexity, high-value oncology work that hospitals market individually. Gleneagles Hospitals ran a dedicated LinkedIn feature post spotlighting him, which is a marketing/seniority signal rather than a routine listing. Academic track record too: has taught as an Assistant Professor and served as a Registrar, training surgical trainees.",
+
+  "sources": "specialization: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist\ncity: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist\nhospital_profile: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist\nother_profiles: https://www.linkedin.com/posts/gleneagles-hospitals_gleneagleshospitals-oncologyspecialist-activity-7425416055306571776-B8FV\nother_profiles: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/speciality/surgical-oncology\nother_profiles: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/surgical-oncology\nindirect_method: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist\nindirect_details: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/speciality/surgical-oncology\nverified_role: https://www.linkedin.com/posts/gleneagles-hospitals_gleneagleshospitals-oncologyspecialist-activity-7425416055306571776-B8FV\nverified_experience: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist\nhni_signals: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist\nconfidence_band: https://www.gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "IDENTITY IS CERTAIN, BAND IS HELD AT MEDIUM ON A SOURCE-COUNT TECHNICALITY. The official URL encodes the branch and specialty directly: gleneagleshospitals.co.in/hyderabad/lb-nagar/doctors/dr-parigala-hemanth-surgical-oncologist - that single line matches name + specialty (Surgical Oncology) + hospital + branch (L.B. Nagar) + city against the input row, and the profile independently states 12 years of experience, matching the row's 12 Years exactly. Qualifications published: MBBS, MS (General Surgery), DNB (Surgical Oncology), FMAS, FALS Robotics, FIAGES, EFIAGES. Gleneagles' own LinkedIn post names him 'Dr Hemanth, Consultant - Surgical Oncology at Gleneagles AWARE Hospital', which corroborates the AWARE branding in the input row. However every corroborating item traces back to ONE owner - the Gleneagles group (its website and its own LinkedIn company account) - and per the brief, pages on one hospital domain or within one hospital group count as a single official source. No second independent official source exists: three queries (specialty + hospital, LinkedIn/scholarly, Practo/healinindia/booking) turned up NO Practo profile, NO Apollo247 page, NO healinindia.gov.in listing, NO personal LinkedIn profile, NO clinic or personal website, and NO ORCID/Scholar/ResearchGate presence. This is therefore honestly Medium, not High. NO stale-affiliation problem here - the named hospital does publish his profile, and no competing hospital publishes him. NO email or phone recorded: Gleneagles publishes no per-doctor contact details and nothing appeared in any search output; nothing was constructed. appointment_link left BLANK deliberately - I could not confirm from search output that his profile page carries a personal booking widget, and I will not nominate a URL as 'his booking page' without evidence. Caution for a human: search results also surface a different 'Dr. Hemanth Vudayaraju', surgical oncologist at Yashoda Secunderabad, and a 'Dr. Hemanth G N' in Bangalore - both are DIFFERENT people and none of their details were used here."
+}

@@ -1,0 +1,51 @@
+{
+  "row_id": 491,
+  "name": "Dr. Geetha Nagasree N",
+  "specialization": "Surgical Oncology (gynaecological and breast cancer surgery)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "+91-9908216809",
+  "appointment_link": "",
+
+  "hospital_profile": "https://www.carehospitals.com/doctor/hyderabad/hitec-city/geetha-nagasree-n-surgical-oncologist",
+  "clinic_url": "",
+  "personal_website": "https://drgeethaoncologist.com/",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "https://gcpit.org/speaker/dr-geetha-nagasree/ (GCPIT conference speaker profile); https://drgeethaoncologist.business.site/ (Google Business practice listing)",
+
+  "indirect_method": "Doctor's own practice website contact page",
+  "indirect_details": "Contact page of her own website lists her practice line +91-9908216809 and consulting location CARE Super Specialty Hospital, Jayabheri Pine Valley, HITEC City, Hyderabad 500032, Mon-Sat 10am-5pm: http://drgeethaoncologist.com/contact-us/",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Senior Consultant Surgical Oncologist & Associate Clinical Director, CARE Hospitals HITEC City; also Senior Consultant Surgical Oncologist at Vivekananda Hospitals, Hyderabad; Founder, Asvins Cancer Care Foundation",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "Strong. Publicly described as \"Sr. Consultant and Associate Clinical Director\" at CARE Hospitals HITEC City and as \"the first & only MCh degree qualified lady Surgical Oncologist in Hyderabad and Telangana\". GCPIT speaker profile describes her as \"Senior Consultant Surgical Oncologist at Care Hospitals, Hyderabad and Vivekananda Hospitals, Hyderabad\" and \"founder of Asvins Cancer Care Foundation\" - i.e. multiple practice locations plus a foundation she founded. Awards/fellowships publicly stated: Times Healthcare Achievers Award 2017 \"Rising Star of The Year in Oncology\", Shingo Fuji Young Scientist Award, International Gynaecological Cancer Society (IGCS) Travelling Fellowship and IGCS Travel Grant Award. Executive Member of the National Executive Body of the Association of Gynecological Oncologists of India (AGOI). Runs her own branded practice website and Google Business listing. No publicly stated procedure volume found - none recorded.",
+
+  "sources": "hospital_profile: https://www.carehospitals.com/doctor/hyderabad/hitec-city/geetha-nagasree-n-surgical-oncologist\npersonal_website: https://drgeethaoncologist.com/\nprofessional_phone: http://drgeethaoncologist.com/contact-us/\nother_profiles: https://gcpit.org/speaker/dr-geetha-nagasree/\nspecialization: https://www.carehospitals.com/doctor/hyderabad/hitec-city/geetha-nagasree-n-surgical-oncologist\ncity: https://www.carehospitals.com/doctor/hyderabad/hitec-city/geetha-nagasree-n-surgical-oncologist\nverified_role: https://gcpit.org/speaker/dr-geetha-nagasree/\nhni_signals: https://gcpit.org/speaker/dr-geetha-nagasree/\nindirect_method: http://drgeethaoncologist.com/contact-us/\nindirect_details: http://drgeethaoncologist.com/contact-us/\nconfidence_band: https://www.carehospitals.com/doctor/hyderabad/hitec-city/geetha-nagasree-n-surgical-oncologist",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity confirmed on name + specialty + hospital + branch in a single official title: the CARE Hospitals page 'Best Surgical Oncologist in HITEC City | Dr. Geetha Nagasree N' on the /doctor/hyderabad/hitec-city/ path, matching the assigned CARE HITEC City address. She also maintains her own practice website drgeethaoncologist.com, whose contact page gives the same consulting address (CARE Super Specialty Hospital, Jayabheri Pine Valley, HITEC City 500032). PHONE: +91-9908216809 is a mobile, but it is published by the doctor's own practice website as her consulting contact, which rule 4 permits; it was re-checked with an exact-phrase search on \"9908216809\", which returned her own site pages - treat as practice-published rather than institutional. Explicitly REJECTED: +91-40-68106529 (CARE central switchboard, offered by the search summary as her number), plus HexaHealth (8069923891 / hello@hexahealth.com) and ZenOnco (+91 99 3070 9000) aggregator helplines. No personal email published anywhere indexed. Band is Medium, not High: carehospitals.com is the only OFFICIAL source; her own website and the GCPIT speaker page are self-published/primary and cannot earn High. Ownership: she is publicly named founder of Asvins Cancer Care Foundation (a foundation, not a clinic she is stated to own), so owns_clinic left false - a human may wish to review that judgement.",
+
+  "_": ""
+}

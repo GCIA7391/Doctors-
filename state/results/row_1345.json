@@ -1,0 +1,49 @@
+{
+  "row_id": 1345,
+  "name": "Dr. Nudurupati Raja Rao",
+  "specialization": "Cardiothoracic Surgery",
+  "city": "",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "AIG Hospitals cardiothoracic surgery speciality page (department-level route only - he is NOT named on it): https://aighospitals.com/speciality/cardiothoracic-surgery | AIG cardiothoracic surgeon listing on Practo (department-level, he is not named): https://www.practo.com/secunderabad/hospital/aig-hospitals-gachibowli-3/cardiothoracic-surgeon-ps-106 | AIG doctor directory: https://www.aighospitals.com/doctors | AIG doctor search: https://www.aighospitals.com/doctor-search",
+
+  "indirect_method": "LinkedIn direct message, plus the AIG Hospitals Cardiothoracic Surgery department as a department-level fallback",
+  "indirect_details": "Only actionable personal route found: his LinkedIn profile https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a , result title 'RAJA RAO NUDURUPATI - Cardiothoracic Surgeon'. Department-level fallback, NOT confirmed to name him: Department of Cardiothoracic Surgery, AIG Hospitals, Hyderabad - https://aighospitals.com/speciality/cardiothoracic-surgery , with the searchable doctor directory at https://www.aighospitals.com/doctors and doctor search at https://www.aighospitals.com/doctor-search .",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "specialization: https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a\nlinkedin: https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a\nother_profiles: https://aighospitals.com/speciality/cardiothoracic-surgery\nother_profiles: https://www.practo.com/secunderabad/hospital/aig-hospitals-gachibowli-3/cardiothoracic-surgeon-ps-106\nother_profiles: https://www.aighospitals.com/doctors\nother_profiles: https://www.aighospitals.com/doctor-search\nindirect_method: https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a\nindirect_details: https://aighospitals.com/speciality/cardiothoracic-surgery\nconfidence_band: https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a",
+  "confidence_band": "Low",
+  "verification_method": "Search-verified",
+  "status": "Needs Human Review",
+  "notes": "REAL PERSON FOUND, AIG AFFILIATION NOT CONFIRMED. Six query variations were run - 'Nudurupati Raja Rao' + cardiothoracic + AIG + Hyderabad; the LinkedIn slug in quotes; 'Dr. N Raja Rao' / 'Dr Raja Rao Nudurupati'; 'Nudurupati' + AIG; a domain-restricted search of aighospitals.com for 'Raja Rao Nudurupati cardiothoracic surgeon'; and 'Nudurupati Raja Rao' / 'N Raja Rao' + MCh. EXACTLY ONE result for this person exists in the index: the LinkedIn profile https://in.linkedin.com/in/raja-rao-nudurupati-44496b31a , titled 'RAJA RAO NUDURUPATI - Cardiothoracic Surgeon'. That title matches the source row on TWO facts - the distinctive Telugu surname Nudurupati (no rival same-name clinician appeared in any query) and the exact specialty, Cardiothoracic Surgery. It does NOT state a hospital or a city, and the profile body was not exposed in search output, so AIG and Hyderabad remain unverified. WHY THIS IS 'Needs Human Review' AND NOT 'Ambiguous Match': there is no second same-name person to confuse him with - the issue is thin sourcing, not indistinguishability, so the LinkedIn URL is retained as the one actionable route rather than blanked. WHY THE BAND IS LOW: no OFFICIAL source carries him at all. The domain-restricted search of aighospitals.com returned only other cardiothoracic surgeons (Dr. C Sukesh Kumar Reddy, Dr. Arvind Reddy, Dr. T Ramakrishna Reddy) and department pages - no per-doctor page for him in ANY of the four AIG URL families (/doctor/, /doctors/, /doctor-profile/, /gcb/ or /bh/ campus paths). No AIG URL was constructed for him, correctly. He is also absent from the Practo and Credihealth listings of AIG Gachibowli cardiothoracic surgeons. Note AIG's index coverage is incomplete, so absence is not proof he does not work there - but it is not evidence that he does. DO NOT CONFUSE HIM WITH, and none of these were used: Dr. P. N. Rao (cardiac surgeon, Sunshine Hospitals Hyderabad), Dr. K. V. Rajasekhara Rao (Renova Hospitals), Dr. N. Nageswara Rao (Yashoda Secunderabad), or Dr. P. Naga Raja Rao - all different people whose names collide on 'Rao'. No email, phone, hospital profile, appointment page, website or directory listing exists for him in the index; every such field is deliberately blank rather than guessed. city left blank because no source states it. HUMAN FOLLOW-UP, in order: (1) open the LinkedIn profile in a browser to read his current employer and confirm or refute AIG Hyderabad - this single step resolves the row; (2) use AIG's own doctor search https://www.aighospitals.com/doctor-search , filtered to Cardiothoracic Surgery, which renders client-side and is invisible to WebSearch; (3) check the Telangana State Medical Council register for the full name Nudurupati Raja Rao."
+}

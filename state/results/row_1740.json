@@ -1,0 +1,49 @@
+{
+  "row_id": 1740,
+  "name": "Dr. V. Satish Kumar Rao",
+  "specialization": "Cardiology (interventional cardiology)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.skedoc.com/hyderabad/doctor/dr-v-satish-kumar-rao-cardiologist",
+  "lybrate": "",
+  "other_profiles": "MyMediSage (Dr. Satish Kumar V Rao, Cardiologist, Hyderabad): https://mymedisage.com/profile/dr-satish-kumar-v-rao-v4 | Citi Neuro Centre Uppal cardiology department page naming him: https://citineurocentre.com/best-cardiology-hospital-in-uppal/ | Citi Neuro Centre Uppal hospital doctor list: https://www.skedoc.com/hyderabad/hospital/citi-neuro-centre-uppal",
+
+  "indirect_method": "Hospital appointments desk / appointments mailbox at Citi Neuro Centre, Uppal (cardiology department)",
+  "indirect_details": "Citi Neuro Centre group appointments line 9494984747 and appointments mailbox appointments@citineurocentre.in (published at http://www.citineurocenter.com/general-information.html and https://citineurocentre.com/contact/); ask for Cardiology at the Uppal campus, 2-3-215/H/A/NR, Shanthi Nagar, Uppal, Hyderabad. The Uppal cardiology department page is https://citineurocentre.com/best-cardiology-hospital-in-uppal/ . Online booking for him personally is offered on Skedoc: https://www.skedoc.com/hyderabad/doctor/dr-v-satish-kumar-rao-cardiologist",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "appointments@citineurocentre.in",
+  "secretary_number": "",
+  "hospital_number": "9494984747",
+
+  "verified_role": "Consultant Cardiologist, Cardiology department, Citi Neuro Centre - Uppal, Hyderabad",
+  "verified_experience": "Not published on any official page. Directory listings state MD and DM Cardiology (NIMS, Hyderabad); no year count confirmed, so left unquantified rather than estimated.",
+  "owns_clinic": false,
+  "hni_signals": "Consultant cardiologist at the Uppal branch of a 110-bed, four-branch Hyderabad hospital group (Banjara Hills, Uppal, Trimulgherry, Miyapur). DM Cardiology from NIMS Hyderabad per directory listings. He is one of only two cardiologists named by name in Citi Neuro Centre's own published patient testimonials on the Uppal cardiology page, which is a visibility/seniority signal but not a stated title. No founder, director or HOD title found; no own clinic or website found.",
+
+  "sources": "specialization: https://www.skedoc.com/hyderabad/doctor/dr-v-satish-kumar-rao-cardiologist\ncity: https://www.skedoc.com/hyderabad/doctor/dr-v-satish-kumar-rao-cardiologist\ndirectory_profile: https://www.skedoc.com/hyderabad/doctor/dr-v-satish-kumar-rao-cardiologist\nother_profiles: https://mymedisage.com/profile/dr-satish-kumar-v-rao-v4\nother_profiles: https://citineurocentre.com/best-cardiology-hospital-in-uppal/\nother_profiles: https://www.skedoc.com/hyderabad/hospital/citi-neuro-centre-uppal\nindirect_method: http://www.citineurocenter.com/general-information.html\nindirect_details: https://citineurocentre.com/best-cardiology-hospital-in-uppal/\nhospital_email: http://www.citineurocenter.com/general-information.html\nhospital_number: http://www.citineurocenter.com/general-information.html\nverified_role: https://citineurocentre.com/best-cardiology-hospital-in-uppal/\nverified_experience: https://www.skedoc.com/hyderabad/doctor/dr-v-satish-kumar-rao-cardiologist\nhni_signals: https://citineurocentre.com/best-cardiology-hospital-in-uppal/\nconfidence_band: https://citineurocentre.com/best-cardiology-hospital-in-uppal/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on name + specialty + branch + city. The one OFFICIAL source is Citi Neuro Centre's own Uppal cardiology page https://citineurocentre.com/best-cardiology-hospital-in-uppal/ , which names 'DR.Satish Kumar Rao' in published patient testimonials on that page - a hospital-site mention rather than a staff profile, so it is thin but it is on the institution's own domain and it ties the exact name to the exact branch and department in the source row. Corroborated (non-official) by Skedoc's doctor page 'Dr. V. Satish Kumar Rao, Cardiologist, Hyderabad' with an Uppal location, by Skedoc's Citi Neuro Centre Uppal hospital doctor list, and by a MyMediSage cardiologist profile under the reordered name form 'Dr. Satish Kumar V Rao'. Hence Medium, not High. MD / DM Cardiology (NIMS) comes only from directory text and is flagged as unconfirmed. NO personal email, mobile, direct line, LinkedIn or personal website exists in public search - nothing was constructed. The Citi Neuro numbers recorded here are HOSPITAL-level and are placed only in hospital_number / hospital_email / indirect fields. CITI NEURO CENTRE URL FINDING: the current site citineurocentre.com has no per-doctor profile pages - only a single roll-up https://citineurocentre.com/doctors/ and departmental pages. The LEGACY site publishes per-doctor pages as http://www.cityneurocenter.com/dr-<name-slug>.html (also served on citineurocentre.com and citineurocenter.com hosts), but only for neurosurgeons; no cardiology per-doctor page was found, so hospital_profile is blank rather than constructed."
+}

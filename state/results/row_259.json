@@ -1,0 +1,50 @@
+{
+  "row_id": 259,
+  "name": "Dr L Kiran Kumar Reddy",
+  "specialization": "Interventional Cardiology - complex coronary intervention (CTO, left main, bifurcation, high-risk angioplasty) and structural heart procedures (TAVI, MitraClip, LAAC, ASD/VSD/PDA closure)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/6fe9cb7d-1623-41e6-948d-625452dd082f",
+
+  "hospital_profile": "https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "https://www.linkedin.com/in/lakkireddykiran18/",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "https://www.practo.com/hyderabad/doctor/dr-l-kiran-kumar-reddy-cardiologist",
+  "directory_profile": "https://www.apollo247.com/doctors/6fe9cb7d-1623-41e6-948d-625452dd082f",
+  "lybrate": "",
+  "other_profiles": "Apollo Hyderabad region profile: https://www.apollohospitals.com/region/hyderabad/doctor/dr-l-kiran-kumar-reddy/",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Interventional Cardiologist, Apollo Hospitals, Jubilee Hills, Hyderabad. Also described as mentoring junior cardiologists and contributing to academic forums.",
+  "verified_experience": "Over 15 years (matches the source row's 15+ Years exactly)",
+  "owns_clinic": false,
+  "hni_signals": "Sub-specialises in the highest-value interventional cardiology procedures: chronic total occlusion and left-main/bifurcation angioplasty, and structural heart work including TAVI, MitraClip and left atrial appendage closure. TAVI and MitraClip in particular are premium-fee procedures performed by a small number of operators. Publicly described as an established leading figure in Hyderabad cardiac care who mentors junior cardiologists and contributes to academic forums. Full name appears as Kiran Lakkireddy; the 'L' initial is the Lakkireddy surname.",
+
+  "sources": "specialization: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy\ncity: https://www.apollohospitals.com/region/hyderabad/doctor/dr-l-kiran-kumar-reddy/\nhospital_profile: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy\nappointment_link: https://www.apollo247.com/doctors/6fe9cb7d-1623-41e6-948d-625452dd082f\ndirectory_profile: https://www.apollo247.com/doctors/6fe9cb7d-1623-41e6-948d-625452dd082f\nlinkedin: https://www.linkedin.com/in/lakkireddykiran18/\npracto: https://www.practo.com/hyderabad/doctor/dr-l-kiran-kumar-reddy-cardiologist\nother_profiles: https://www.apollohospitals.com/region/hyderabad/doctor/dr-l-kiran-kumar-reddy/\nverified_role: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy\nverified_experience: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy\nhni_signals: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy\nconfidence_band: https://www.apollohospitals.com/doctors/cardiologist/hyderabad/dr-l-kiran-kumar-reddy",
+
+  "confidence_band": "High",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on four input facts: name 'Dr L Kiran Kumar Reddy', Cardiac Sciences / Cardiology specialty, Apollo Hospitals, and the Jubilee Hills unit, which the search output states explicitly ('currently associated with Apollo Hospitals, Jubilee Hills, Hyderabad'), plus the 15+ years figure matching the source row exactly with no discrepancy. Band High: two independent official domains agree (apollohospitals.com, two pages, and apollo247.com). LINKEDIN RECORDED with reasoning: the profile slug is 'lakkireddykiran18' and the result title reads 'Kiran Kumar Reddy - Apollo Hospitals Hyderabad'. The full name Kiran Lakkireddy reconciles the 'L' initial in the source row with the slug, and the headline names the correct employer, so this is his own profile rather than a namesake. DELIBERATELY NOT RECORDED: an Apollo Spectra Ameerpet booking page exists for a 'Dr. L. Kiran Kumar Reddy' described as a GENERAL MEDICINE SPECIALIST - a different specialty at a different Apollo entity, so that is very likely a different person with the same common Telugu name and none of its data was used. His Practo listing places him in Raghavendra Colony-Kondapur, which is plausible as a second consulting location but is not the input's unit; recorded as a directory profile only, with the Jubilee Hills affiliation resting on the Apollo sources. NO EMAIL OR PHONE RECORDED: none appeared verbatim in search output. Researched directly in the main session (not by a subagent) because parallel research agents were being killed by sustained API overload at the time."
+}

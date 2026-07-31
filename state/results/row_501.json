@@ -1,0 +1,49 @@
+{
+  "row_id": 501,
+  "name": "Dr. Ippa Suresh",
+  "specialization": "",
+  "city": "",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "notes: https://www.carehospitals.com/doctor-list/hyderabad/care-hospital-banjara-hills/coe/cardiac-sciences",
+  "confidence_band": "Unknown",
+  "verification_method": "Search-verified",
+  "status": "Ambiguous Match",
+  "notes": "Four WebSearch queries (\"Dr. Ippa Suresh\" + CARE Banjara Hills; \"Ippa Suresh\" cardiologist Hyderabad profile; \"Ippa Suresh\"/\"Suresh Ippa\" MD DM cardiology electrophysiology; \"Ippa Suresh\" Banjara Hills appointment) returned NO per-doctor page for this name on carehospitals.com or anywhere else. Every returned result was either a CARE branch LISTING page (e.g. /doctor-list/hyderabad/care-hospital-banjara-hills/coe/cardiac-sciences, /doctor-list/hyderabad/care-hospital-banjara-hills/speciality/top-cardiologists) or a DIFFERENT doctor - most results resolved to 'Dr A Suresh', an interventional cardiologist in Visakhapatnam (Apollo/Medicover), who is not this person. The only assertions that Dr. Ippa Suresh practises at CARE Banjara Hills came from the WebSearch synthesised SUMMARY, not from any title or snippet in which his name appeared verbatim; per the exact-phrase rule that is not acceptable evidence. Given the brief's explicit instruction that this short, common name requires an explicit CARE Banjara Hills cardiology match, and the live risk of merging him with the Vizag 'Dr A Suresh', status is set to Ambiguous Match with every contact and profile field left blank. IMPORTANT: CARE's index coverage is known to be incomplete, so the absence of a per-doctor page is NOT evidence that the CARE Banjara Hills affiliation is stale - I concluded 'unindexed, unverifiable', not 'wrong hospital'. A human with direct access to the CARE Banjara Hills cardiac-sciences doctor list can resolve this in one page view. The number +91-40-68106529 offered by search summaries for CARE doctors is the CARE central switchboard and was not recorded."
+}

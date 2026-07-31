@@ -1,0 +1,49 @@
+{
+  "row_id": 1711,
+  "name": "Dr. V.M. Ravindran",
+  "specialization": "Cardiothoracic and Vascular Surgery (cardiac sciences; input row records the department as 'Cardiology')",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26",
+  "lybrate": "",
+  "other_profiles": "Skedoc (Consultant Cardio Thoracic Surgeon, Citi Neuro Centre Banjara Hills + Xenia Hospital ECIL): https://www.skedoc.com/hyderabad/doctor/dr-ravindran-cardio-thoracic-surgeon | Sehat: https://www.sehat.com/dr-vm-ravindran-cardiothoracic-surgeon-hyderabad | HexaHealth hospital doctor list (Citi Neuro Centre, Banjara Hill): https://www.hexahealth.com/hyderabad/hospital/citi-neuro-centre-banjara-hill | Indiacom listing (Olive Hospital, Mehdipatnam): https://www.indiacom.com/hyderabad/dr-v-m-ravindran-olive-hospital_hyderabad_hyd_1271076.html | Indiacom listing (BBR Super Speciality Hospital): https://www.indiacom.com/hyderabad/dr-v-m-ravindran-bbr-super-speciality-hospital_hyderabad_hyd_1213702.html",
+
+  "indirect_method": "Hospital appointments desk / email at Citi Neuro Centre (Banjara Hills), plus his own Apollo 24|7 booking page",
+  "indirect_details": "Citi Neuro Centre publishes a group appointments line 9494984747 and an appointments mailbox appointments@citineurocentre.in (see http://www.citineurocenter.com/general-information.html and https://citineurocentre.com/contact/); ask for the Cardiac Sciences / CTVS consultant at the Banjara Hills campus, Road No. 12, Venkateswara Colony, Banjara Hills, Hyderabad 500034. His own personal booking route is the Apollo 24|7 doctor page https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26 . He also consults at Xenia Hospital, ECIL/Cherlapalli.",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "appointments@citineurocentre.in",
+  "secretary_number": "",
+  "hospital_number": "9494984747",
+
+  "verified_role": "Consultant Cardio Thoracic (Cardiothoracic & Vascular) Surgeon - Citi Neuro Centre, Banjara Hills, Hyderabad; also Consultant Cardio Thoracic Surgeon at Xenia Hospital, ECIL",
+  "verified_experience": "31+ years per his Apollo 24|7 doctor page; directory listings state 41+ years. MCh Cardiothoracic Surgery, Madras Medical College (1992) per Skedoc, so a start date in the early 1990s is the consistent reading. Treat the exact figure as unconfirmed.",
+  "owns_clinic": false,
+  "hni_signals": "Senior super-specialist surgeon (MBBS, MS, MCh) with three-decade-plus career and a multi-hospital consulting footprint across Hyderabad - Citi Neuro Centre Banjara Hills, Xenia Hospital ECIL, and directory listings also placing him at Olive Hospital Mehdipatnam and BBR Super Speciality Hospital. MCh Cardiothoracic Surgery from Madras Medical College (1992). Skedoc reports Andhra Pradesh Medical Council registration 41229 (1998) - directory-sourced, not independently confirmed. No founder/director/HOD title and no own-clinic website found in public search.",
+
+  "sources": "specialization: https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26\ncity: https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26\nappointment_link: https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26\ndirectory_profile: https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26\nother_profiles: https://www.skedoc.com/hyderabad/doctor/dr-ravindran-cardio-thoracic-surgeon\nother_profiles: https://www.hexahealth.com/hyderabad/hospital/citi-neuro-centre-banjara-hill\nother_profiles: https://www.sehat.com/dr-vm-ravindran-cardiothoracic-surgeon-hyderabad\nindirect_method: http://www.citineurocenter.com/general-information.html\nindirect_details: https://citineurocentre.com/contact/\nhospital_email: http://www.citineurocenter.com/general-information.html\nhospital_number: http://www.citineurocenter.com/general-information.html\nverified_role: https://www.skedoc.com/hyderabad/doctor/dr-ravindran-cardio-thoracic-surgeon\nverified_experience: https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26\nhni_signals: https://www.skedoc.com/hyderabad/doctor/dr-ravindran-cardio-thoracic-surgeon\nconfidence_band: https://www.apollo247.com/doctors/dr-v-m-ravindran-79fcb3a3-46af-4b12-a714-f98df82bfa26",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "DUPLICATE-NAME FLAG: 'Dr. V.M. Ravindran' appears twice in the source workbook; this file records the Citi Neuro Centre, Banjara Hills instance (row 1711). A human should check whether the other instance is the same physical person under a second hospital affiliation - all evidence found points to ONE Hyderabad cardiothoracic surgeon consulting at several hospitals, not two people. Identity matched on three criteria: name (distinctive initials V.M.), sub-specialty (cardiothoracic/vascular - the 'Cardiology' department label in the source row is the closest departmental bucket), and city (Hyderabad). The Citi Neuro Centre Banjara Hills attachment is stated by Skedoc and HexaHealth's Citi Neuro Banjara Hill doctor list (both corroborating-only sources); the one OFFICIAL source is his Apollo 24|7 doctor page, hence Medium, not High. Note the Apollo 24|7 page is a doctor listing on Apollo's booking platform with a Secunderabad consulting address (Pollicetty Towers, St Johns Road, Bhagyanagar Colony) - it is NOT evidence he works at Apollo Hospitals. No personal email, mobile, LinkedIn or personal/clinic website surfaced anywhere; nothing was constructed. Only hospital-level Citi Neuro contacts are recorded, and they are in the indirect/hospital fields, never as his own line. CITI NEURO CENTRE URL FINDING (applies to all ~60 Citi Neuro rows): the LEGACY site publishes per-doctor profile pages at http://www.cityneurocenter.com/dr-<name-slug>.html and the same pages are also served on http://www.citineurocentre.com/dr-<name-slug>.html and http://www.citineurocenter.com/ - e.g. dr-vamsee-mohan.html, dr-samba-siva-reddy.html, dr-pavan-kumar.html - but coverage is essentially limited to NEUROSURGEONS. The current site citineurocentre.com has NO per-doctor pages: it has a single roll-up listing https://citineurocentre.com/doctors/ plus departmental pages (/best-cardiologists-hospital-citi-neuro-centre/, /best-cardiology-hospital-in-uppal/, /interventional-cardiology/, /noninvasive-cardiology/). No per-doctor page exists for this doctor on any Citi Neuro domain, so hospital_profile is left blank rather than constructed."
+}
