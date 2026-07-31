@@ -1,0 +1,49 @@
+{
+  "row_id": 1384,
+  "name": "Dr. Sai Sunil R",
+  "specialization": "",
+  "city": "",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "",
+  "indirect_details": "",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "",
+  "verified_experience": "",
+  "owns_clinic": false,
+  "hni_signals": "",
+
+  "sources": "confidence_band: no source - AIG Hospitals affiliation could not be confirmed for this initial-heavy name, so all contact and profile fields are deliberately blank per the no-merge rule",
+  "confidence_band": "Unknown",
+  "verification_method": "Search-verified",
+  "status": "Ambiguous Match",
+  "notes": "SET TO AMBIGUOUS MATCH ON INSTRUCTION - the brief required AIG plus the specialty to be stated EXPLICITLY for this initial-heavy name, and AIG never appears. All contact and profile fields are blank by design, not by oversight. WHAT WAS SEARCHED (five variations, all exhausted): 'Dr. Sai Sunil' / 'Sai Sunil Kishore' + cardiothoracic surgery + AIG Hospitals Hyderabad; 'Sai Sunil' + AIG Hospitals + cardiothoracic surgery + Gachibowli; 'Sai Sunil' + AIG / 'Asian Institute of Gastroenterology' + consultant heart lung; 'Dr. Sai Sunil R' / 'Sai Sunil Reddy' + cardiothoracic surgeon Hyderabad; and a domain-restricted search of aighospitals.com for 'Sai Sunil' cardiothoracic surgeon heart transplant. WHY THIS IS AMBIGUOUS AND NOT MERELY THIN: a real, well-documented 'Dr. Sai Sunil' DOES exist in Hyderabad cardiothoracic surgery, with an official hospital profile at Star Hospitals Banjara Hills titled 'Dr. Sai Sunil | Best Heart Transplant Surgeon in Hyderabad | Star Hospitals' (heart and aortic valve surgery, aortic valve replacement, heart transplant, heart port surgery), where he is designated 'Jr. Consultant in Cardiothoracic Surgery'. That candidate matches the source row on given name and on specialty and city - but the HOSPITAL CONTRADICTS the row, which says AIG. Two of the three checkable facts match and the third actively conflicts, which is precisely the case the no-merge rule exists for. Recording a Star Hospitals contact against an AIG row would silently assert an affiliation no source supports, so nothing from that profile has been recorded in any field - it is named here in notes only, as the lead a human should test. Compounding the doubt, the source row carries a trailing initial 'R' that no found source reproduces: the Star Hospitals doctor is published as plain 'Dr. Sai Sunil', so it cannot be confirmed that the two are the same person rather than two different surgeons who share a given name. The domain-restricted AIG search returned only other cardiothoracic surgeons (Dr. C Sukesh Kumar Reddy, Dr. Arvind Reddy) and department pages - no per-doctor page for him in ANY AIG URL family (/doctor/, /doctors/, /doctor-profile/, /gcb/, /bh/), and no AIG URL was constructed. He is likewise absent from the Practo, Credihealth and HexaHealth listings of AIG Gachibowli cardiothoracic surgeons. AIG's index coverage is incomplete, so absence is not proof of non-affiliation - but it is not evidence of affiliation either. HUMAN FOLLOW-UP, in order: (1) check the Star Hospitals Banjara Hills cardiothoracic profile and establish whether that surgeon's full name carries an 'R' initial and whether he previously worked at, or moved to, AIG; (2) query AIG's own doctor search at https://www.aighospitals.com/doctor-search filtered to Cardiothoracic Surgery, which renders client-side and is invisible to WebSearch; (3) check the Telangana State Medical Council register for a cardiothoracic surgeon registered as Sai Sunil R. Any one of these resolves the row; until then it must not be merged with the Star Hospitals surgeon."
+}
