@@ -255,6 +255,17 @@ page never surfaced. Do that.
   "CARE Hospital Banjara Hills". CARE's index coverage is incomplete — some real
   doctors have no per-doctor page indexed, so a missing page is not by itself
   evidence of a stale affiliation.
+- **AIG Hospitals** (`aighospitals.com`) — publishes per-doctor pages across FOUR
+  co-existing URL families, all seen verbatim: `/doctor/<dr-name-slug>` (singular,
+  commonest), `/doctors/<dr-name-slug>` (plural, older, partly decommissioned so
+  some now 404), `/doctor-profile/<dr-name-slug>`, and `/doctor-profile/<numeric-id>`.
+  One doctor may hold pages in several families at once. The slug encodes
+  **neither department nor branch** — specialty appears only as a numeric query
+  param on listings (`/doctors?speciality=20`) and branch only as an optional
+  leading `/gcb/` (Gachibowli) or `/bh/` (Banjara Hills) segment on search pages.
+  Best method: WebSearch with `allowed_domains=["aighospitals.com"]` on name +
+  specialty. **A result titled "404 Page Not Found" is a dead page, not a
+  profile — do not record it, and never construct a URL from these patterns.**
 - **Yashoda** — `yashodahospitals.com/doctor/<branch>/<speciality>/<name-slug>/`
   The branch segment is the single strongest branch evidence available. Both
   `hitec-city` and `hitech-city` spellings occur; one redirects to the other.
