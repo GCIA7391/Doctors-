@@ -1,0 +1,49 @@
+{
+  "row_id": 1323,
+  "name": "Dr. Roshni Agarwal",
+  "specialization": "Cardiothoracic and Vascular Surgery (CTVS)",
+  "city": "Hyderabad",
+  "country": "India",
+
+  "professional_email": "",
+  "professional_phone": "",
+  "appointment_link": "",
+
+  "hospital_profile": "",
+  "clinic_url": "",
+  "personal_website": "",
+  "linkedin": "https://www.linkedin.com/in/dr-roshni-agarwal-4bb83b153/",
+  "google_scholar": "",
+  "researchgate": "",
+  "orcid": "",
+
+  "twitter": "",
+  "facebook": "",
+  "instagram": "",
+  "youtube": "",
+
+  "practo": "",
+  "directory_profile": "https://www.hexahealth.com/hyderabad/doctor/dr-roshni-agarwal-cardiothoracic-and-vascular-surgeon",
+  "lybrate": "",
+  "other_profiles": "",
+
+  "indirect_method": "AIG Hospitals Cardiothoracic Surgery department page / AIG find-a-doctor directory",
+  "indirect_details": "No per-doctor AIG page is indexed for her under any of AIG's URL families. Route enquiries via the AIG Hospitals Cardiothoracic Surgery speciality page https://aighospitals.com/speciality/cardiothoracic-surgery or the AIG find-a-doctor directory https://www.aighospitals.com/doctors , asking for the CTVS department. Her own LinkedIn profile (Consultant, AIG Hospitals) is the most direct personal route: https://www.linkedin.com/in/dr-roshni-agarwal-4bb83b153/",
+  "best_way": "",
+
+  "department_email": "",
+  "hospital_email": "",
+  "secretary_number": "",
+  "hospital_number": "",
+
+  "verified_role": "Consultant (LinkedIn headline: 'Consultant - AIG Hospitals'; listed as Junior Consultant, Cardiothoracic & Vascular Surgery), AIG Hospitals, Hyderabad",
+  "verified_experience": "13 years (per HexaHealth doctor listing; source row gave no experience figure)",
+  "owns_clinic": false,
+  "hni_signals": "Consultant cardiothoracic & vascular surgeon at AIG Hospitals, Hyderabad - a premium high-acuity surgical specialty. Qualifications published as MBBS, DNB (CTVS). No ownership, founder, HOD or directorship signal found in public sources; appears to be an early/mid-career consultant rather than a department head.",
+
+  "sources": "specialization: https://www.hexahealth.com/hyderabad/doctor/dr-roshni-agarwal-cardiothoracic-and-vascular-surgeon\ncity: https://www.linkedin.com/in/dr-roshni-agarwal-4bb83b153/\nlinkedin: https://www.linkedin.com/in/dr-roshni-agarwal-4bb83b153/\ndirectory_profile: https://www.hexahealth.com/hyderabad/doctor/dr-roshni-agarwal-cardiothoracic-and-vascular-surgeon\nindirect_method: https://aighospitals.com/speciality/cardiothoracic-surgery\nindirect_details: https://www.aighospitals.com/doctors\nverified_role: https://www.linkedin.com/in/dr-roshni-agarwal-4bb83b153/\nverified_experience: https://www.hexahealth.com/hyderabad/doctor/dr-roshni-agarwal-cardiothoracic-and-vascular-surgeon\nhni_signals: https://www.hexahealth.com/hyderabad/doctor/dr-roshni-agarwal-cardiothoracic-and-vascular-surgeon\nconfidence_band: https://www.linkedin.com/in/dr-roshni-agarwal-4bb83b153/",
+  "confidence_band": "Medium",
+  "verification_method": "Search-verified",
+  "status": "Enriched",
+  "notes": "Identity matched on three criteria: name + hospital (LinkedIn result title 'Dr. Roshni Agarwal - Consultant - AIG Hospitals', located Hyderabad) and name + specialty + city (HexaHealth listing 'Dr. Roshni Agarwal - Cardiothoracic and Vascular Surgeon in Hyderabad', MBBS DNB CTVS, 13 years). Four AIG-domain searches (name+specialty, slug variants, doctor-profile family) returned NO per-doctor page for her in any of AIG's URL families - only speciality/listing pages - so hospital_profile is deliberately left blank rather than constructed. Band held at Medium: LinkedIn is primary self-published (not an official source per the banding rule) and HexaHealth is corroborating-only, so there is no independent official source to reach High; a healinindia.gov.in query returned nothing for her. HexaHealth's 8512830995 helpline and hello@hexahealth.com were seen but DISCARDED as aggregator helplines, not her line. An X account @roshniagarwal1 surfaced but could not be tied to this doctor, so it was omitted. Human check worth doing: whether AIG has since published a doctor page for her, and whether she remains at AIG."
+}
